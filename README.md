@@ -1,2 +1,2 @@
 # A-List
-A list app written in Java.
+An Android Java app to create lists with different categories and statuses.
