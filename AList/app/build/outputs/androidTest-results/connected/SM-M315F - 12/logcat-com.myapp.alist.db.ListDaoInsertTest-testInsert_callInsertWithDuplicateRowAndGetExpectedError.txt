@@ -1,0 +1,2 @@
+04-17 18:01:39.464 24018 24045 I TestRunner: started: testInsert_callInsertWithDuplicateRowAndGetExpectedError(com.myapp.alist.db.ListDaoInsertTest)
+04-17 18:01:39.475 24018 24045 I TestRunner: finished: testInsert_callInsertWithDuplicateRowAndGetExpectedError(com.myapp.alist.db.ListDaoInsertTest)

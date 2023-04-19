@@ -1,0 +1,7 @@
+04-17 18:01:39.115 24018 24045 I TestRunner: started: testQuery_callQueryWithAscendingDescriptionAndAscendingNameSortOrder(com.myapp.alist.db.ListDaoQueryTest)
+04-17 18:01:39.120  6034  6187 W QuickstepModelDelegate: handleUpdate targets : 9
+04-17 18:01:39.128  6034  6034 W SuggestedAppsViewImpl: pending predictedApps : 9, alpha: 0.0, overview: false
+04-17 18:01:39.128  4929  4929 E SurfaceFlinger: Attempt to update InputPolicyFlags without permission ACCESS_SURFACE_FLINGER
+04-17 18:01:39.130  6034  8116 I ViewRootImpl@ba39c16[LauncherActivity]: mWNT: t = android.view.SurfaceControl$Transaction@2ce45f2 fN = 5 com.android.systemui.shared.system.ViewRootImplCompat.mergeWithNextTransaction:62 com.android.quickstep.util.SurfaceTransactionApplier.lambda$scheduleApply$0$SurfaceTransactionApplier:94 com.android.quickstep.util.-$$Lambda$SurfaceTransactionApplier$Xj9m0ayWHIr2xvQnKB4EJdxg8RU.accept:6
+04-17 18:01:39.130  6034  8116 I ViewRootImpl@ba39c16[LauncherActivity]: mWNT: merge t to BBQ
+04-17 18:01:39.140 24018 24045 I TestRunner: finished: testQuery_callQueryWithAscendingDescriptionAndAscendingNameSortOrder(com.myapp.alist.db.ListDaoQueryTest)

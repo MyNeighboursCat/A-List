@@ -1,0 +1,2 @@
+04-17 18:01:39.549 24018 24045 I TestRunner: started: testUpdate_callUpdateWithInvalidRowIDAndGetNoUpdate(com.myapp.alist.db.ListDaoUpdateTest)
+04-17 18:01:39.560 24018 24045 I TestRunner: finished: testUpdate_callUpdateWithInvalidRowIDAndGetNoUpdate(com.myapp.alist.db.ListDaoUpdateTest)

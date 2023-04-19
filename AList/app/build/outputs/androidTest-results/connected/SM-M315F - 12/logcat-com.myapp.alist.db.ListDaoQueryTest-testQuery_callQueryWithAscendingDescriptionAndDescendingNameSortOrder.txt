@@ -1,0 +1,47 @@
+04-17 18:01:38.985 24018 24045 I TestRunner: started: testQuery_callQueryWithAscendingDescriptionAndDescendingNameSortOrder(com.myapp.alist.db.ListDaoQueryTest)
+04-17 18:01:38.986  6034  6034 W NavigableAppWidgetHostView: setResizeScaleResult() 1002/ 341 scaleToResize = 1.0(widget id = 5) 1edc90b 0,0-1002,341
+04-17 18:01:38.987  6034  6187 I Launcher.NotificationListener: notificationIsValidForUI : com.wsandroid.suite missingTitleAndText : false isGroupHeader : false
+04-17 18:01:38.987  6034  6187 I Launcher.NotificationListener: notificationIsValidForUI : com.wsandroid.suite missingTitleAndText : false isGroupHeader : false
+04-17 18:01:38.987  5274  7476 V WindowManager: Relayout Window{5540baa u0 com.sec.android.app.launcher/com.sec.android.app.launcher.activities.LauncherActivity}: viewVisibility=0 req=1080x2340 d0
+04-17 18:01:38.987  6034  6187 I Launcher.NotificationListener: notificationIsValidForUI : com.wsandroid.suite missingTitleAndText : false isGroupHeader : false
+04-17 18:01:38.987  6034  6187 I Launcher.NotificationListener: Full refresh isConnected : true active size : 3
+04-17 18:01:38.987  4929  5194 I SurfaceFlinger: id=6869 createSurf (1080x2340),-3 flag=40004, com.sec.android.app.launcher/com.sec.android.app.launcher.activities.LauncherActivity$_6034#0
+04-17 18:01:38.991  4929  5194 I SurfaceFlinger: id=6870 createSurf (0x0),-1 flag=24000, Surface(name=827a6a6 StatusBar)/@0x26f0a66 - animation-leash of insets_animation#1
+04-17 18:01:38.993  4929  5194 I SurfaceFlinger: id=6871 createSurf (0x0),-1 flag=24000, Surface(name=175e94d NavigationBar0)/@0xef769fd - animation-leash of insets_animation#0
+04-17 18:01:38.994  5274  7476 V WindowManager: Relayout hash=5540baa, pid=6034: mAttrs={(0,0)(fillxfill) sim={adjust=nothing} layoutInDisplayCutoutMode=shortEdges ty=BASE_APPLICATION fmt=TRANSPARENT wanim=0x10302f2
+04-17 18:01:38.994  5274  7476 V WindowManager:   fl=81910100
+04-17 18:01:38.994  5274  7476 V WindowManager:   pfl=1e020040
+04-17 18:01:38.994  5274  7476 V WindowManager:   vsysui=1700
+04-17 18:01:38.994  5274  7476 V WindowManager:   bhv=SHOW_TRANSIENT_BARS_BY_SWIPE
+04-17 18:01:38.994  5274  7476 V WindowManager:   fitSides= screenDimDuration=200000 naviIconColor=0}
+04-17 18:01:38.998  6034  6034 I ViewRootImpl@ba39c16[LauncherActivity]: Relayout returned: old=(0,0,1080,2340) new=(0,0,1080,2340) req=(1080,2340)0 dur=10 res=0x7 s={true 486629556224} ch=true fn=-1
+04-17 18:01:38.999  6034  6034 I ViewRootImpl@ba39c16[LauncherActivity]: [DP] dp(1) 1 android.view.ViewRootImpl.reportNextDraw:11442 android.view.ViewRootImpl.performTraversals:4198 android.view.ViewRootImpl.doTraversal:2924
+04-17 18:01:39.000  4929  4965 I SurfaceFlinger: id=6872 createSurf (0x0),-1 flag=24000, OneUiHome-BlurLayer#0
+04-17 18:01:39.009  6034  6034 I BadgeRenderer: Invalid count : 0
+04-17 18:01:39.010  6034  6034 I BadgeRenderer: Invalid count : 0
+04-17 18:01:39.011  4929  4965 I SurfaceFlinger: id=6873 createSurf (0x0),-1 flag=24004, Task=73#1
+04-17 18:01:39.011  4929  4929 I Layer   : id=6865 removeFromCurrentState Surface(name=827a6a6 StatusBar)/@0x26f0a66 - animation-leash of insets_animation#0 (111)
+04-17 18:01:39.012  4929  4929 I Layer   : id=6866 removeFromCurrentState Surface(name=175e94d NavigationBar0)/@0xef769fd - animation-leash of insets_animation#1 (111)
+04-17 18:01:39.012  4929  4929 I Layer   : id=6855 removeFromCurrentState Splash Screen com.myapp.alist.test$_5598#0 (111)
+04-17 18:01:39.012  4929  4929 I Layer   : id=6854 removeFromCurrentState 532075c Splash Screen com.myapp.alist.test#0 (111)
+04-17 18:01:39.012  4929  4929 I Layer   : id=6868 removeFromCurrentState Surface(name=532075c Splash Screen com.myapp.alist.test)/@0x45d49a7 - animation-leash of window_animation#0 (111)
+04-17 18:01:39.012  4929  4929 I SurfaceFlinger: id=6854 Removed 532075c Splash Screen com.myapp.alist.test#0 (111)
+04-17 18:01:39.012  4929  4929 I SurfaceFlinger: id=6855 Removed Splash Screen com.myapp.alist.test$_5598#0 (111)
+04-17 18:01:39.012  4929  4929 I SurfaceFlinger: id=6865 Removed Surface(name=827a6a6 StatusBar)/@0x26f0a66 - animation-leash of insets_animation#0 (111)
+04-17 18:01:39.012  4929  4929 I SurfaceFlinger: id=6866 Removed Surface(name=175e94d NavigationBar0)/@0xef769fd - animation-leash of insets_animation#1 (111)
+04-17 18:01:39.012  4929  4929 I SurfaceFlinger: id=6868 Removed Surface(name=532075c Splash Screen com.myapp.alist.test)/@0x45d49a7 - animation-leash of window_animation#0 (111)
+04-17 18:01:39.012  4929  4929 I Layer   : id=6868 Destroyed Surface(name=532075c Splash Screen com.myapp.alist.test)/@0x45d49a7 - animation-leash of window_animation#0
+04-17 18:01:39.012  4929  4929 I Layer   : id=6854 Destroyed 532075c Splash Screen com.myapp.alist.test#0
+04-17 18:01:39.012  4929  4929 I Layer   : id=6865 Destroyed Surface(name=827a6a6 StatusBar)/@0x26f0a66 - animation-leash of insets_animation#0
+04-17 18:01:39.012  4929  4929 I Layer   : id=6866 Destroyed Surface(name=175e94d NavigationBar0)/@0xef769fd - animation-leash of insets_animation#1
+04-17 18:01:39.013  5274  7486 D InputDispatcher: Focus request (0): 5540baa com.sec.android.app.launcher/com.sec.android.app.launcher.activities.LauncherActivity but waiting because NOT_VISIBLE
+04-17 18:01:39.014  4929  4929 I Layer   : id=6855 Destroyed Splash Screen com.myapp.alist.test$_5598#0
+04-17 18:01:39.017  4929  4929 D SurfaceFlinger: Display 0 HWC layers:
+04-17 18:01:39.017  4929  4929 D SurfaceFlinger:      DEVICE | 0x71a58be6c0 | 0102 | RGBA_8888    |    0.0    0.0 1080.0 2340.0 |    0    0 1080 2340 | com.myapp.alist.test/androidx.test.c[...]tivityInvoker$EmptyActivity$_24160#0
+04-17 18:01:39.017  4929  4929 D SurfaceFlinger:      DEVICE | 0x71a58bf200 | 0100 | RGBA_8888    |    0.0    0.0 1080.0   78.0 |    0    0 1080   78 | StatusBar$_5598#0
+04-17 18:01:39.017  4929  4929 D SurfaceFlinger:      DEVICE | 0x71a599a6c0 | 0100 | RGBA_8888    |    0.0    0.0   67.0  362.0 | 1013 1637 1080 1999 | com.samsung.android.app.cocktailbars[...]arservice.CocktailBarService$_7578#0
+04-17 18:01:39.017  4929  4929 D SurfaceFlinger:      DEVICE | 0x71a58dcfc0 | 0100 | RGBA_8888    |    0.0    0.0 1080.0  126.0 |    0 2214 1080 2340 | NavigationBar0$_5598#0
+04-17 18:01:39.017  4929  4929 D SurfaceFlinger:      DEVICE | 0x7170160d40 | 0140 | RGBA_8888    |    0.0    0.0 1080.0  151.0 |    0    0 1080  151 | ScreenDecorOverlay$_5598#0
+04-17 18:01:39.017  4929  4929 D SurfaceFlinger:      DEVICE | 0x71a3dca740 | 0140 | RGBA_8888    |    0.0    0.0 1080.0  151.0 |    0 2189 1080 2340 | ScreenDecorOverlayBottom$_5598#0
+04-17 18:01:39.017  4929  4929 D SurfaceFlinger:
+04-17 18:01:39.017 24018 24045 I TestRunner: finished: testQuery_callQueryWithAscendingDescriptionAndDescendingNameSortOrder(com.myapp.alist.db.ListDaoQueryTest)

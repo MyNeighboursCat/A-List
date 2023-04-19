@@ -1,0 +1,4 @@
+04-17 18:01:39.591 24018 24045 I TestRunner: started: testUpdate_callUpdateWithDuplicateRowAndGetExpectedData(com.myapp.alist.db.ListDaoUpdateTest)
+04-17 18:01:39.598  5274  7486 D ApplicationPolicy: isStatusBarNotificationAllowedAsUser: packageName = com.wsandroid.suite,userId = 0
+04-17 18:01:39.599  5274  7486 D ApplicationPolicy: isStatusBarNotificationAllowedAsUser: packageName = com.wsandroid.suite,userId = 0
+04-17 18:01:39.606 24018 24045 I TestRunner: finished: testUpdate_callUpdateWithDuplicateRowAndGetExpectedData(com.myapp.alist.db.ListDaoUpdateTest)

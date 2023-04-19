@@ -1,0 +1,2 @@
+04-17 18:01:39.562 24018 24045 I TestRunner: started: testUpdate_callUpdateWithInvalidDetailsAndGetNoUpdate(com.myapp.alist.db.ListDaoUpdateTest)
+04-17 18:01:39.575 24018 24045 I TestRunner: finished: testUpdate_callUpdateWithInvalidDetailsAndGetNoUpdate(com.myapp.alist.db.ListDaoUpdateTest)

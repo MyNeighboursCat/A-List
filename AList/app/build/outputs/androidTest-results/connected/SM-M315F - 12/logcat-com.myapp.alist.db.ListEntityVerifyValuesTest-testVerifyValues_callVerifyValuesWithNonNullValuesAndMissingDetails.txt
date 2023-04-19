@@ -1,0 +1,15 @@
+04-17 18:01:39.377 24018 24045 I TestRunner: started: testVerifyValues_callVerifyValuesWithNonNullValuesAndMissingDetails(com.myapp.alist.db.ListEntityVerifyValuesTest)
+04-17 18:01:39.379  4929  4929 I Layer   : id=6860 removeFromCurrentState com.myapp.alist.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity$_24160#0 (108)
+04-17 18:01:39.379  4929  4929 I Layer   : id=6859 removeFromCurrentState 8bcfcbf com.myapp.alist.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity#0 (108)
+04-17 18:01:39.379  4929  4929 I Layer   : id=6853 removeFromCurrentState ActivityRecord{5f39830 u0 com.myapp.alist.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity t74}#0 (108)
+04-17 18:01:39.379  4929  4929 I Layer   : id=6852 removeFromCurrentState Task=74#0 (108)
+04-17 18:01:39.379  4929  4929 I Layer   : id=6878 removeFromCurrentState Task=74#1 (108)
+04-17 18:01:39.379  4929  4929 I SurfaceFlinger: id=6853 Removed ActivityRecord{5f39830 u0 com.myapp.alist.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity t74}#0 (108)
+04-17 18:01:39.379  4929  4929 I SurfaceFlinger: id=6878 Removed Task=74#1 (108)
+04-17 18:01:39.379  4929  4929 I SurfaceFlinger: id=6859 Removed 8bcfcbf com.myapp.alist.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity#0 (108)
+04-17 18:01:39.379  4929  4929 I SurfaceFlinger: id=6860 Removed com.myapp.alist.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity$_24160#0 (108)
+04-17 18:01:39.379  4929  4929 I Layer   : id=6878 Destroyed Task=74#1
+04-17 18:01:39.379  4929  4929 I Layer   : id=6859 Destroyed 8bcfcbf com.myapp.alist.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity#0
+04-17 18:01:39.379  4929  4929 I Layer   : id=6860 Destroyed com.myapp.alist.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity$_24160#0
+04-17 18:01:39.380  4929  4929 I Layer   : id=6853 Destroyed ActivityRecord{5f39830 u0 com.myapp.alist.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity t74}#0
+04-17 18:01:39.382 24018 24045 I TestRunner: finished: testVerifyValues_callVerifyValuesWithNonNullValuesAndMissingDetails(com.myapp.alist.db.ListEntityVerifyValuesTest)

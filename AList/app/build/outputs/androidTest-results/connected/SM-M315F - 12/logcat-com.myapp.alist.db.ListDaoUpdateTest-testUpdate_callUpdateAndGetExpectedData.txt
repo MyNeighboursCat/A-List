@@ -1,0 +1,2 @@
+04-17 18:01:39.516 24018 24045 I TestRunner: started: testUpdate_callUpdateAndGetExpectedData(com.myapp.alist.db.ListDaoUpdateTest)
+04-17 18:01:39.532 24018 24045 I TestRunner: finished: testUpdate_callUpdateAndGetExpectedData(com.myapp.alist.db.ListDaoUpdateTest)

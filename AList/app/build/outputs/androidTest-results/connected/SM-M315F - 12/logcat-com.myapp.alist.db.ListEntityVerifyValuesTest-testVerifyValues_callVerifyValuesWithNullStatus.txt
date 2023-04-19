@@ -1,0 +1,2 @@
+04-17 18:01:39.403 24018 24045 I TestRunner: started: testVerifyValues_callVerifyValuesWithNullStatus(com.myapp.alist.db.ListEntityVerifyValuesTest)
+04-17 18:01:39.406 24018 24045 I TestRunner: finished: testVerifyValues_callVerifyValuesWithNullStatus(com.myapp.alist.db.ListEntityVerifyValuesTest)

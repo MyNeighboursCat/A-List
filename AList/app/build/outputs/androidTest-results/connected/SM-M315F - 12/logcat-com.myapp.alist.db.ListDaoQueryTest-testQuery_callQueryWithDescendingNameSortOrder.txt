@@ -1,0 +1,45 @@
+04-17 18:01:39.059 24018 24045 I TestRunner: started: testQuery_callQueryWithDescendingNameSortOrder(com.myapp.alist.db.ListDaoQueryTest)
+04-17 18:01:39.059  6034  6034 I PopupDataProvider: onNotificationFullRefresh prev dotInfoSize : 1
+04-17 18:01:39.059  6034  6034 I PopupDataProvider: refresh badge  package : com.wsandroid.suite count : 4
+04-17 18:01:39.062  6034  6034 I QuickstepTransition: WallpaperOpenLauncherAnimationRunner, onCreateAnimation
+04-17 18:01:39.062  6034  6034 W AppTransitionAnimatorImpl: closing animation without icon
+04-17 18:01:39.062  6034  6034 I AppTransitionAnimatorImpl: window bounds: Rect(0, 0 - 1080, 2340), target bounds: RectF(0.0, 0.0, 1080.0, 2340.0)
+04-17 18:01:39.065  6034  6034 W AppTransitionAnimatorImpl: onAnimationStart - APP OUT
+04-17 18:01:39.065  6034  6034 I TouchInteractionService: onSystemUiFlagsChanged, userUnlocked
+04-17 18:01:39.066  6034  6034 I ViewRootImpl@ba39c16[LauncherActivity]: MSG_WINDOW_FOCUS_CHANGED 1 1
+04-17 18:01:39.066  6034  6034 I BaseActivity: addActivityFlags, flags : 8
+04-17 18:01:39.067  6034  6034 I InputMethodManager: startInputInner - mService.startInputOrWindowGainedFocus
+04-17 18:01:39.068  5274  5587 D InputMethodManagerService: mDesktopModeManager null!
+04-17 18:01:39.068  5274  5587 V InputMethodManagerService: getDisplayIdOfInputMethodWindowToBeAdded : 0
+04-17 18:01:39.068  5274  5587 D InputMethodManagerService: checkDisplayOfStartInputAndUpdateKeyboard display Id 0last 0
+04-17 18:01:39.068  5274  5587 D InputTransport: Input channel constructed: 'ClientS', fd=555
+04-17 18:01:39.069  5274  5587 D InputTransport: Input channel destroyed: 'ClientS', fd=555
+04-17 18:01:39.069  6034  6184 I LiveIconUpdateEventHandler: setDateChangeAlarm
+04-17 18:01:39.069  6034  6034 I RecentsView: onTaskRemoved() taskId : 73
+04-17 18:01:39.071  8190  8190 I HBD     : HoneyBoardService onFinishInput
+04-17 18:01:39.072  4929  6292 I SurfaceFlinger: id=6877 createSurf (0x0),-1 flag=24004, Surface(name=4b2d9f9 InputMethod)/@0x9e9479f - animation-leash of insets_animation#1
+04-17 18:01:39.073  7578  7578 I Utils   : isCurrentUser current = 0, ownerId = 0
+04-17 18:01:39.073  7578  7578 I TrayVisibilityController: getComputedTrayVisible : keyguardState = 1
+04-17 18:01:39.073  7578  7578 I TrayVisibilityController: updateTrayVisible: State=1 visible=1 mCurrentVisible=1 specificMode=0
+04-17 18:01:39.073  7578  7578 I TrayStateController: onNotifyUpdateTray: state=0
+04-17 18:01:39.074  6034  6184 I LiveIconUpdateEventHandler: cancelMinuteChangeAlarm
+04-17 18:01:39.075  6034  6184 I LiveIconUpdateEventHandler: setMinuteChangeAlarm
+04-17 18:01:39.076  6034  6184 I LiveIconUpdateEventHandler: Initialized
+04-17 18:01:39.076  6034 29271 I RecentModel: onTaskStackChangedBackground
+04-17 18:01:39.077 24160 24160 D InputTransport: Input channel destroyed: 'ClientS', fd=99
+04-17 18:01:39.078  4929  4929 I Layer   : id=6864 removeFromCurrentState Surface(name=4b2d9f9 InputMethod)/@0x9e9479f - animation-leash of insets_animation#0 (108)
+04-17 18:01:39.078  8190  8190 I HBD     : a IC have been unbinding,  InputConnectionWrapper{idHash=#3e0614d mMissingMethods=}
+04-17 18:01:39.078  8190  8190 I HBD     : HoneyBoardService [PF_CL][onFinishInput]  7781846 ns
+04-17 18:01:39.079  8190  8190 I HBD     : HoneyBoardService [IMI] onStartInput - caller pid : 6034 , caller uid : 10107
+04-17 18:01:39.079  8190  8190 I HBD     : j updateConfigs
+04-17 18:01:39.079  8190  8190 I HBD     : j isEnabledNightMode : false
+04-17 18:01:39.079  4929  6292 I SurfaceFlinger: id=6864 Removed Surface(name=4b2d9f9 InputMethod)/@0x9e9479f - animation-leash of insets_animation#0 (108)
+04-17 18:01:39.079  8190  8190 I HBD     : a IC have been binding, InputConnectionWrapper{idHash=#eb67f50 mMissingMethods=}
+04-17 18:01:39.079  8190  8190 I HBD     : h [EditorInputType]setPrivateImeOptionsToTable privateImeOptions ( null )
+04-17 18:01:39.079  8190  8190 I HBD     : b incognitoMode : false
+04-17 18:01:39.080  8190  8190 I HBD     : a needOff = true , isForceOff = false, isNullInputClass : true
+04-17 18:01:39.080  8190  8190 I HBD     : h getDefaultInputRange : UNKNOWN
+04-17 18:01:39.080  8190  8190 I HBD     : h getDefaultInputRange : UNKNOWN
+04-17 18:01:39.080  8190  8190 I HBD     : h getDefaultInputRange : UNKNOWN
+04-17 18:01:39.081  5274  7487 V WindowManager: Relayout Window{b9d2885 u0 NotificationShade}: viewVisibility=4 req=1080x2340 d0
+04-17 18:01:39.081 24018 24045 I TestRunner: finished: testQuery_callQueryWithDescendingNameSortOrder(com.myapp.alist.db.ListDaoQueryTest)

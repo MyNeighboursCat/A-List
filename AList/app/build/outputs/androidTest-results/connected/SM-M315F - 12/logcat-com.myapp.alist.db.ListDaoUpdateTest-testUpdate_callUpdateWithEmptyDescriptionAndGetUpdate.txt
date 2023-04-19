@@ -1,0 +1,3 @@
+04-17 18:01:39.535 24018 24045 I TestRunner: started: testUpdate_callUpdateWithEmptyDescriptionAndGetUpdate(com.myapp.alist.db.ListDaoUpdateTest)
+04-17 18:01:39.543  4498  4498 I android.system.suspend@1.0-service: !@Released: PowerManagerService.WakeLocks(17266ms)
+04-17 18:01:39.547 24018 24045 I TestRunner: finished: testUpdate_callUpdateWithEmptyDescriptionAndGetUpdate(com.myapp.alist.db.ListDaoUpdateTest)

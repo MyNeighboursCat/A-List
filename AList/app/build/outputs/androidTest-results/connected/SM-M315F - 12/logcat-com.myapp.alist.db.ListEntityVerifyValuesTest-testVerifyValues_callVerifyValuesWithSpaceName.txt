@@ -1,0 +1,4 @@
+04-17 18:01:39.371 24018 24045 I TestRunner: started: testVerifyValues_callVerifyValuesWithSpaceName(com.myapp.alist.db.ListEntityVerifyValuesTest)
+04-17 18:01:39.373  6034  6034 I RecentsView: onTaskRemoved() taskId : 74
+04-17 18:01:39.373  6034  6034 I RecentsView: onTaskRemoved() taskId : 74
+04-17 18:01:39.374 24018 24045 I TestRunner: finished: testVerifyValues_callVerifyValuesWithSpaceName(com.myapp.alist.db.ListEntityVerifyValuesTest)

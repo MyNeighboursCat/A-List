@@ -1,0 +1,9 @@
+04-17 18:01:39.335 24018 24045 I TestRunner: started: testVerifyValues_callVerifyValuesWithSpaceStatus(com.myapp.alist.db.ListEntityVerifyValuesTest)
+04-17 18:01:39.336  5274  5587 V WindowManager: Relayout hash=8bcfcbf, pid=24160: mAttrs={(0,0)(fillxfill) sim={adjust=pan forwardNavigation} ty=BASE_APPLICATION
+04-17 18:01:39.336  5274  5587 V WindowManager:   fl=81810100
+04-17 18:01:39.336  5274  5587 V WindowManager:   pfl=12020040
+04-17 18:01:39.336  5274  5587 V WindowManager:   apr=LIGHT_NAVIGATION_BARS
+04-17 18:01:39.336  5274  5587 V WindowManager:   bhv=DEFAULT
+04-17 18:01:39.336  5274  5587 V WindowManager:   fitSides= naviIconColor=0
+04-17 18:01:39.336  5274  5587 V WindowManager:   sfl=100000}
+04-17 18:01:39.339 24018 24045 I TestRunner: finished: testVerifyValues_callVerifyValuesWithSpaceStatus(com.myapp.alist.db.ListEntityVerifyValuesTest)

@@ -1,0 +1,2 @@
+04-17 18:01:39.503 24018 24045 I TestRunner: started: testInsert_callInsertWithEmptyDescriptionAndGetExpectedId(com.myapp.alist.db.ListDaoInsertTest)
+04-17 18:01:39.513 24018 24045 I TestRunner: finished: testInsert_callInsertWithEmptyDescriptionAndGetExpectedId(com.myapp.alist.db.ListDaoInsertTest)

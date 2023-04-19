@@ -1,0 +1,5 @@
+04-17 18:01:39.363 24018 24045 I TestRunner: started: testVerifyValues_callVerifyValuesWithSpaceDescription(com.myapp.alist.db.ListEntityVerifyValuesTest)
+04-17 18:01:39.364  5274  5587 W InputManager-JNI: Input channel object '8bcfcbf com.myapp.alist.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity (client)' was disposed without first being removed with the input manager!
+04-17 18:01:39.364  5274  5587 D InputTransport: Input channel destroyed: '8bcfcbf', fd=695
+04-17 18:01:39.367 24160 24160 D InputTransport: Input channel destroyed: '8bcfcbf', fd=88
+04-17 18:01:39.368 24018 24045 I TestRunner: finished: testVerifyValues_callVerifyValuesWithSpaceDescription(com.myapp.alist.db.ListEntityVerifyValuesTest)

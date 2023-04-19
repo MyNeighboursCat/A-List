@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<testsuite name="com.myapp.alist.ui.MainActivityClickInsertEspressoInstrumentationTest" tests="50" failures="0" errors="0" skipped="0" time="13.319" timestamp="2023-04-17T17:01:39" hostname="localhost">
+  <properties>
+    <property name="device" value="SM-M315F - 12" />
+    <property name="flavor" value="" />
+    <property name="project" value=":app" />
+  </properties>
+  <testcase name="testInsertButton_clickInsertButtonAndGetExpectedData" classname="com.myapp.alist.ui.MainActivityClickInsertEspressoInstrumentationTest" time="6.223" />
+  <testcase name="testSelectButton_clickSelectButtonAndGetExpectedText" classname="com.myapp.alist.ui.MainActivityClickSelectEspressoInstrumentationTest" time="5.118" />
+  <testcase name="testQuery_callQueryWithAscendingDescriptionAndDescendingNameSortOrder" classname="com.myapp.alist.db.ListDaoQueryTest" time="0.03" />
+  <testcase name="testQuery_callQueryWithInvalidWhereArguments" classname="com.myapp.alist.db.ListDaoQueryTest" time="0.029" />
+  <testcase name="testQuery_callQueryWithDescendingNameSortOrder" classname="com.myapp.alist.db.ListDaoQueryTest" time="0.028" />
+  <testcase name="testQuery_callQueryWithAscendingNameAndDescendingDescriptionSortOrder" classname="com.myapp.alist.db.ListDaoQueryTest" time="0.03" />
+  <testcase name="testQuery_callQueryWithAscendingDescriptionAndAscendingNameSortOrder" classname="com.myapp.alist.db.ListDaoQueryTest" time="0.004" />
+  <testcase name="testQuery_callQueryWithAscendingNameAndAscendingDescriptionSortOrder" classname="com.myapp.alist.db.ListDaoQueryTest" time="0.029" />
+  <testcase name="testQuery_callQueryWithDescendingDescriptionAndDescendingNameSortOrder" classname="com.myapp.alist.db.ListDaoQueryTest" time="0.029" />
+  <testcase name="testQuery_callQueryWithAscendingDescriptionSortOrder" classname="com.myapp.alist.db.ListDaoQueryTest" time="0.03" />
+  <testcase name="testQuery_callQueryWithDescendingNameAndDescendingDescriptionSortOrder" classname="com.myapp.alist.db.ListDaoQueryTest" time="0.005" />
+  <testcase name="testQuery_callQueryWithAscendingNameSortOrder" classname="com.myapp.alist.db.ListDaoQueryTest" time="0.028" />
+  <testcase name="testQuery_callQueryAndGetExpectedData" classname="com.myapp.alist.db.ListDaoQueryTest" time="0.002" />
+  <testcase name="testQuery_callQueryWithDescendingDescriptionAndAscendingNameSortOrder" classname="com.myapp.alist.db.ListDaoQueryTest" time="0.028" />
+  <testcase name="testQuery_callQueryWithDescendingNameAndAscendingDescriptionSortOrder" classname="com.myapp.alist.db.ListDaoQueryTest" time="0.003" />
+  <testcase name="testQuery_callQueryWithDescendingDescriptionSortOrder" classname="com.myapp.alist.db.ListDaoQueryTest" time="0.03" />
+  <testcase name="testVerifyValues_callVerifyValuesWithSpaceCategory" classname="com.myapp.alist.db.ListEntityVerifyValuesTest" time="0.004" />
+  <testcase name="testVerifyValues_callVerifyValuesWithSpaceStatus" classname="com.myapp.alist.db.ListEntityVerifyValuesTest" time="0.004" />
+  <testcase name="testVerifyValues_callVerifyValuesWithNullCategory" classname="com.myapp.alist.db.ListEntityVerifyValuesTest" time="0.003" />
+  <testcase name="testVerifyValues_callVerifyValuesWithNullDescription" classname="com.myapp.alist.db.ListEntityVerifyValuesTest" time="0.004" />
+  <testcase name="testVerifyValues_callVerifyValuesWithEmptyName" classname="com.myapp.alist.db.ListEntityVerifyValuesTest" time="0.004" />
+  <testcase name="testVerifyValues_callVerifyValuesWithSpaceDescription" classname="com.myapp.alist.db.ListEntityVerifyValuesTest" time="0.004" />
+  <testcase name="testVerifyValues_callVerifyValuesWithSpaceName" classname="com.myapp.alist.db.ListEntityVerifyValuesTest" time="0.003" />
+  <testcase name="testVerifyValues_callVerifyValuesWithNonNullValuesAndMissingDetails" classname="com.myapp.alist.db.ListEntityVerifyValuesTest" time="0.003" />
+  <testcase name="testVerifyValues_callVerifyValuesWithEmptyCategory" classname="com.myapp.alist.db.ListEntityVerifyValuesTest" time="0.003" />
+  <testcase name="testVerifyValues_callVerifyValuesWithAllStatus" classname="com.myapp.alist.db.ListEntityVerifyValuesTest" time="0.003" />
+  <testcase name="testVerifyValues_callVerifyValuesWithMissingDescription" classname="com.myapp.alist.db.ListEntityVerifyValuesTest" time="0.003" />
+  <testcase name="testVerifyValues_callVerifyValuesWithNullStatus" classname="com.myapp.alist.db.ListEntityVerifyValuesTest" time="0.003" />
+  <testcase name="testVerifyValues_callVerifyValuesWithNullValues" classname="com.myapp.alist.db.ListEntityVerifyValuesTest" time="0.005" />
+  <testcase name="testVerifyValues_callVerifyValuesWithAllCategory" classname="com.myapp.alist.db.ListEntityVerifyValuesTest" time="0.003" />
+  <testcase name="testVerifyValues_callVerifyValuesWithNullName" classname="com.myapp.alist.db.ListEntityVerifyValuesTest" time="0.004" />
+  <testcase name="testVerifyValues_callVerifyValuesWithMissingCategory" classname="com.myapp.alist.db.ListEntityVerifyValuesTest" time="0.003" />
+  <testcase name="testVerifyValues_callVerifyValuesWithMissingStatus" classname="com.myapp.alist.db.ListEntityVerifyValuesTest" time="0.003" />
+  <testcase name="testVerifyValues_callVerifyValuesWithEmptyStatus" classname="com.myapp.alist.db.ListEntityVerifyValuesTest" time="0.004" />
+  <testcase name="testVerifyValues_callVerifyValuesWithMissingName" classname="com.myapp.alist.db.ListEntityVerifyValuesTest" time="0.004" />
+  <testcase name="testInsert_callInsertWithDuplicateNameOnlyAndGetExpectedError" classname="com.myapp.alist.db.ListDaoInsertTest" time="0.003" />
+  <testcase name="testInsert_callInsertWithDuplicateRowAndGetExpectedError" classname="com.myapp.alist.db.ListDaoInsertTest" time="0.003" />
+  <testcase name="testInsert_callInsertAndGetExpectedId" classname="com.myapp.alist.db.ListDaoInsertTest" time="0.004" />
+  <testcase name="testInsert_callInsertWithDuplicateDescriptionOnlyAndGetExpectedId" classname="com.myapp.alist.db.ListDaoInsertTest" time="0.003" />
+  <testcase name="testInsert_callInsertWithEmptyDescriptionAndGetExpectedId" classname="com.myapp.alist.db.ListDaoInsertTest" time="0.029" />
+  <testcase name="testUpdate_callUpdateAndGetExpectedData" classname="com.myapp.alist.db.ListDaoUpdateTest" time="0.003" />
+  <testcase name="testUpdate_callUpdateWithEmptyDescriptionAndGetUpdate" classname="com.myapp.alist.db.ListDaoUpdateTest" time="0.004" />
+  <testcase name="testUpdate_callUpdateWithInvalidRowIDAndGetNoUpdate" classname="com.myapp.alist.db.ListDaoUpdateTest" time="0.027" />
+  <testcase name="testUpdate_callUpdateWithInvalidDetailsAndGetNoUpdate" classname="com.myapp.alist.db.ListDaoUpdateTest" time="0.004" />
+  <testcase name="testUpdate_callUpdateWithDuplicateDescriptionAndGetUpdate" classname="com.myapp.alist.db.ListDaoUpdateTest" time="0.003" />
+  <testcase name="testUpdate_callUpdateWithDuplicateRowAndGetExpectedData" classname="com.myapp.alist.db.ListDaoUpdateTest" time="0.028" />
+  <testcase name="testUpdate_callUpdateWithDuplicateNameAndGetExpectedError" classname="com.myapp.alist.db.ListDaoUpdateTest" time="0.003" />
+  <testcase name="testDelete_callDeleteRowAndGetExpectedDeletedRows" classname="com.myapp.alist.db.ListDaoDeleteTest" time="0.003" />
+  <testcase name="testDelete_callDeleteInvalidRowAndGetExpectedNoDeletedRows" classname="com.myapp.alist.db.ListDaoDeleteTest" time="0.028" />
+  <testcase name="testDelete_callDeleteAllSelectedAndGetExpectedDeletedRows" classname="com.myapp.alist.db.ListDaoDeleteTest" time="0.002" />
+</testsuite>

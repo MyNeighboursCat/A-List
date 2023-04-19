@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+  ~ Copyright (c) 2023 Colin Walters.  All rights reserved.
+  -->
+
+<LinearLayout
+    android:id="@+id/listItem1"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="?android:attr/activatedBackgroundIndicator"
+    android:orientation="vertical"
+    tools:context="com.myapp.alist.ui.MainActivity">
+    <!--android:background (copied from android.R.layout.simple_list_item_activated_1.xml) is needed
+    for activation of row to work when user touches it-->
+
+    <!--Hide the _id column-->
+    <TextView
+        android:id="@+id/idTextView"
+        style="@style/ListItemText"
+        android:visibility="gone"/>
+
+    <TextView
+        android:id="@+id/data1TextView"
+        style="@style/ListItemText"
+        android:textAppearance="?attr/textAppearanceListItem"/>
+
+    <TextView
+        android:id="@+id/data2TextView"
+        style="@style/ListItemText"
+        android:maxLines="2"/>
+
+    <TextView
+        android:id="@+id/data3TextView"
+        style="@style/ListItemText"/>
+
+    <TextView
+        android:id="@+id/data4TextView"
+        style="@style/ListItemText"/>
+</LinearLayout>

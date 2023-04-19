@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+  ~ Copyright (c) 2023 Colin Walters.  All rights reserved.
+  -->
+
+<resources>
+    <string name="app_name">A List</string>
+    <string name="select_mode">Select Mode</string>
+    <string name="select_all">Select All</string>
+    <string name="name">Name</string>
+    <string name="description">Description</string>
+    <string name="row_inserted">Row Inserted</string>
+    <string name="insert_error">Insert Error</string>
+    <string name="row_selected">Row Selected</string>
+    <string name="rows_selected">Rows Selected</string>
+    <string name="row_updated">Row Updated</string>
+    <string name="update_error">Update Error</string>
+    <string name="row_deleted">Row Deleted</string>
+    <string name="rows_deleted">Rows Deleted</string>
+    <string name="delete_error">Delete Error</string>
+    <string name="delete_warning">Delete Warning</string>
+    <string name="containing">Containing</string>
+    <string name="row">Row</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="help">Help</string>
+    <string name="about">About</string>
+    <string name="application_version_name">1.0</string>
+    <string name="version">Version</string>
+    <string name="copyright">Copyright ©</string>
+    <string name="my_name">Colin Walters</string>
+    <string name="all_rights_reserved">All rights reserved.</string>
+    <string name="creation_year">2023</string>
+    <string name="help_text">Add an item to the list:\nInput a name and an optional description.  Select the category and status.  The name is mandatory and must be unique.  The category and status must not be set to All.  Tap on the Insert menu option.\n\nSearch for a particular item or items:\nInput any combination of a name, description, category and status.  If the name and description are not entered and the category and status are set to All, all of the items in the list will be selected.  The list is automatically updated as you type or set the details.  Note that the search looks for items which contain the text inputted and not only items that match exactly.  The searches are case insensitive.  To select an individual item simply tap on it in the list and it will be shown in a highlighted state; its details will be displayed in the input boxes.  To deselect an item, tap on it again.\n\nAmend an item:\nOnly one item can be updated at a time.  Search for an item and make sure that only one item is shown in the list.  Input any combination of a name, description, category and status for the existing item.  Tap on the Update menu option.\n\nDelete an item or items:\nSearch for an item or items.  Tap on the Delete menu option.  A dialog box will appear warning you of the deletion that will take place.  Check the selection parameters are correct and press OK to continue or Cancel to abort.\n\nItems can be created using another app’s Share option.  Select the Share option in another app and chose A List from the apps displayed.  A new item will be displayed ready for you to tap on the Insert menu option to add it to the list.  Hypertext links are enabled ready for you to tap on to take you to its target.\n\nThe list of items can be shared with other apps such as an email app or a text editor app.  First search for the items you wish to share.  Use a blank search to select the entire set of items you have inputted.  Select the Share menu option and then the app you want to share your data with.  It is possible that the app you share the data with can store the list in the Cloud.\n\nUse Android’s Settings backup functionality to save and restore this app’s data automatically in the Cloud.</string>
+    <string name="share">Share</string>
+    <string name="insert">Insert</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="status">Status</string>
+    <string name="category">Category</string>
+    <string name="order_by">Order By</string>
+    <string name="data_name">Data Name</string>
+    <string name="data_description">Data Description</string>
+
+    <string-array name="category_list">
+        <item>All</item>
+        <item>To Do</item>
+        <item>Shopping</item>
+        <item>Notes</item>
+        <item>News</item>
+        <item>Education</item>
+        <item>Technology</item>
+        <item>Science</item>
+        <item>Health</item>
+        <item>Sport</item>
+        <item>Finance</item>
+        <item>Entertainment</item>
+        <item>Travel</item>
+        <item>Video</item>
+        <item>Miscellaneous</item>
+    </string-array>
+
+    <string-array name="status_list">
+        <item>All</item>
+        <item>Current</item>
+        <item>In Progress</item>
+        <item>Completed</item>
+        <item>Pending</item>
+        <item>Ordered</item>
+        <item>In Transit</item>
+        <item>Delivered</item>
+        <item>Received</item>
+        <item>Returned</item>
+    </string-array>
+
+    <string-array name="order_by_list">
+        <item>Name</item>
+        <item>Description</item>
+        <item>Category</item>
+        <item>Status</item>
+    </string-array>
+
+</resources>

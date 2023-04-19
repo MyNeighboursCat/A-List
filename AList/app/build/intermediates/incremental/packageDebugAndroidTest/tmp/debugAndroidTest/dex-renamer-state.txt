@@ -1,0 +1,4 @@
+#Mon Apr 17 16:34:07 BST 2023
+base.0=C\:\\Users\\colin\\AndroidStudioProjects\\AList\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeDexDebugAndroidTest\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

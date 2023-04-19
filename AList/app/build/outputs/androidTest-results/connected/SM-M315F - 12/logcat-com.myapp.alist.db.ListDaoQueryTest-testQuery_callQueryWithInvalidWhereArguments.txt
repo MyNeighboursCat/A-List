@@ -1,0 +1,28 @@
+04-17 18:01:39.030 24018 24045 I TestRunner: started: testQuery_callQueryWithInvalidWhereArguments(com.myapp.alist.db.ListDaoQueryTest)
+04-17 18:01:39.030  6704  6704 E pageboostd: Received HALT command code 2
+04-17 18:01:39.032  4929  6292 I SurfaceFlinger: id=6875 createSurf (0x0),-1 flag=24004, Surface(name=Task=1)/@0xd2bd64a - animation-leash of app_transition#0
+04-17 18:01:39.034  4929  6292 I SurfaceFlinger: id=6876 createSurf (0x0),-1 flag=24000, Surface(name=WallpaperWindowToken{d6ee959 token=android.os.Binder@a5b645d})/@0xd987287 - animation-leash of window_animation#0
+04-17 18:01:39.037  5274  5297 D WindowManager: RemoteAnimationController::onAnimationStart, animations=[Landroid.view.RemoteAnimationTarget;@bad9a69
+04-17 18:01:39.038  6034 29271 I LauncherAnimationRunner: onAnimationStart, appTargets : [Lcom.android.systemui.shared.system.RemoteAnimationTargetCompat;@69c6d90 mStartAtFrontOfQueue : false
+04-17 18:01:39.040  5274  7528 V WindowManager: Relayout Window{ddf29e4 u0 com.android.systemui.ImageWallpaper}: viewVisibility=0 req=2340x2340 d0
+04-17 18:01:39.042  5274  7528 V WindowManager: Relayout hash=ddf29e4, pid=5598: mAttrs={(0,0)(2340x2340) gr=TOP START CENTER layoutInDisplayCutoutMode=always ty=WALLPAPER fmt=RGBX_8888 wanim=0x1030314
+04-17 18:01:39.042  5274  7528 V WindowManager:   fl=14318
+04-17 18:01:39.042  5274  7528 V WindowManager:   pfl=2000004
+04-17 18:01:39.042  5274  7528 V WindowManager:   bhv=DEFAULT naviIconColor=0
+04-17 18:01:39.042  5274  7528 V WindowManager:   sfl=8}
+04-17 18:01:39.043  5274  6707 I MediaSessionMonitor: Media session stopped : controllerList empty
+04-17 18:01:39.043  5598  5598 D WallpaperService: updateSurface redrawNeeded=false didSurface=false , mDestroyed = false
+04-17 18:01:39.043  5598  5598 D WallpaperService: reportVisibility onVisibilityChanged visible: true
+04-17 18:01:39.043  5598  5699 I ImageWallpaper:  onVisibilityChanged true , 0
+04-17 18:01:39.043  5598  5598 D NavigationBar: onSystemBarAttributesChanged() -  displayId:0, appearance:16 (APPEARANCE_LIGHT_NAVIGATION_BARS ), navbarColorManagedByIme:false
+04-17 18:01:39.044  5598  5699 I ImageWallpaperRenderer: updateWallpaperOffset 0 lastCropOffset 0 wp Type , 0 , rotation == 0 Do not change Display offset 0
+04-17 18:01:39.046  6034  6184 I LiveIconUpdateEventHandler: cancelDateChangeAlarm
+04-17 18:01:39.046  6034 29271 I TouchInteractionService: onSystemUiStateChanged, stateFlags : 0
+04-17 18:01:39.046  5274  7486 D InputDispatcher: Focus entered window (0): 5540baa com.sec.android.app.launcher/com.sec.android.app.launcher.activities.LauncherActivity
+04-17 18:01:39.047  5598  5598 D NavigationBar: onSystemBarAttributesChanged() -  displayId:0, appearance:0, navbarColorManagedByIme:false
+04-17 18:01:39.047  5598  5598 V Navbar.Store: handleEvent [EventType] GET_BOOL_REGION_SAMPLING_ENABLED [Module] LightBarController  KEYS_DEFAULT=false
+04-17 18:01:39.047  5598  5598 V Navbar.Store: --[Band]COLOR_PACK_GET_REGION_SAMPLING_ENABLED
+04-17 18:01:39.047  5598  5598 V Navbar.Store: ----getValue(BOOL_REGION_SAMPLING_ENABLED)=false
+04-17 18:01:39.049  5598  5598 D SecLightBarControlHelper: updateStatus(WHITE icon) NumLightStacks:0, NumStacks:1, IndexLightStack:-1, StatusBarMode:0, StatusBarState:SHD, NeedDarkFontFromWallpaper:false, isWhiteKeyguardStatusBarBySettings:false
+04-17 18:01:39.050  7578  7578 I Utils   : HomePackage : com.sec.android.app.launcher, resumePackageName : com.sec.android.app.launcher
+04-17 18:01:39.054 24018 24045 I TestRunner: finished: testQuery_callQueryWithInvalidWhereArguments(com.myapp.alist.db.ListDaoQueryTest)
