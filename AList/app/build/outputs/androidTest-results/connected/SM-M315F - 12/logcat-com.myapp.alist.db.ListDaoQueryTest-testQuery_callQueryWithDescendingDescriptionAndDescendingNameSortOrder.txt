@@ -1,5 +1,6 @@
-04-17 18:01:39.171 24018 24045 I TestRunner: started: testQuery_callQueryWithDescendingDescriptionAndDescendingNameSortOrder(com.myapp.alist.db.ListDaoQueryTest)
-04-17 18:01:39.178  4929  4929 E SurfaceFlinger: Attempt to update InputPolicyFlags without permission ACCESS_SURFACE_FLINGER
-04-17 18:01:39.182  6034  8117 I ViewRootImpl@ba39c16[LauncherActivity]: mWNT: t = android.view.SurfaceControl$Transaction@56353f9 fN = 8 com.android.systemui.shared.system.ViewRootImplCompat.mergeWithNextTransaction:62 com.android.quickstep.util.SurfaceTransactionApplier.lambda$scheduleApply$0$SurfaceTransactionApplier:94 com.android.quickstep.util.-$$Lambda$SurfaceTransactionApplier$Xj9m0ayWHIr2xvQnKB4EJdxg8RU.accept:6
-04-17 18:01:39.182  6034  8117 I ViewRootImpl@ba39c16[LauncherActivity]: mWNT: merge t to BBQ
-04-17 18:01:39.191 24018 24045 I TestRunner: finished: testQuery_callQueryWithDescendingDescriptionAndDescendingNameSortOrder(com.myapp.alist.db.ListDaoQueryTest)
+04-19 15:55:22.264  6061  6091 I TestRunner: started: testQuery_callQueryWithDescendingDescriptionAndDescendingNameSortOrder(com.myapp.alist.db.ListDaoQueryTest)
+04-19 15:55:22.277  5983  6161 W QuickstepModelDelegate: handleUpdate targets : 9
+04-19 15:55:22.278  4894  4894 E SurfaceFlinger: Attempt to update InputPolicyFlags without permission ACCESS_SURFACE_FLINGER
+04-19 15:55:22.279  5983  7988 I ViewRootImpl@f05f80e[LauncherActivity]: mWNT: t = android.view.SurfaceControl$Transaction@79408d4 fN = 6 com.android.systemui.shared.system.ViewRootImplCompat.mergeWithNextTransaction:62 com.android.quickstep.util.SurfaceTransactionApplier.lambda$scheduleApply$0$SurfaceTransactionApplier:94 com.android.quickstep.util.-$$Lambda$SurfaceTransactionApplier$Xj9m0ayWHIr2xvQnKB4EJdxg8RU.accept:6
+04-19 15:55:22.279  5983  7988 I ViewRootImpl@f05f80e[LauncherActivity]: mWNT: merge t to BBQ
+04-19 15:55:22.292  6061  6091 I TestRunner: finished: testQuery_callQueryWithDescendingDescriptionAndDescendingNameSortOrder(com.myapp.alist.db.ListDaoQueryTest)

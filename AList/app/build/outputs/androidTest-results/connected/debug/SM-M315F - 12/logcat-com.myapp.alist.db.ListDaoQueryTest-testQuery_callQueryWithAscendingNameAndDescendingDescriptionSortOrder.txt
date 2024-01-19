@@ -1,0 +1,71 @@
+01-19 17:17:31.528  3761  3781 I TestRunner: started: testQuery_callQueryWithAscendingNameAndDescendingDescriptionSortOrder(com.myapp.alist.db.ListDaoQueryTest)
+01-19 17:17:31.529  6080  6080 I ViewRootImpl@e7cd915[LauncherActivity]: MSG_WINDOW_FOCUS_CHANGED 1 1
+01-19 17:17:31.529  6080  6080 I BaseActivity: addActivityFlags, flags : 8
+01-19 17:17:31.532  6080  6080 I InputMethodManager: startInputInner - mService.startInputOrWindowGainedFocus
+01-19 17:17:31.533  5249  5548 D InputMethodManagerService: mDesktopModeManager null!
+01-19 17:17:31.533  5249  5548 V InputMethodManagerService: getDisplayIdOfInputMethodWindowToBeAdded : 0
+01-19 17:17:31.534  5249  5548 D InputMethodManagerService: checkDisplayOfStartInputAndUpdateKeyboard display Id 0last 0
+01-19 17:17:31.534  5249  5548 D InputTransport: Input channel constructed: 'ClientS', fd=513
+01-19 17:17:31.534  5249  5548 D InputTransport: Input channel destroyed: 'ClientS', fd=513
+01-19 17:17:31.535  5599  5599 D NavigationBar: onSystemBarAttributesChanged() -  displayId:0, appearance:0, navbarColorManagedByIme:false
+01-19 17:17:31.535  5599  5599 V Navbar.Store: handleEvent [EventType] GET_BOOL_REGION_SAMPLING_ENABLED [Module] LightBarController  KEYS_DEFAULT=false
+01-19 17:17:31.535  5599  5599 V Navbar.Store: --[Band]COLOR_PACK_GET_REGION_SAMPLING_ENABLED
+01-19 17:17:31.535  5599  5599 V Navbar.Store: ----getValue(BOOL_REGION_SAMPLING_ENABLED)=false
+01-19 17:17:31.537  7974  7974 I HBD     : HoneyBoardService onFinishInput
+01-19 17:17:31.538  4945  6920 I SurfaceFlinger: id=4460 createSurf (0x0),-1 flag=24004, Surface(name=30ecb98 InputMethod)/@0x153cb62 - animation-leash of insets_animation#1
+01-19 17:17:31.538  7974  7974 I HBD     : a IC have been unbinding,  InputConnectionWrapper{idHash=#12fa383 mMissingMethods=}
+01-19 17:17:31.538  7974  7974 I HBD     : HoneyBoardService [PF_CL][onFinishInput]  606308 ns
+01-19 17:17:31.538  7974  7974 I HBD     : HoneyBoardService [IMI] onStartInput - caller pid : 6080 , caller uid : 10107
+01-19 17:17:31.538  7974  7974 I HBD     : j updateConfigs
+01-19 17:17:31.538  7974  7974 I HBD     : j isEnabledNightMode : false
+01-19 17:17:31.539  7974  7974 I HBD     : a IC have been binding, InputConnectionWrapper{idHash=#7a8f539 mMissingMethods=}
+01-19 17:17:31.539  7974  7974 I HBD     : h [EditorInputType]setPrivateImeOptionsToTable privateImeOptions ( null )
+01-19 17:17:31.539  7974  7974 I HBD     : b incognitoMode : false
+01-19 17:17:31.539  7974  7974 I HBD     : a needOff = true , isForceOff = false, isNullInputClass : true
+01-19 17:17:31.539  7974  7974 I HBD     : h getDefaultInputRange : UNKNOWN
+01-19 17:17:31.540  7974  7974 I HBD     : h getDefaultInputRange : UNKNOWN
+01-19 17:17:31.540  7974  7974 I HBD     : h getDefaultInputRange : UNKNOWN
+01-19 17:17:31.543  3910  3910 D InputTransport: Input channel destroyed: 'ClientS', fd=99
+01-19 17:17:31.544  4945  4945 I Layer   : id=4448 removeFromCurrentState Surface(name=30ecb98 InputMethod)/@0x153cb62 - animation-leash of insets_animation#0 (109)
+01-19 17:17:31.545  6080  6080 I BadgeRenderer: Invalid count : 0
+01-19 17:17:31.546  6080  6080 I BadgeRenderer: Invalid count : 0
+01-19 17:17:31.546  6080  6080 I BadgeRenderer: Invalid count : 0
+01-19 17:17:31.546  6080  6080 I BadgeRenderer: Invalid count : 0
+01-19 17:17:31.547  6080  6080 I BadgeRenderer: Invalid count : 0
+01-19 17:17:31.548  4945  6920 I SurfaceFlinger: id=4448 Removed Surface(name=30ecb98 InputMethod)/@0x153cb62 - animation-leash of insets_animation#0 (109)
+01-19 17:17:31.550  6080  8371 I ViewRootImpl@e7cd915[LauncherActivity]: mWNT: t = android.view.SurfaceControl$Transaction@1eb54bc fN = 2 com.android.systemui.shared.system.ViewRootImplCompat.mergeWithNextTransaction:62 com.android.quickstep.util.SurfaceTransactionApplier.lambda$scheduleApply$0$SurfaceTransactionApplier:94 com.android.quickstep.util.-$$Lambda$SurfaceTransactionApplier$Xj9m0ayWHIr2xvQnKB4EJdxg8RU.accept:6
+01-19 17:17:31.550  6080  8371 I ViewRootImpl@e7cd915[LauncherActivity]: mWNT: merge t to BBQ
+01-19 17:17:31.550  6080  8371 I ViewRootImpl@e7cd915[LauncherActivity]: mWNT: t = android.view.SurfaceControl$Transaction@a6c8c45 fN = 2 com.android.systemui.shared.system.ViewRootImplCompat.mergeWithNextTransaction:62 com.android.quickstep.util.SurfaceTransactionApplier.lambda$scheduleApply$0$SurfaceTransactionApplier:94 com.android.quickstep.util.-$$Lambda$SurfaceTransactionApplier$Xj9m0ayWHIr2xvQnKB4EJdxg8RU.accept:6
+01-19 17:17:31.550  6080  8371 I ViewRootImpl@e7cd915[LauncherActivity]: mWNT: merge t to BBQ
+01-19 17:17:31.550  6080  8371 I ViewRootImpl@e7cd915[LauncherActivity]: mWNT: t = android.view.SurfaceControl$Transaction@552ef9a fN = 2 com.android.systemui.shared.system.ViewRootImplCompat.mergeWithNextTransaction:62 com.android.quickstep.util.SurfaceTransactionApplier.lambda$scheduleApply$0$SurfaceTransactionApplier:94 com.android.quickstep.util.-$$Lambda$SurfaceTransactionApplier$Xj9m0ayWHIr2xvQnKB4EJdxg8RU.accept:6
+01-19 17:17:31.551  6080  8371 I ViewRootImpl@e7cd915[LauncherActivity]: mWNT: merge t to BBQ
+01-19 17:17:31.557  7974  7974 I HBD     : a needOff = true , isForceOff = false, isNullInputClass : true
+01-19 17:17:31.557  7974  7974 I HBD     : a update cached prediction status : false
+01-19 17:17:31.557  7974  7974 I HBD     : h getDefaultInputRange : UNKNOWN
+01-19 17:17:31.557  7974  7974 I HBD     : a currentState : 0
+01-19 17:17:31.558 12823 12823 I Utils   : isCurrentUser current = 0, ownerId = 0
+01-19 17:17:31.558 12823 12823 I TrayVisibilityController: getComputedTrayVisible : keyguardState = 1
+01-19 17:17:31.558 12823 12823 I TrayVisibilityController: updateTrayVisible: State=1 visible=1 mCurrentVisible=1 specificMode=0
+01-19 17:17:31.558 12823 12823 I TrayStateController: onNotifyUpdateTray: state=0
+01-19 17:17:31.559  7974  7974 I HBD     : h load selected json path : /data/user/0/com.samsung.android.honeyboard/files/selected.json
+01-19 17:17:31.559  7974  7974 I HBD     : h load selected json info : {"version":"1.0","currentLanguageOrder":0,"selected":[{"activeOptionList":["auto_spacing","writing_assistant"],"engName":"English","id":65538,"inputType":"qwerty","isUsed":true}]}
+01-19 17:17:31.559  7974  7974 I HBD     : a [UpdatePolicy] [post] a: 0 cl: 65538 kit: [0/0] vt: 0 ir: 1
+01-19 17:17:31.561  4945  4945 E SurfaceFlinger: Attempt to update InputPolicyFlags without permission ACCESS_SURFACE_FLINGER
+01-19 17:17:31.561  4945  4945 I Layer   : id=4448 Destroyed Surface(name=30ecb98 InputMethod)/@0x153cb62 - animation-leash of insets_animation#0
+01-19 17:17:31.563  5249  5548 D InputMethodManagerServicePhysicalKey: isConnectedDexOnPC false
+01-19 17:17:31.563  6080  8372 I ViewRootImpl@e7cd915[LauncherActivity]: mWNT: t = android.view.SurfaceControl$Transaction@46d20cb fN = 3 com.android.systemui.shared.system.ViewRootImplCompat.mergeWithNextTransaction:62 com.android.quickstep.util.SurfaceTransactionApplier.lambda$scheduleApply$0$SurfaceTransactionApplier:94 com.android.quickstep.util.-$$Lambda$SurfaceTransactionApplier$Xj9m0ayWHIr2xvQnKB4EJdxg8RU.accept:6
+01-19 17:17:31.563  6080  8372 I ViewRootImpl@e7cd915[LauncherActivity]: mWNT: merge t to BBQ
+01-19 17:17:31.566  5249  5548 D InputMethodManagerService: isImeSwitcherDisabledPackage : false
+01-19 17:17:31.576  4945  4945 D SurfaceFlinger: Display 0 HWC layers:
+01-19 17:17:31.576  4945  4945 D SurfaceFlinger:      DEVICE | 0x759a4bee40 | 0100 | RGBx_8888    |  678.0  105.0 1662.0 2235.0 |    0    0 1080 2340 | Wallpaper BBQ wrapper#0
+01-19 17:17:31.576  4945  4945 D SurfaceFlinger:      DEVICE | 0x759a5983c0 | 0100 | RGBA_8888    |    0.0    0.0 1080.0 2340.0 |    0    0 1080 2340 | com.sec.android.app.launcher/com.sec[...].activities.LauncherActivity$_6080#0
+01-19 17:17:31.576  4945  4945 D SurfaceFlinger:      CLIENT | 0x7578fb8500 | 0102 | RGBA_8888    |    0.0    0.0 1080.0 2340.0 |    2    5 1078 2335 | com.myapp.alist.test/androidx.test.c[...]ctivityInvoker$EmptyActivity$_3910#0
+01-19 17:17:31.576  4945  4945 D SurfaceFlinger:      DEVICE | 0x759a598000 | 0100 | RGBA_8888    |    0.0    0.0 1080.0   78.0 |    0    0 1080   78 | StatusBar$_5599#0
+01-19 17:17:31.576  4945  4945 D SurfaceFlinger:      DEVICE | 0x759a4bfac0 | 0100 | RGBA_8888    |    0.0    0.0   67.0  362.0 | 1013 1637 1080 1999 | com.samsung.android.app.cocktailbars[...]rservice.CocktailBarService$_12823#0
+01-19 17:17:31.576  4945  4945 D SurfaceFlinger:      DEVICE | 0x7579019440 | 0100 | RGBA_8888    |    0.0    0.0 1080.0  126.0 |    0 2214 1080 2340 | NavigationBar0$_5599#0
+01-19 17:17:31.576  4945  4945 D SurfaceFlinger:      DEVICE | 0x759a4bdcc0 | 0140 | RGBA_8888    |    0.0    0.0 1080.0  151.0 |
+01-19 17:17:31.576  4945  4945 D SurfaceFlinger: 0    0 1080  151 | ScreenDecorOverlay$_5599#0
+01-19 17:17:31.576  4945  4945 D SurfaceFlinger:      DEVICE | 0x7564e1ba00 | 0140 | RGBA_8888    |    0.0    0.0 1080.0  151.0 |    0 2189 1080 2340 | ScreenDecorOverlayBottom$_5599#0
+01-19 17:17:31.576  4945  4945 D SurfaceFlinger:
+01-19 17:17:31.577  4945  4945 E SurfaceFlinger: Attempt to update InputPolicyFlags without permission ACCESS_SURFACE_FLINGER
+01-19 17:17:31.580  3761  3781 I TestRunner: finished: testQuery_callQueryWithAscendingNameAndDescendingDescriptionSortOrder(com.myapp.alist.db.ListDaoQueryTest)

@@ -7,6 +7,7 @@ package com.myapp.alist.ui;
 import android.annotation.SuppressLint;
 import android.content.Intent;
 import android.media.AudioManager;
+import android.os.Build;
 import android.os.Bundle;
 import android.text.Editable;
 import android.text.TextUtils;
@@ -24,7 +25,10 @@ import android.widget.EditText;
 import android.widget.Spinner;
 import android.widget.SpinnerAdapter;
 import android.widget.TextView;
+import android.window.OnBackInvokedCallback;
+import android.window.OnBackInvokedDispatcher;
 
+import androidx.activity.OnBackPressedCallback;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
@@ -437,6 +441,25 @@ public class MainActivity extends AppCompatActivity {
             }
         }
 
+        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.TIRAMISU) {
+            this.getOnBackInvokedDispatcher().registerOnBackInvokedCallback(
+                    OnBackInvokedDispatcher.PRIORITY_DEFAULT,
+                    new OnBackInvokedCallback() {
+                        @Override
+                        public void onBackInvoked() {
+                            MainActivity.this.whenBackPressed();
+                        }
+                    });
+        } else {
+            this.getOnBackPressedDispatcher().addCallback(this,
+                    new OnBackPressedCallback(true) {
+                        @Override
+                        public void handleOnBackPressed() {
+                            MainActivity.this.whenBackPressed();
+                        }
+                    });
+        }
+
         this.setViewsStatus(false);
     }
 
@@ -491,19 +514,6 @@ public class MainActivity extends AppCompatActivity {
         this.releaseResources();
 
         super.onDestroy();
-    }
-
-    /**
-     * If the hardware back key has been pressed and events are allowed then execute the activity
-     * <code>onBackPressed()</code>.
-     *
-     * @see #mAllowEvents
-     */
-    @Override
-    public void onBackPressed() {
-        if (this.mAllowEvents) {
-            super.onBackPressed();
-        }
     }
 
     /**
@@ -1174,6 +1184,18 @@ public class MainActivity extends AppCompatActivity {
         // Send intent could be null if not item type - no Share option available.
         if (this.mSendIntent != null && this.mSendText != null) {
             this.mSendIntent.putExtra(Intent.EXTRA_TEXT, this.mSendText.toString());
+        }
+    }
+
+    /**
+     * If the hardware back key has been pressed and events are allowed then execute the activity
+     * <code>finish()</code>.
+     *
+     * @see #mAllowEvents
+     */
+    private void whenBackPressed() {
+        if (this.mAllowEvents) {
+            this.finish();
         }
     }
 

@@ -1,28 +1,46 @@
-04-17 18:01:39.030 24018 24045 I TestRunner: started: testQuery_callQueryWithInvalidWhereArguments(com.myapp.alist.db.ListDaoQueryTest)
-04-17 18:01:39.030  6704  6704 E pageboostd: Received HALT command code 2
-04-17 18:01:39.032  4929  6292 I SurfaceFlinger: id=6875 createSurf (0x0),-1 flag=24004, Surface(name=Task=1)/@0xd2bd64a - animation-leash of app_transition#0
-04-17 18:01:39.034  4929  6292 I SurfaceFlinger: id=6876 createSurf (0x0),-1 flag=24000, Surface(name=WallpaperWindowToken{d6ee959 token=android.os.Binder@a5b645d})/@0xd987287 - animation-leash of window_animation#0
-04-17 18:01:39.037  5274  5297 D WindowManager: RemoteAnimationController::onAnimationStart, animations=[Landroid.view.RemoteAnimationTarget;@bad9a69
-04-17 18:01:39.038  6034 29271 I LauncherAnimationRunner: onAnimationStart, appTargets : [Lcom.android.systemui.shared.system.RemoteAnimationTargetCompat;@69c6d90 mStartAtFrontOfQueue : false
-04-17 18:01:39.040  5274  7528 V WindowManager: Relayout Window{ddf29e4 u0 com.android.systemui.ImageWallpaper}: viewVisibility=0 req=2340x2340 d0
-04-17 18:01:39.042  5274  7528 V WindowManager: Relayout hash=ddf29e4, pid=5598: mAttrs={(0,0)(2340x2340) gr=TOP START CENTER layoutInDisplayCutoutMode=always ty=WALLPAPER fmt=RGBX_8888 wanim=0x1030314
-04-17 18:01:39.042  5274  7528 V WindowManager:   fl=14318
-04-17 18:01:39.042  5274  7528 V WindowManager:   pfl=2000004
-04-17 18:01:39.042  5274  7528 V WindowManager:   bhv=DEFAULT naviIconColor=0
-04-17 18:01:39.042  5274  7528 V WindowManager:   sfl=8}
-04-17 18:01:39.043  5274  6707 I MediaSessionMonitor: Media session stopped : controllerList empty
-04-17 18:01:39.043  5598  5598 D WallpaperService: updateSurface redrawNeeded=false didSurface=false , mDestroyed = false
-04-17 18:01:39.043  5598  5598 D WallpaperService: reportVisibility onVisibilityChanged visible: true
-04-17 18:01:39.043  5598  5699 I ImageWallpaper:  onVisibilityChanged true , 0
-04-17 18:01:39.043  5598  5598 D NavigationBar: onSystemBarAttributesChanged() -  displayId:0, appearance:16 (APPEARANCE_LIGHT_NAVIGATION_BARS ), navbarColorManagedByIme:false
-04-17 18:01:39.044  5598  5699 I ImageWallpaperRenderer: updateWallpaperOffset 0 lastCropOffset 0 wp Type , 0 , rotation == 0 Do not change Display offset 0
-04-17 18:01:39.046  6034  6184 I LiveIconUpdateEventHandler: cancelDateChangeAlarm
-04-17 18:01:39.046  6034 29271 I TouchInteractionService: onSystemUiStateChanged, stateFlags : 0
-04-17 18:01:39.046  5274  7486 D InputDispatcher: Focus entered window (0): 5540baa com.sec.android.app.launcher/com.sec.android.app.launcher.activities.LauncherActivity
-04-17 18:01:39.047  5598  5598 D NavigationBar: onSystemBarAttributesChanged() -  displayId:0, appearance:0, navbarColorManagedByIme:false
-04-17 18:01:39.047  5598  5598 V Navbar.Store: handleEvent [EventType] GET_BOOL_REGION_SAMPLING_ENABLED [Module] LightBarController  KEYS_DEFAULT=false
-04-17 18:01:39.047  5598  5598 V Navbar.Store: --[Band]COLOR_PACK_GET_REGION_SAMPLING_ENABLED
-04-17 18:01:39.047  5598  5598 V Navbar.Store: ----getValue(BOOL_REGION_SAMPLING_ENABLED)=false
-04-17 18:01:39.049  5598  5598 D SecLightBarControlHelper: updateStatus(WHITE icon) NumLightStacks:0, NumStacks:1, IndexLightStack:-1, StatusBarMode:0, StatusBarState:SHD, NeedDarkFontFromWallpaper:false, isWhiteKeyguardStatusBarBySettings:false
-04-17 18:01:39.050  7578  7578 I Utils   : HomePackage : com.sec.android.app.launcher, resumePackageName : com.sec.android.app.launcher
-04-17 18:01:39.054 24018 24045 I TestRunner: finished: testQuery_callQueryWithInvalidWhereArguments(com.myapp.alist.db.ListDaoQueryTest)
+04-19 15:55:22.085  6061  6091 I TestRunner: started: testQuery_callQueryWithInvalidWhereArguments(com.myapp.alist.db.ListDaoQueryTest)
+04-19 15:55:22.085  4894  4927 I SurfaceFlinger: id=4108 Removed Surface(name=1b7ed40 com.myapp.alist/com.myapp.alist.ui.MainActivity)/@0x770c53b - animation-leash of starting_reveal#0 (112)
+04-19 15:55:22.086  5576  5593 W System  : A resource failed to call release.
+04-19 15:55:22.086  4894  4926 I SurfaceFlinger: id=4049 Removed Task=48#0 (112)
+04-19 15:55:22.088  5576  5593 W System  : A resource failed to call release.
+04-19 15:55:22.088  4894  4926 I SurfaceFlinger: id=4082 Removed Task=49#0 (112)
+04-19 15:55:22.088  5576  5593 W System  : A resource failed to call close.
+04-19 15:55:22.090  5576  5593 W System  : A resource failed to call release.
+04-19 15:55:22.090  5576  5593 W System  : A resource failed to call close.
+04-19 15:55:22.090  5232  8700 V WindowManager: Relayout Window{313699a u0 Splash Screen com.myapp.alist.test}: viewVisibility=8 req=1080x2340 d0
+04-19 15:55:22.090  4894  4926 I SurfaceFlinger: id=4090 Removed Surface(name=877f4ea InputMethod)/@0x6ee3742 - animation-leash of insets_animation#0 (112)
+04-19 15:55:22.090  4894  4926 I SurfaceFlinger: id=4140 Removed Surface(name=ec1a749 NavigationBar0)/@0xfb3ebf7 - animation-leash of insets_animation#0 (112)
+04-19 15:55:22.090  4894  4926 I SurfaceFlinger: id=4139 Removed Surface(name=2bb52fa StatusBar)/@0xde6dab8 - animation-leash of insets_animation#1 (112)
+04-19 15:55:22.090  6314  6314 I ViewRootImpl@3a4aed1[InstrumentationActivityInvoker$EmptyActivity]: MSG_WINDOW_FOCUS_CHANGED 0 1
+04-19 15:55:22.090  4894  4926 I SurfaceFlinger: id=4147 createSurf (0x0),-1 flag=24000, Surface(name=313699a Splash Screen com.myapp.alist.test)/@0xd526520 - animation-leash of window_animation#0
+04-19 15:55:22.093  5232  8700 V WindowManager: Relayout hash=313699a, pid=5576: mAttrs={(0,0)(fillxfill) sim={adjust=pan} ty=APPLICATION_STARTING fmt=TRANSLUCENT
+04-19 15:55:22.093  5232  8700 V WindowManager:   fl=81030118
+04-19 15:55:22.093  5232  8700 V WindowManager:   pfl=36000010
+04-19 15:55:22.093  5232  8700 V WindowManager:   apr=LIGHT_STATUS_BARS LIGHT_NAVIGATION_BARS
+04-19 15:55:22.093  5232  8700 V WindowManager:   bhv=DEFAULT
+04-19 15:55:22.093  5232  8700 V WindowManager:   fitSides= naviIconColor=0}
+04-19 15:55:22.094  4894  4894 I Layer   : id=4082 Destroyed Task=49#0
+04-19 15:55:22.094  4894  4894 I Layer   : id=4108 Destroyed Surface(name=1b7ed40 com.myapp.alist/com.myapp.alist.ui.MainActivity)/@0x770c53b - animation-leash of starting_reveal#0
+04-19 15:55:22.094  4894  4894 I Layer   : id=4139 Destroyed Surface(name=2bb52fa StatusBar)/@0xde6dab8 - animation-leash of insets_animation#1
+04-19 15:55:22.094  4894  4894 I Layer   : id=4049 Destroyed Task=48#0
+04-19 15:55:22.095  4894  4894 I Layer   : id=4140 Destroyed Surface(name=ec1a749 NavigationBar0)/@0xfb3ebf7 - animation-leash of insets_animation#0
+04-19 15:55:22.095  4894  4894 I Layer   : id=4090 Destroyed Surface(name=877f4ea InputMethod)/@0x6ee3742 - animation-leash of insets_animation#0
+04-19 15:55:22.098  5576  5640 D InsetsSourceConsumer: ensureControlAlpha: for ITYPE_NAVIGATION_BAR on Splash Screen com.myapp.alist.test
+04-19 15:55:22.099  5576  5640 D InsetsSourceConsumer: ensureControlAlpha: for ITYPE_STATUS_BAR on Splash Screen com.myapp.alist.test
+04-19 15:55:22.099  5576  5640 I ViewRootImpl@fbf3017[test]: Relayout returned: old=(0,0,1080,2340) new=(0,0,1080,2340) req=(1080,2340)8 dur=12 res=0x5 s={false 0} ch=true fn=5
+04-19 15:55:22.100  5576  5640 I ViewRootImpl@fbf3017[test]: dispatchDetachedFromWindow
+04-19 15:55:22.100  4894  4927 I SurfaceFlinger: id=4148 createSurf (0x0),-1 flag=24004, Task=50#1
+04-19 15:55:22.103  5232  5579 D InputTransport: Input channel destroyed: '313699a', fd=496
+04-19 15:55:22.103  5232  5579 W InputManager-JNI: Input channel object '313699a Splash Screen com.myapp.alist.test (client)' was disposed without first being removed with the input manager!
+04-19 15:55:22.103  5232  5579 D InputTransport: Input channel destroyed: '313699a', fd=530
+04-19 15:55:22.107  5232  8700 V WindowManager: Relayout Window{5388057 u0 com.sec.android.app.launcher/com.sec.android.app.launcher.activities.LauncherActivity}: viewVisibility=4 req=1080x2340 d0
+04-19 15:55:22.108  5576  5640 D InputTransport: Input channel destroyed: '313699a', fd=147
+04-19 15:55:22.109  5232  8700 V WindowManager: Relayout hash=5388057, pid=5983: mAttrs={(0,0)(fillxfill) sim={adjust=nothing} layoutInDisplayCutoutMode=shortEdges ty=BASE_APPLICATION fmt=TRANSPARENT wanim=0x10302f2
+04-19 15:55:22.109  5232  8700 V WindowManager:   fl=81910100
+04-19 15:55:22.109  5232  8700 V WindowManager:   pfl=1e020040
+04-19 15:55:22.109  5232  8700 V WindowManager:   vsysui=1700
+04-19 15:55:22.109  5232  8700 V WindowManager:   bhv=SHOW_TRANSIENT_BARS_BY_SWIPE
+04-19 15:55:22.109  5232  8700 V WindowManager:   fitSides= naviIconColor=0}
+04-19 15:55:22.110  5983  5983 I ViewRootImpl@f05f80e[LauncherActivity]: Relayout returned: old=(0,0,1080,2340) new=(0,0,1080,2340) req=(1080,2340)4 dur=14 res=0x1 s={false 0} ch=false fn=-1
+04-19 15:55:22.110  5983  5983 I ViewRootImpl@f05f80e[LauncherActivity]: stopped(false) old=true
+04-19 15:55:22.111  6061  6091 I TestRunner: finished: testQuery_callQueryWithInvalidWhereArguments(com.myapp.alist.db.ListDaoQueryTest)

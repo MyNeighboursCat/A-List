@@ -1,22 +1,18 @@
 [
     {
-        "merged": "com.myapp.alist.app-mergeDebugResources-31:/layout/content_main.xml",
-        "source": "com.myapp.alist.app-main-34:/layout/content_main.xml"
+        "merged": "com.myapp.alist.app-mergeDebugResources-35:/layout/text_display.xml",
+        "source": "com.myapp.alist.app-main-38:/layout/text_display.xml"
     },
     {
-        "merged": "C:\\Users\\colin\\.gradle\\daemon\\8.0\\com.myapp.alist.app-mergeDebugResources-31:\\layout\\content_main.xml",
-        "source": "C:\\Users\\colin\\.gradle\\daemon\\8.0\\com.myapp.alist.app-main-34:\\layout\\content_main.xml"
+        "merged": "com.myapp.alist.app-mergeDebugResources-35:/layout/activity_main.xml",
+        "source": "com.myapp.alist.app-main-38:/layout/activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\colin\\.gradle\\daemon\\8.0\\com.myapp.alist.app-mergeDebugResources-31:\\layout\\activity_main.xml",
-        "source": "C:\\Users\\colin\\.gradle\\daemon\\8.0\\com.myapp.alist.app-main-34:\\layout\\activity_main.xml"
+        "merged": "com.myapp.alist.app-mergeDebugResources-35:/layout/content_main.xml",
+        "source": "com.myapp.alist.app-main-38:/layout/content_main.xml"
     },
     {
-        "merged": "C:\\Users\\colin\\.gradle\\daemon\\8.0\\com.myapp.alist.app-mergeDebugResources-31:\\layout\\text_display.xml",
-        "source": "C:\\Users\\colin\\.gradle\\daemon\\8.0\\com.myapp.alist.app-main-34:\\layout\\text_display.xml"
-    },
-    {
-        "merged": "C:\\Users\\colin\\.gradle\\daemon\\8.0\\com.myapp.alist.app-mergeDebugResources-31:\\layout\\list_row.xml",
-        "source": "C:\\Users\\colin\\.gradle\\daemon\\8.0\\com.myapp.alist.app-main-34:\\layout\\list_row.xml"
+        "merged": "com.myapp.alist.app-mergeDebugResources-35:/layout/list_row.xml",
+        "source": "com.myapp.alist.app-main-38:/layout/list_row.xml"
     }
 ]

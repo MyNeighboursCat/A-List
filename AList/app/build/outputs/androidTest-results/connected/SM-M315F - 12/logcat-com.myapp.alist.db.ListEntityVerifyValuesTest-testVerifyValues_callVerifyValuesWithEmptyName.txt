@@ -1,2 +1,5 @@
-04-17 18:01:39.356 24018 24045 I TestRunner: started: testVerifyValues_callVerifyValuesWithEmptyName(com.myapp.alist.db.ListEntityVerifyValuesTest)
-04-17 18:01:39.360 24018 24045 I TestRunner: finished: testVerifyValues_callVerifyValuesWithEmptyName(com.myapp.alist.db.ListEntityVerifyValuesTest)
+04-19 15:55:22.463  6061  6091 I TestRunner: started: testVerifyValues_callVerifyValuesWithEmptyName(com.myapp.alist.db.ListEntityVerifyValuesTest)
+04-19 15:55:22.466  6314  6342 D OpenGLRenderer: setSurface called with nullptr
+04-19 15:55:22.467  6314  6342 D OpenGLRenderer: setSurface() destroyed EGLSurface
+04-19 15:55:22.467  6314  6342 D OpenGLRenderer: destroyEglSurface
+04-19 15:55:22.467  6061  6091 I TestRunner: finished: testVerifyValues_callVerifyValuesWithEmptyName(com.myapp.alist.db.ListEntityVerifyValuesTest)

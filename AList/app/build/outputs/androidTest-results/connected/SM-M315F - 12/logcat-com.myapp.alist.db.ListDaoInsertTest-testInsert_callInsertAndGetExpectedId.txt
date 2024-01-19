@@ -1,2 +1,2 @@
-04-17 18:01:39.477 24018 24045 I TestRunner: started: testInsert_callInsertAndGetExpectedId(com.myapp.alist.db.ListDaoInsertTest)
-04-17 18:01:39.487 24018 24045 I TestRunner: finished: testInsert_callInsertAndGetExpectedId(com.myapp.alist.db.ListDaoInsertTest)
+04-19 15:55:22.588  6061  6091 I TestRunner: started: testInsert_callInsertAndGetExpectedId(com.myapp.alist.db.ListDaoInsertTest)
+04-19 15:55:22.598  6061  6091 I TestRunner: finished: testInsert_callInsertAndGetExpectedId(com.myapp.alist.db.ListDaoInsertTest)

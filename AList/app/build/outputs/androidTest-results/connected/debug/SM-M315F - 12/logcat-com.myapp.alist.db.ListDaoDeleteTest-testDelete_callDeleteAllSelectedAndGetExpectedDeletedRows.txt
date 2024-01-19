@@ -1,0 +1,2 @@
+01-19 17:17:32.313  3761  3781 I TestRunner: started: testDelete_callDeleteAllSelectedAndGetExpectedDeletedRows(com.myapp.alist.db.ListDaoDeleteTest)
+01-19 17:17:32.337  3761  3781 I TestRunner: finished: testDelete_callDeleteAllSelectedAndGetExpectedDeletedRows(com.myapp.alist.db.ListDaoDeleteTest)

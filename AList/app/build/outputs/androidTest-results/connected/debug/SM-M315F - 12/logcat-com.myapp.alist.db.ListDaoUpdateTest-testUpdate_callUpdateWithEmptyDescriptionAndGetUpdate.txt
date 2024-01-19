@@ -1,0 +1,2 @@
+01-19 17:17:32.133  3761  3781 I TestRunner: started: testUpdate_callUpdateWithEmptyDescriptionAndGetUpdate(com.myapp.alist.db.ListDaoUpdateTest)
+01-19 17:17:32.150  3761  3781 I TestRunner: finished: testUpdate_callUpdateWithEmptyDescriptionAndGetUpdate(com.myapp.alist.db.ListDaoUpdateTest)

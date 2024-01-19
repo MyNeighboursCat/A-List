@@ -1,0 +1,2 @@
+01-19 17:17:32.070  3761  3781 I TestRunner: started: testInsert_callInsertWithDuplicateDescriptionOnlyAndGetExpectedId(com.myapp.alist.db.ListDaoInsertTest)
+01-19 17:17:32.087  3761  3781 I TestRunner: finished: testInsert_callInsertWithDuplicateDescriptionOnlyAndGetExpectedId(com.myapp.alist.db.ListDaoInsertTest)

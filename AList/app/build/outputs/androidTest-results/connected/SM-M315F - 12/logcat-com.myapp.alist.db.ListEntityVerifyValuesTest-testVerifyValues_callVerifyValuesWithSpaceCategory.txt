@@ -1,9 +1,2 @@
-04-17 18:01:39.328 24018 24045 I TestRunner: started: testVerifyValues_callVerifyValuesWithSpaceCategory(com.myapp.alist.db.ListEntityVerifyValuesTest)
-04-17 18:01:39.329  4929  4929 E SurfaceFlinger: Attempt to update InputPolicyFlags without permission ACCESS_SURFACE_FLINGER
-04-17 18:01:39.329  4929  4929 I Layer   : id=6874 removeFromCurrentState Surface(name=Task=74)/@0x8591484 - animation-leash of app_transition#0 (107)
-04-17 18:01:39.329  4929  4929 I Layer   : id=6876 removeFromCurrentState Surface(name=WallpaperWindowToken{d6ee959 token=android.os.Binder@a5b645d})/@0xd987287 - animation-leash of window_animation#0 (107)
-04-17 18:01:39.329  4929  4929 I Layer   : id=6875 removeFromCurrentState Surface(name=Task=1)/@0xd2bd64a - animation-leash of app_transition#0 (107)
-04-17 18:01:39.332 24160 24184 D OpenGLRenderer: setSurface called with nullptr
-04-17 18:01:39.332 24160 24184 D OpenGLRenderer: setSurface() destroyed EGLSurface
-04-17 18:01:39.332 24160 24184 D OpenGLRenderer: destroyEglSurface
-04-17 18:01:39.332 24018 24045 I TestRunner: finished: testVerifyValues_callVerifyValuesWithSpaceCategory(com.myapp.alist.db.ListEntityVerifyValuesTest)
+04-19 15:55:22.438  6061  6091 I TestRunner: started: testVerifyValues_callVerifyValuesWithSpaceCategory(com.myapp.alist.db.ListEntityVerifyValuesTest)
+04-19 15:55:22.441  6061  6091 I TestRunner: finished: testVerifyValues_callVerifyValuesWithSpaceCategory(com.myapp.alist.db.ListEntityVerifyValuesTest)

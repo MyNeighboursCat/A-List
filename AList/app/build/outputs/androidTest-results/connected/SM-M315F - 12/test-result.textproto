@@ -1,4 +1,4 @@
-# 2023-04-17T17:01:39.321Z:
+# 2023-04-19T14:55:26.715Z:
 test_suite_meta_data {
   scheduled_test_case_count: 50
 }
@@ -9,12 +9,12 @@ test_result {
     test_package: "com.myapp.alist.ui"
     test_method: "testInsertButton_clickInsertButtonAndGetExpectedData"
     start_time {
-      seconds: 1681750885
-      nanos: 956000000
+      seconds: 1681916113
+      nanos: 54000000
     }
     end_time {
-      seconds: 1681750892
-      nanos: 190000000
+      seconds: 1681916119
+      nanos: 460000000
     }
   }
   test_status: PASSED
@@ -61,12 +61,12 @@ test_result {
     test_package: "com.myapp.alist.ui"
     test_method: "testSelectButton_clickSelectButtonAndGetExpectedText"
     start_time {
-      seconds: 1681750892
-      nanos: 203000000
+      seconds: 1681916119
+      nanos: 488000000
     }
     end_time {
-      seconds: 1681750897
-      nanos: 322000000
+      seconds: 1681916124
+      nanos: 657000000
     }
   }
   test_status: PASSED
@@ -113,12 +113,12 @@ test_result {
     test_package: "com.myapp.alist.db"
     test_method: "testQuery_callQueryWithAscendingDescriptionAndDescendingNameSortOrder"
     start_time {
-      seconds: 1681750897
-      nanos: 349000000
+      seconds: 1681916124
+      nanos: 659000000
     }
     end_time {
-      seconds: 1681750897
-      nanos: 380000000
+      seconds: 1681916124
+      nanos: 716000000
     }
   }
   test_status: PASSED
@@ -165,12 +165,12 @@ test_result {
     test_package: "com.myapp.alist.db"
     test_method: "testQuery_callQueryWithInvalidWhereArguments"
     start_time {
-      seconds: 1681750897
-      nanos: 382000000
+      seconds: 1681916124
+      nanos: 719000000
     }
     end_time {
-      seconds: 1681750897
-      nanos: 409000000
+      seconds: 1681916124
+      nanos: 749000000
     }
   }
   test_status: PASSED
@@ -217,12 +217,12 @@ test_result {
     test_package: "com.myapp.alist.db"
     test_method: "testQuery_callQueryWithDescendingNameSortOrder"
     start_time {
-      seconds: 1681750897
-      nanos: 412000000
+      seconds: 1681916124
+      nanos: 752000000
     }
     end_time {
-      seconds: 1681750897
-      nanos: 442000000
+      seconds: 1681916124
+      nanos: 782000000
     }
   }
   test_status: PASSED
@@ -269,12 +269,12 @@ test_result {
     test_package: "com.myapp.alist.db"
     test_method: "testQuery_callQueryWithAscendingNameAndDescendingDescriptionSortOrder"
     start_time {
-      seconds: 1681750897
-      nanos: 444000000
+      seconds: 1681916124
+      nanos: 783000000
     }
     end_time {
-      seconds: 1681750897
-      nanos: 475000000
+      seconds: 1681916124
+      nanos: 813000000
     }
   }
   test_status: PASSED
@@ -321,12 +321,12 @@ test_result {
     test_package: "com.myapp.alist.db"
     test_method: "testQuery_callQueryWithAscendingDescriptionAndAscendingNameSortOrder"
     start_time {
-      seconds: 1681750897
-      nanos: 477000000
+      seconds: 1681916124
+      nanos: 814000000
     }
     end_time {
-      seconds: 1681750897
-      nanos: 483000000
+      seconds: 1681916124
+      nanos: 868000000
     }
   }
   test_status: PASSED
@@ -373,12 +373,12 @@ test_result {
     test_package: "com.myapp.alist.db"
     test_method: "testQuery_callQueryWithAscendingNameAndAscendingDescriptionSortOrder"
     start_time {
-      seconds: 1681750897
-      nanos: 484000000
+      seconds: 1681916124
+      nanos: 870000000
     }
     end_time {
-      seconds: 1681750897
-      nanos: 514000000
+      seconds: 1681916124
+      nanos: 901000000
     }
   }
   test_status: PASSED
@@ -425,12 +425,12 @@ test_result {
     test_package: "com.myapp.alist.db"
     test_method: "testQuery_callQueryWithDescendingDescriptionAndDescendingNameSortOrder"
     start_time {
-      seconds: 1681750897
-      nanos: 515000000
+      seconds: 1681916124
+      nanos: 902000000
     }
     end_time {
-      seconds: 1681750897
-      nanos: 544000000
+      seconds: 1681916124
+      nanos: 934000000
     }
   }
   test_status: PASSED
@@ -477,12 +477,12 @@ test_result {
     test_package: "com.myapp.alist.db"
     test_method: "testQuery_callQueryWithAscendingDescriptionSortOrder"
     start_time {
-      seconds: 1681750897
-      nanos: 546000000
+      seconds: 1681916124
+      nanos: 937000000
     }
     end_time {
-      seconds: 1681750897
-      nanos: 576000000
+      seconds: 1681916124
+      nanos: 946000000
     }
   }
   test_status: PASSED
@@ -529,12 +529,12 @@ test_result {
     test_package: "com.myapp.alist.db"
     test_method: "testQuery_callQueryWithDescendingNameAndDescendingDescriptionSortOrder"
     start_time {
-      seconds: 1681750897
-      nanos: 577000000
+      seconds: 1681916124
+      nanos: 948000000
     }
     end_time {
-      seconds: 1681750897
-      nanos: 583000000
+      seconds: 1681916124
+      nanos: 979000000
     }
   }
   test_status: PASSED
@@ -581,24 +581,15 @@ test_result {
     test_package: "com.myapp.alist.db"
     test_method: "testQuery_callQueryWithAscendingNameSortOrder"
     start_time {
-      seconds: 1681750897
-      nanos: 585000000
+      seconds: 1681916124
+      nanos: 982000000
     }
     end_time {
-      seconds: 1681750897
-      nanos: 615000000
+      seconds: 1681916124
+      nanos: 988000000
     }
   }
   test_status: PASSED
-  output_artifact {
-    label {
-      label: "logcat"
-      namespace: "android"
-    }
-    source_path {
-      path: "C:\\Users\\colin\\AndroidStudioProjects\\AList\\app\\build\\outputs\\androidTest-results\\connected\\SM-M315F - 12\\logcat-com.myapp.alist.db.ListDaoQueryTest-testQuery_callQueryWithAscendingNameSortOrder.txt"
-    }
-  }
   output_artifact {
     label {
       label: "device-info"
@@ -633,15 +624,24 @@ test_result {
     test_package: "com.myapp.alist.db"
     test_method: "testQuery_callQueryAndGetExpectedData"
     start_time {
-      seconds: 1681750897
-      nanos: 616000000
+      seconds: 1681916124
+      nanos: 990000000
     }
     end_time {
-      seconds: 1681750897
-      nanos: 620000000
+      seconds: 1681916125
+      nanos: 20000000
     }
   }
   test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\colin\\AndroidStudioProjects\\AList\\app\\build\\outputs\\androidTest-results\\connected\\SM-M315F - 12\\logcat-com.myapp.alist.db.ListDaoQueryTest-testQuery_callQueryAndGetExpectedData.txt"
+    }
+  }
   output_artifact {
     label {
       label: "device-info"
@@ -676,15 +676,24 @@ test_result {
     test_package: "com.myapp.alist.db"
     test_method: "testQuery_callQueryWithDescendingDescriptionAndAscendingNameSortOrder"
     start_time {
-      seconds: 1681750897
-      nanos: 622000000
+      seconds: 1681916125
+      nanos: 22000000
     }
     end_time {
-      seconds: 1681750897
-      nanos: 651000000
+      seconds: 1681916125
+      nanos: 27000000
     }
   }
   test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\colin\\AndroidStudioProjects\\AList\\app\\build\\outputs\\androidTest-results\\connected\\SM-M315F - 12\\logcat-com.myapp.alist.db.ListDaoQueryTest-testQuery_callQueryWithDescendingDescriptionAndAscendingNameSortOrder.txt"
+    }
+  }
   output_artifact {
     label {
       label: "device-info"
@@ -719,15 +728,24 @@ test_result {
     test_package: "com.myapp.alist.db"
     test_method: "testQuery_callQueryWithDescendingNameAndAscendingDescriptionSortOrder"
     start_time {
-      seconds: 1681750897
-      nanos: 652000000
+      seconds: 1681916125
+      nanos: 29000000
     }
     end_time {
-      seconds: 1681750897
-      nanos: 656000000
+      seconds: 1681916125
+      nanos: 61000000
     }
   }
   test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\colin\\AndroidStudioProjects\\AList\\app\\build\\outputs\\androidTest-results\\connected\\SM-M315F - 12\\logcat-com.myapp.alist.db.ListDaoQueryTest-testQuery_callQueryWithDescendingNameAndAscendingDescriptionSortOrder.txt"
+    }
+  }
   output_artifact {
     label {
       label: "device-info"
@@ -762,12 +780,12 @@ test_result {
     test_package: "com.myapp.alist.db"
     test_method: "testQuery_callQueryWithDescendingDescriptionSortOrder"
     start_time {
-      seconds: 1681750897
-      nanos: 658000000
+      seconds: 1681916125
+      nanos: 63000000
     }
     end_time {
-      seconds: 1681750897
-      nanos: 688000000
+      seconds: 1681916125
+      nanos: 71000000
     }
   }
   test_status: PASSED
@@ -814,12 +832,12 @@ test_result {
     test_package: "com.myapp.alist.db"
     test_method: "testVerifyValues_callVerifyValuesWithSpaceCategory"
     start_time {
-      seconds: 1681750897
-      nanos: 690000000
+      seconds: 1681916125
+      nanos: 72000000
     }
     end_time {
-      seconds: 1681750897
-      nanos: 695000000
+      seconds: 1681916125
+      nanos: 84000000
     }
   }
   test_status: PASSED
@@ -866,12 +884,12 @@ test_result {
     test_package: "com.myapp.alist.db"
     test_method: "testVerifyValues_callVerifyValuesWithSpaceStatus"
     start_time {
-      seconds: 1681750897
-      nanos: 697000000
+      seconds: 1681916125
+      nanos: 87000000
     }
     end_time {
-      seconds: 1681750897
-      nanos: 702000000
+      seconds: 1681916125
+      nanos: 95000000
     }
   }
   test_status: PASSED
@@ -918,15 +936,24 @@ test_result {
     test_package: "com.myapp.alist.db"
     test_method: "testVerifyValues_callVerifyValuesWithNullCategory"
     start_time {
-      seconds: 1681750897
-      nanos: 704000000
+      seconds: 1681916125
+      nanos: 97000000
     }
     end_time {
-      seconds: 1681750897
-      nanos: 709000000
+      seconds: 1681916125
+      nanos: 104000000
     }
   }
   test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\colin\\AndroidStudioProjects\\AList\\app\\build\\outputs\\androidTest-results\\connected\\SM-M315F - 12\\logcat-com.myapp.alist.db.ListEntityVerifyValuesTest-testVerifyValues_callVerifyValuesWithNullCategory.txt"
+    }
+  }
   output_artifact {
     label {
       label: "device-info"
@@ -961,12 +988,12 @@ test_result {
     test_package: "com.myapp.alist.db"
     test_method: "testVerifyValues_callVerifyValuesWithNullDescription"
     start_time {
-      seconds: 1681750897
-      nanos: 711000000
+      seconds: 1681916125
+      nanos: 110000000
     }
     end_time {
-      seconds: 1681750897
-      nanos: 716000000
+      seconds: 1681916125
+      nanos: 116000000
     }
   }
   test_status: PASSED
@@ -1013,12 +1040,12 @@ test_result {
     test_package: "com.myapp.alist.db"
     test_method: "testVerifyValues_callVerifyValuesWithEmptyName"
     start_time {
-      seconds: 1681750897
-      nanos: 718000000
+      seconds: 1681916125
+      nanos: 119000000
     }
     end_time {
-      seconds: 1681750897
-      nanos: 724000000
+      seconds: 1681916125
+      nanos: 124000000
     }
   }
   test_status: PASSED
@@ -1065,12 +1092,12 @@ test_result {
     test_package: "com.myapp.alist.db"
     test_method: "testVerifyValues_callVerifyValuesWithSpaceDescription"
     start_time {
-      seconds: 1681750897
-      nanos: 726000000
+      seconds: 1681916125
+      nanos: 126000000
     }
     end_time {
-      seconds: 1681750897
-      nanos: 731000000
+      seconds: 1681916125
+      nanos: 133000000
     }
   }
   test_status: PASSED
@@ -1117,15 +1144,24 @@ test_result {
     test_package: "com.myapp.alist.db"
     test_method: "testVerifyValues_callVerifyValuesWithSpaceName"
     start_time {
-      seconds: 1681750897
-      nanos: 732000000
+      seconds: 1681916125
+      nanos: 138000000
     }
     end_time {
-      seconds: 1681750897
-      nanos: 737000000
+      seconds: 1681916125
+      nanos: 146000000
     }
   }
   test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\colin\\AndroidStudioProjects\\AList\\app\\build\\outputs\\androidTest-results\\connected\\SM-M315F - 12\\logcat-com.myapp.alist.db.ListEntityVerifyValuesTest-testVerifyValues_callVerifyValuesWithSpaceName.txt"
+    }
+  }
   output_artifact {
     label {
       label: "device-info"
@@ -1160,15 +1196,24 @@ test_result {
     test_package: "com.myapp.alist.db"
     test_method: "testVerifyValues_callVerifyValuesWithNonNullValuesAndMissingDetails"
     start_time {
-      seconds: 1681750897
-      nanos: 739000000
+      seconds: 1681916125
+      nanos: 148000000
     }
     end_time {
-      seconds: 1681750897
-      nanos: 743000000
+      seconds: 1681916125
+      nanos: 156000000
     }
   }
   test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\colin\\AndroidStudioProjects\\AList\\app\\build\\outputs\\androidTest-results\\connected\\SM-M315F - 12\\logcat-com.myapp.alist.db.ListEntityVerifyValuesTest-testVerifyValues_callVerifyValuesWithNonNullValuesAndMissingDetails.txt"
+    }
+  }
   output_artifact {
     label {
       label: "device-info"
@@ -1203,15 +1248,24 @@ test_result {
     test_package: "com.myapp.alist.db"
     test_method: "testVerifyValues_callVerifyValuesWithEmptyCategory"
     start_time {
-      seconds: 1681750897
-      nanos: 747000000
+      seconds: 1681916125
+      nanos: 158000000
     }
     end_time {
-      seconds: 1681750897
-      nanos: 752000000
+      seconds: 1681916125
+      nanos: 165000000
     }
   }
   test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\colin\\AndroidStudioProjects\\AList\\app\\build\\outputs\\androidTest-results\\connected\\SM-M315F - 12\\logcat-com.myapp.alist.db.ListEntityVerifyValuesTest-testVerifyValues_callVerifyValuesWithEmptyCategory.txt"
+    }
+  }
   output_artifact {
     label {
       label: "device-info"
@@ -1246,15 +1300,24 @@ test_result {
     test_package: "com.myapp.alist.db"
     test_method: "testVerifyValues_callVerifyValuesWithAllStatus"
     start_time {
-      seconds: 1681750897
-      nanos: 754000000
+      seconds: 1681916125
+      nanos: 166000000
     }
     end_time {
-      seconds: 1681750897
-      nanos: 758000000
+      seconds: 1681916125
+      nanos: 173000000
     }
   }
   test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\colin\\AndroidStudioProjects\\AList\\app\\build\\outputs\\androidTest-results\\connected\\SM-M315F - 12\\logcat-com.myapp.alist.db.ListEntityVerifyValuesTest-testVerifyValues_callVerifyValuesWithAllStatus.txt"
+    }
+  }
   output_artifact {
     label {
       label: "device-info"
@@ -1289,15 +1352,24 @@ test_result {
     test_package: "com.myapp.alist.db"
     test_method: "testVerifyValues_callVerifyValuesWithMissingDescription"
     start_time {
-      seconds: 1681750897
-      nanos: 760000000
+      seconds: 1681916125
+      nanos: 179000000
     }
     end_time {
-      seconds: 1681750897
-      nanos: 767000000
+      seconds: 1681916125
+      nanos: 186000000
     }
   }
   test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\colin\\AndroidStudioProjects\\AList\\app\\build\\outputs\\androidTest-results\\connected\\SM-M315F - 12\\logcat-com.myapp.alist.db.ListEntityVerifyValuesTest-testVerifyValues_callVerifyValuesWithMissingDescription.txt"
+    }
+  }
   output_artifact {
     label {
       label: "device-info"
@@ -1332,12 +1404,12 @@ test_result {
     test_package: "com.myapp.alist.db"
     test_method: "testVerifyValues_callVerifyValuesWithNullStatus"
     start_time {
-      seconds: 1681750897
-      nanos: 770000000
+      seconds: 1681916125
+      nanos: 189000000
     }
     end_time {
-      seconds: 1681750897
-      nanos: 775000000
+      seconds: 1681916125
+      nanos: 196000000
     }
   }
   test_status: PASSED
@@ -1384,12 +1456,12 @@ test_result {
     test_package: "com.myapp.alist.db"
     test_method: "testVerifyValues_callVerifyValuesWithNullValues"
     start_time {
-      seconds: 1681750897
-      nanos: 776000000
+      seconds: 1681916125
+      nanos: 198000000
     }
     end_time {
-      seconds: 1681750897
-      nanos: 782000000
+      seconds: 1681916125
+      nanos: 204000000
     }
   }
   test_status: PASSED
@@ -1436,12 +1508,12 @@ test_result {
     test_package: "com.myapp.alist.db"
     test_method: "testVerifyValues_callVerifyValuesWithAllCategory"
     start_time {
-      seconds: 1681750897
-      nanos: 783000000
+      seconds: 1681916125
+      nanos: 205000000
     }
     end_time {
-      seconds: 1681750897
-      nanos: 787000000
+      seconds: 1681916125
+      nanos: 212000000
     }
   }
   test_status: PASSED
@@ -1488,12 +1560,12 @@ test_result {
     test_package: "com.myapp.alist.db"
     test_method: "testVerifyValues_callVerifyValuesWithNullName"
     start_time {
-      seconds: 1681750897
-      nanos: 789000000
+      seconds: 1681916125
+      nanos: 214000000
     }
     end_time {
-      seconds: 1681750897
-      nanos: 794000000
+      seconds: 1681916125
+      nanos: 220000000
     }
   }
   test_status: PASSED
@@ -1540,12 +1612,12 @@ test_result {
     test_package: "com.myapp.alist.db"
     test_method: "testVerifyValues_callVerifyValuesWithMissingCategory"
     start_time {
-      seconds: 1681750897
-      nanos: 796000000
+      seconds: 1681916125
+      nanos: 223000000
     }
     end_time {
-      seconds: 1681750897
-      nanos: 800000000
+      seconds: 1681916125
+      nanos: 230000000
     }
   }
   test_status: PASSED
@@ -1592,12 +1664,12 @@ test_result {
     test_package: "com.myapp.alist.db"
     test_method: "testVerifyValues_callVerifyValuesWithMissingStatus"
     start_time {
-      seconds: 1681750897
-      nanos: 802000000
+      seconds: 1681916125
+      nanos: 232000000
     }
     end_time {
-      seconds: 1681750897
-      nanos: 806000000
+      seconds: 1681916125
+      nanos: 238000000
     }
   }
   test_status: PASSED
@@ -1644,12 +1716,12 @@ test_result {
     test_package: "com.myapp.alist.db"
     test_method: "testVerifyValues_callVerifyValuesWithEmptyStatus"
     start_time {
-      seconds: 1681750897
-      nanos: 808000000
+      seconds: 1681916125
+      nanos: 247000000
     }
     end_time {
-      seconds: 1681750897
-      nanos: 811000000
+      seconds: 1681916125
+      nanos: 259000000
     }
   }
   test_status: PASSED
@@ -1696,12 +1768,12 @@ test_result {
     test_package: "com.myapp.alist.db"
     test_method: "testVerifyValues_callVerifyValuesWithMissingName"
     start_time {
-      seconds: 1681750897
-      nanos: 814000000
+      seconds: 1681916125
+      nanos: 261000000
     }
     end_time {
-      seconds: 1681750897
-      nanos: 819000000
+      seconds: 1681916125
+      nanos: 268000000
     }
   }
   test_status: PASSED
@@ -1748,12 +1820,12 @@ test_result {
     test_package: "com.myapp.alist.db"
     test_method: "testInsert_callInsertWithDuplicateNameOnlyAndGetExpectedError"
     start_time {
-      seconds: 1681750897
-      nanos: 821000000
+      seconds: 1681916125
+      nanos: 270000000
     }
     end_time {
-      seconds: 1681750897
-      nanos: 825000000
+      seconds: 1681916125
+      nanos: 277000000
     }
   }
   test_status: PASSED
@@ -1800,12 +1872,12 @@ test_result {
     test_package: "com.myapp.alist.db"
     test_method: "testInsert_callInsertWithDuplicateRowAndGetExpectedError"
     start_time {
-      seconds: 1681750897
-      nanos: 827000000
+      seconds: 1681916125
+      nanos: 278000000
     }
     end_time {
-      seconds: 1681750897
-      nanos: 831000000
+      seconds: 1681916125
+      nanos: 288000000
     }
   }
   test_status: PASSED
@@ -1852,12 +1924,12 @@ test_result {
     test_package: "com.myapp.alist.db"
     test_method: "testInsert_callInsertAndGetExpectedId"
     start_time {
-      seconds: 1681750897
-      nanos: 833000000
+      seconds: 1681916125
+      nanos: 290000000
     }
     end_time {
-      seconds: 1681750897
-      nanos: 838000000
+      seconds: 1681916125
+      nanos: 296000000
     }
   }
   test_status: PASSED
@@ -1904,15 +1976,24 @@ test_result {
     test_package: "com.myapp.alist.db"
     test_method: "testInsert_callInsertWithDuplicateDescriptionOnlyAndGetExpectedId"
     start_time {
-      seconds: 1681750897
-      nanos: 840000000
+      seconds: 1681916125
+      nanos: 298000000
     }
     end_time {
-      seconds: 1681750897
-      nanos: 844000000
+      seconds: 1681916125
+      nanos: 307000000
     }
   }
   test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\colin\\AndroidStudioProjects\\AList\\app\\build\\outputs\\androidTest-results\\connected\\SM-M315F - 12\\logcat-com.myapp.alist.db.ListDaoInsertTest-testInsert_callInsertWithDuplicateDescriptionOnlyAndGetExpectedId.txt"
+    }
+  }
   output_artifact {
     label {
       label: "device-info"
@@ -1947,12 +2028,12 @@ test_result {
     test_package: "com.myapp.alist.db"
     test_method: "testInsert_callInsertWithEmptyDescriptionAndGetExpectedId"
     start_time {
-      seconds: 1681750897
-      nanos: 846000000
+      seconds: 1681916125
+      nanos: 312000000
     }
     end_time {
-      seconds: 1681750897
-      nanos: 877000000
+      seconds: 1681916125
+      nanos: 322000000
     }
   }
   test_status: PASSED
@@ -1999,12 +2080,12 @@ test_result {
     test_package: "com.myapp.alist.db"
     test_method: "testUpdate_callUpdateAndGetExpectedData"
     start_time {
-      seconds: 1681750897
-      nanos: 879000000
+      seconds: 1681916125
+      nanos: 326000000
     }
     end_time {
-      seconds: 1681750897
-      nanos: 884000000
+      seconds: 1681916125
+      nanos: 341000000
     }
   }
   test_status: PASSED
@@ -2051,12 +2132,12 @@ test_result {
     test_package: "com.myapp.alist.db"
     test_method: "testUpdate_callUpdateWithEmptyDescriptionAndGetUpdate"
     start_time {
-      seconds: 1681750897
-      nanos: 886000000
+      seconds: 1681916125
+      nanos: 345000000
     }
     end_time {
-      seconds: 1681750897
-      nanos: 892000000
+      seconds: 1681916125
+      nanos: 355000000
     }
   }
   test_status: PASSED
@@ -2103,12 +2184,12 @@ test_result {
     test_package: "com.myapp.alist.db"
     test_method: "testUpdate_callUpdateWithInvalidRowIDAndGetNoUpdate"
     start_time {
-      seconds: 1681750897
-      nanos: 894000000
+      seconds: 1681916125
+      nanos: 359000000
     }
     end_time {
-      seconds: 1681750897
-      nanos: 922000000
+      seconds: 1681916125
+      nanos: 366000000
     }
   }
   test_status: PASSED
@@ -2155,12 +2236,12 @@ test_result {
     test_package: "com.myapp.alist.db"
     test_method: "testUpdate_callUpdateWithInvalidDetailsAndGetNoUpdate"
     start_time {
-      seconds: 1681750897
-      nanos: 924000000
+      seconds: 1681916125
+      nanos: 370000000
     }
     end_time {
-      seconds: 1681750897
-      nanos: 929000000
+      seconds: 1681916125
+      nanos: 377000000
     }
   }
   test_status: PASSED
@@ -2207,12 +2288,12 @@ test_result {
     test_package: "com.myapp.alist.db"
     test_method: "testUpdate_callUpdateWithDuplicateDescriptionAndGetUpdate"
     start_time {
-      seconds: 1681750897
-      nanos: 931000000
+      seconds: 1681916125
+      nanos: 379000000
     }
     end_time {
-      seconds: 1681750897
-      nanos: 935000000
+      seconds: 1681916125
+      nanos: 391000000
     }
   }
   test_status: PASSED
@@ -2259,12 +2340,12 @@ test_result {
     test_package: "com.myapp.alist.db"
     test_method: "testUpdate_callUpdateWithDuplicateRowAndGetExpectedData"
     start_time {
-      seconds: 1681750897
-      nanos: 936000000
+      seconds: 1681916125
+      nanos: 399000000
     }
     end_time {
-      seconds: 1681750897
-      nanos: 965000000
+      seconds: 1681916125
+      nanos: 405000000
     }
   }
   test_status: PASSED
@@ -2311,12 +2392,12 @@ test_result {
     test_package: "com.myapp.alist.db"
     test_method: "testUpdate_callUpdateWithDuplicateNameAndGetExpectedError"
     start_time {
-      seconds: 1681750897
-      nanos: 967000000
+      seconds: 1681916125
+      nanos: 408000000
     }
     end_time {
-      seconds: 1681750897
-      nanos: 970000000
+      seconds: 1681916125
+      nanos: 416000000
     }
   }
   test_status: PASSED
@@ -2363,15 +2444,24 @@ test_result {
     test_package: "com.myapp.alist.db"
     test_method: "testDelete_callDeleteRowAndGetExpectedDeletedRows"
     start_time {
-      seconds: 1681750897
-      nanos: 972000000
+      seconds: 1681916125
+      nanos: 418000000
     }
     end_time {
-      seconds: 1681750897
-      nanos: 976000000
+      seconds: 1681916125
+      nanos: 429000000
     }
   }
   test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\colin\\AndroidStudioProjects\\AList\\app\\build\\outputs\\androidTest-results\\connected\\SM-M315F - 12\\logcat-com.myapp.alist.db.ListDaoDeleteTest-testDelete_callDeleteRowAndGetExpectedDeletedRows.txt"
+    }
+  }
   output_artifact {
     label {
       label: "device-info"
@@ -2406,12 +2496,12 @@ test_result {
     test_package: "com.myapp.alist.db"
     test_method: "testDelete_callDeleteInvalidRowAndGetExpectedNoDeletedRows"
     start_time {
-      seconds: 1681750897
-      nanos: 978000000
+      seconds: 1681916125
+      nanos: 434000000
     }
     end_time {
-      seconds: 1681750898
-      nanos: 7000000
+      seconds: 1681916125
+      nanos: 444000000
     }
   }
   test_status: PASSED
@@ -2458,12 +2548,12 @@ test_result {
     test_package: "com.myapp.alist.db"
     test_method: "testDelete_callDeleteAllSelectedAndGetExpectedDeletedRows"
     start_time {
-      seconds: 1681750898
-      nanos: 9000000
+      seconds: 1681916125
+      nanos: 450000000
     }
     end_time {
-      seconds: 1681750898
-      nanos: 13000000
+      seconds: 1681916125
+      nanos: 456000000
     }
   }
   test_status: PASSED

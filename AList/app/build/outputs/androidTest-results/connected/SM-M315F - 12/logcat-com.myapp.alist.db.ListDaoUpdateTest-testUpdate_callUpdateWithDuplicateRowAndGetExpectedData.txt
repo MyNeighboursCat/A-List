@@ -1,4 +1,3 @@
-04-17 18:01:39.591 24018 24045 I TestRunner: started: testUpdate_callUpdateWithDuplicateRowAndGetExpectedData(com.myapp.alist.db.ListDaoUpdateTest)
-04-17 18:01:39.598  5274  7486 D ApplicationPolicy: isStatusBarNotificationAllowedAsUser: packageName = com.wsandroid.suite,userId = 0
-04-17 18:01:39.599  5274  7486 D ApplicationPolicy: isStatusBarNotificationAllowedAsUser: packageName = com.wsandroid.suite,userId = 0
-04-17 18:01:39.606 24018 24045 I TestRunner: finished: testUpdate_callUpdateWithDuplicateRowAndGetExpectedData(com.myapp.alist.db.ListDaoUpdateTest)
+04-19 15:55:22.696  6061  6091 I TestRunner: started: testUpdate_callUpdateWithDuplicateRowAndGetExpectedData(com.myapp.alist.db.ListDaoUpdateTest)
+04-19 15:55:22.700  5232  5490 D NetdEventListenerService: DNS Requested by : 0, 10109, 7
+04-19 15:55:22.709  6061  6091 I TestRunner: finished: testUpdate_callUpdateWithDuplicateRowAndGetExpectedData(com.myapp.alist.db.ListDaoUpdateTest)

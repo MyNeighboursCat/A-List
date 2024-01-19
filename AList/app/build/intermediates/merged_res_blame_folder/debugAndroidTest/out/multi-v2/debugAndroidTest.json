@@ -1,58 +1,34 @@
 {
     "logs": [
         {
-            "outputFile": "com.myapp.alist.test.app-merged_res-5:/values_values.arsc.flat",
+            "outputFile": "com.myapp.alist.test.app-merged_res-6:/values-v21_values-v21.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\colin\\.gradle\\caches\\transforms-3\\7b6dc2f3c1e361bfd6b929972dda37e7\\transformed\\jetified-core-1.5.0\\res\\values\\values.xml",
-                    "from": {
-                        "startLines": "4,11",
-                        "startColumns": "0,0",
-                        "startOffsets": "176,544",
-                        "endLines": "10,17",
-                        "endColumns": "8,8",
-                        "endOffsets": "543,909"
-                    },
-                    "to": {
-                        "startLines": "2,9",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,427",
-                        "endLines": "8,15",
-                        "endColumns": "8,8",
-                        "endOffsets": "422,792"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "com.myapp.alist.test.app-merged_res-5:/values-v28_values-v28.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Users\\colin\\.gradle\\caches\\transforms-3\\7b6dc2f3c1e361bfd6b929972dda37e7\\transformed\\jetified-core-1.5.0\\res\\values-v28\\values.xml",
+                    "source": "C:\\Users\\colin\\.gradle\\caches\\transforms-3\\bd69ad0dc0b66dfc2b7746e1db00606b\\transformed\\jetified-core-1.5.0\\res\\values-v21\\values.xml",
                     "from": {
                         "startLines": "4,13",
                         "startColumns": "0,0",
-                        "startOffsets": "180,659",
+                        "startOffsets": "180,655",
                         "endLines": "12,21",
                         "endColumns": "8,8",
-                        "endOffsets": "658,1135"
+                        "endOffsets": "654,1127"
                     },
                     "to": {
                         "startLines": "2,11",
                         "startColumns": "4,4",
-                        "startOffsets": "55,538",
+                        "startOffsets": "55,534",
                         "endLines": "10,19",
                         "endColumns": "8,8",
-                        "endOffsets": "533,1014"
+                        "endOffsets": "529,1006"
                     }
                 }
             ]
         },
         {
-            "outputFile": "com.myapp.alist.test.app-merged_res-5:/values-v18_values-v18.arsc.flat",
+            "outputFile": "com.myapp.alist.test.app-merged_res-6:/values-v18_values-v18.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\colin\\.gradle\\caches\\transforms-3\\7b6dc2f3c1e361bfd6b929972dda37e7\\transformed\\jetified-core-1.5.0\\res\\values-v18\\values.xml",
+                    "source": "C:\\Users\\colin\\.gradle\\caches\\transforms-3\\bd69ad0dc0b66dfc2b7746e1db00606b\\transformed\\jetified-core-1.5.0\\res\\values-v18\\values.xml",
                     "from": {
                         "startLines": "4,12",
                         "startColumns": "0,0",
@@ -73,25 +49,49 @@
             ]
         },
         {
-            "outputFile": "com.myapp.alist.test.app-merged_res-5:/values-v21_values-v21.arsc.flat",
+            "outputFile": "com.myapp.alist.test.app-merged_res-6:/values-v28_values-v28.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\colin\\.gradle\\caches\\transforms-3\\7b6dc2f3c1e361bfd6b929972dda37e7\\transformed\\jetified-core-1.5.0\\res\\values-v21\\values.xml",
+                    "source": "C:\\Users\\colin\\.gradle\\caches\\transforms-3\\bd69ad0dc0b66dfc2b7746e1db00606b\\transformed\\jetified-core-1.5.0\\res\\values-v28\\values.xml",
                     "from": {
                         "startLines": "4,13",
                         "startColumns": "0,0",
-                        "startOffsets": "180,655",
+                        "startOffsets": "180,659",
                         "endLines": "12,21",
                         "endColumns": "8,8",
-                        "endOffsets": "654,1127"
+                        "endOffsets": "658,1135"
                     },
                     "to": {
                         "startLines": "2,11",
                         "startColumns": "4,4",
-                        "startOffsets": "55,534",
+                        "startOffsets": "55,538",
                         "endLines": "10,19",
                         "endColumns": "8,8",
-                        "endOffsets": "529,1006"
+                        "endOffsets": "533,1014"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.myapp.alist.test.app-merged_res-6:/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\colin\\.gradle\\caches\\transforms-3\\bd69ad0dc0b66dfc2b7746e1db00606b\\transformed\\jetified-core-1.5.0\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "4,11",
+                        "startColumns": "0,0",
+                        "startOffsets": "176,544",
+                        "endLines": "10,17",
+                        "endColumns": "8,8",
+                        "endOffsets": "543,909"
+                    },
+                    "to": {
+                        "startLines": "2,9",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,427",
+                        "endLines": "8,15",
+                        "endColumns": "8,8",
+                        "endOffsets": "422,792"
                     }
                 }
             ]

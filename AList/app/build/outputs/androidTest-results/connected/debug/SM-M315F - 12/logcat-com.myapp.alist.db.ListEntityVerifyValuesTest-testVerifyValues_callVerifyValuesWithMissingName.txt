@@ -1,0 +1,2 @@
+01-19 17:17:32.006  3761  3781 I TestRunner: started: testVerifyValues_callVerifyValuesWithMissingName(com.myapp.alist.db.ListEntityVerifyValuesTest)
+01-19 17:17:32.009  3761  3781 I TestRunner: finished: testVerifyValues_callVerifyValuesWithMissingName(com.myapp.alist.db.ListEntityVerifyValuesTest)

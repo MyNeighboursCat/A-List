@@ -1,0 +1,36 @@
+01-19 17:17:31.441  3761  3781 I TestRunner: started: testQuery_callQueryWithInvalidWhereArguments(com.myapp.alist.db.ListDaoQueryTest)
+01-19 17:17:31.441  5599  5599 D PipMotionHelper: animateToOffset: originalBounds=Rect(533, 1634 - 1038, 1918) offset=0 callers=
+01-19 17:17:31.441  5599  5599 D PipMotionHelper:     com.android.wm.shell.pip.phone.PipTouchHandler.onMovementBoundsChanged:482
+01-19 17:17:31.441  5599  5599 D PipMotionHelper:     com.android.wm.shell.pip.phone.PipController.updateMovementBounds:715
+01-19 17:17:31.441  5599  5599 D PipMotionHelper:     com.android.wm.shell.pip.phone.PipController.lambda$init$3:351
+01-19 17:17:31.441  5599  5599 D PipMotionHelper:     com.android.wm.shell.pip.phone.PipController.$r8$lambda$u15Oj_b57njSWegfZTV6TpliGaw:0
+01-19 17:17:31.441  5599  5599 D PipMotionHelper:     com.android.wm.shell.pip.phone.PipController$$ExternalSyntheticLambda0.accept:8
+01-19 17:17:31.441  6080  8238 I Launcher: DisplayMetrics from Resources : DisplayMetrics{density=2.625, width=1080, height=2131, scaledDensity=2.8875, xdpi=403.411, ydpi=404.326}
+01-19 17:17:31.441  6080  8238 I Launcher: realMetrics from Wm : DisplayMetrics{density=2.625, width=1080, height=2340, scaledDensity=2.625, xdpi=403.411, ydpi=404.326}
+01-19 17:17:31.442  6080  8238 I Launcher: DeviceProfile, isLand : false, isMultiWin :false, availableWidthPx : 1080, availableHeightPx : 2194
+01-19 17:17:31.442  6080  6178 I Launcher.NotificationListener: notificationIsValidForUI : com.wsandroid.suite missingTitleAndText : false isGroupHeader : false
+01-19 17:17:31.442  6080  6178 I Launcher.NotificationListener: Full refresh isConnected : true active size : 1
+01-19 17:17:31.442  6080  6177 I SPayUpdater: updateSpayHandler, show = true, defaultPage = true
+01-19 17:17:31.442  6080  6177 I LiveIconUpdateEventHandler: LiveIcon Init
+01-19 17:17:31.442  6080  6177 I LiveIconUpdateEventHandler: registerDateChangedReceiver
+01-19 17:17:31.445  5249  6708 I MediaSessionMonitor: Media session stopped : controllerList empty
+01-19 17:17:31.448 12823 12823 I Utils   : HomePackage : com.sec.android.app.launcher, resumePackageName : com.sec.android.app.launcher
+01-19 17:17:31.449  6080  6080 W NavigableAppWidgetHostView: setResizeScaleResult() 1002/ 341 scaleToResize = 1.0(widget id = 5) cc8a504 0,0-1002,341
+01-19 17:17:31.450  5249  7671 V WindowManager: Relayout Window{b36a8aa u0 com.sec.android.app.launcher/com.sec.android.app.launcher.activities.LauncherActivity}: viewVisibility=0 req=1080x2340 d0
+01-19 17:17:31.451  4945  6920 I SurfaceFlinger: id=4453 createSurf (1080x2340),-3 flag=40004, com.sec.android.app.launcher/com.sec.android.app.launcher.activities.LauncherActivity$_6080#0
+01-19 17:17:31.454  6080  6177 I LiveIconUpdateEventHandler: cancelDateChangeAlarm
+01-19 17:17:31.455  4945  5860 I SurfaceFlinger: id=4454 createSurf (0x0),-1 flag=24000, Surface(name=1e58e32 StatusBar)/@0xf9f1b57 - animation-leash of insets_animation#0
+01-19 17:17:31.456  4945  5860 I SurfaceFlinger: id=4455 createSurf (0x0),-1 flag=24000, Surface(name=9c44ca3 NavigationBar0)/@0x49015f3 - animation-leash of insets_animation#0
+01-19 17:17:31.458  5249  7671 V WindowManager: Relayout hash=b36a8aa, pid=6080: mAttrs={(0,0)(fillxfill) sim={adjust=nothing} layoutInDisplayCutoutMode=shortEdges ty=BASE_APPLICATION fmt=TRANSPARENT wanim=0x10302f2
+01-19 17:17:31.458  5249  7671 V WindowManager:   fl=81910100
+01-19 17:17:31.458  5249  7671 V WindowManager:   pfl=1e020040
+01-19 17:17:31.458  5249  7671 V WindowManager:   vsysui=1700
+01-19 17:17:31.458  5249  7671 V WindowManager:   bhv=SHOW_TRANSIENT_BARS_BY_SWIPE
+01-19 17:17:31.458  5249  7671 V WindowManager:   fitSides= screenDimDuration=200000 naviIconColor=0}
+01-19 17:17:31.459  6080  6080 I ViewRootImpl@e7cd915[LauncherActivity]: Relayout returned: old=(0,0,1080,2340) new=(0,0,1080,2340) req=(1080,2340)0 dur=8 res=0x7 s={true 526195908608} ch=true fn=-1
+01-19 17:17:31.461  6080  6080 I ViewRootImpl@e7cd915[LauncherActivity]: [DP] dp(1) 1 android.view.ViewRootImpl.reportNextDraw:11442 android.view.ViewRootImpl.performTraversals:4198 android.view.ViewRootImpl.doTraversal:2924
+01-19 17:17:31.462  4945  5860 I SurfaceFlinger: id=4456 createSurf (0x0),-1 flag=24000, OneUiHome-BlurLayer#0
+01-19 17:17:31.474  5599  5599 D NavigationBar: onSystemBarAttributesChanged() -  displayId:0, appearance:16 (APPEARANCE_LIGHT_NAVIGATION_BARS ), navbarColorManagedByIme:false
+01-19 17:17:31.474  6080  6177 I LiveIconUpdateEventHandler: setDateChangeAlarm
+01-19 17:17:31.475  6080 21397 I TouchInteractionService: onSystemUiStateChanged, stateFlags : 0
+01-19 17:17:31.475  3761  3781 I TestRunner: finished: testQuery_callQueryWithInvalidWhereArguments(com.myapp.alist.db.ListDaoQueryTest)

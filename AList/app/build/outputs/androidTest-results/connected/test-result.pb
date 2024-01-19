@@ -1,7 +1,7 @@
 
 2μ
 ™
-2MainActivityClickInsertEspressoInstrumentationTestcom.myapp.alist.ui4testInsertButton_clickInsertButtonAndGetExpectedData2εφυ΅€ΞνΗ:μφυ΅€ΧΜZ"‡
+2MainActivityClickInsertEspressoInstrumentationTestcom.myapp.alist.ui4testInsertButton_clickInsertButtonAndGetExpectedData2Ρ€Ά€σί:Χ€Ά€–¬Ϋ"‡
 
 logcatandroidρ
 ξC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\logcat-com.myapp.alist.ui.MainActivityClickInsertEspressoInstrumentationTest-testInsertButton_clickInsertButtonAndGetExpectedData.txt"“
@@ -13,9 +13,9 @@ wC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-result
 pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\meminfo"”
 
 device-info.cpuinfoandroidr
-pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\cpuinfoμ
-™
-2MainActivityClickSelectEspressoInstrumentationTestcom.myapp.alist.ui4testSelectButton_clickSelectButtonAndGetExpectedText2μφυ΅ΐ‘ζ`:ρφυ΅€©Ε™"‡
+pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\cpuinfoν
+
+2MainActivityClickSelectEspressoInstrumentationTestcom.myapp.alist.ui4testSelectButton_clickSelectButtonAndGetExpectedText2Χ€Ά€”Ωθ:ά€Άΐ¤Ή"‡
 
 logcatandroidρ
 ξC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\logcat-com.myapp.alist.ui.MainActivityClickSelectEspressoInstrumentationTest-testSelectButton_clickSelectButtonAndGetExpectedText.txt"“
@@ -29,7 +29,7 @@ pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-result
 device-info.cpuinfoandroidr
 pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\cpuinfoΛ
 ‰
-ListDaoQueryTestcom.myapp.alist.dbEtestQuery_callQueryWithAscendingDescriptionAndDescendingNameSortOrder2ρφυ΅ΐΆµ¦:ρφυ΅€®™µ"φ
+ListDaoQueryTestcom.myapp.alist.dbEtestQuery_callQueryWithAscendingDescriptionAndDescendingNameSortOrder2ά€Άΐ•Ί:ά€Ά€–µΥ"φ
 
 logcatandroidΰ
 έC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\logcat-com.myapp.alist.db.ListDaoQueryTest-testQuery_callQueryWithAscendingDescriptionAndDescendingNameSortOrder.txt"“
@@ -43,7 +43,7 @@ pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-result
 device-info.cpuinfoandroidr
 pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\cpuinfo
 p
-ListDaoQueryTestcom.myapp.alist.db,testQuery_callQueryWithInvalidWhereArguments2ρφυ΅€·“¶:ρφυ΅ΐ°ƒΓ"έ
+ListDaoQueryTestcom.myapp.alist.db,testQuery_callQueryWithInvalidWhereArguments2ά€Άΐ£μΦ:ά€Άΐª“ε"έ
 
 logcatandroidΗ
 ΔC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\logcat-com.myapp.alist.db.ListDaoQueryTest-testQuery_callQueryWithInvalidWhereArguments.txt"“
@@ -57,7 +57,7 @@ pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-result
 device-info.cpuinfoandroidr
 pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\cpuinfo
 r
-ListDaoQueryTestcom.myapp.alist.db.testQuery_callQueryWithDescendingNameSortOrder2ρφυ΅€ΎΊΔ:ρφυ΅€ΕαÒ"ί
+ListDaoQueryTestcom.myapp.alist.db.testQuery_callQueryWithDescendingNameSortOrder2ά€Ά€ΈΚζ:ά€Ά€Ώρτ"ί
 
 logcatandroidΙ
 ΖC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\logcat-com.myapp.alist.db.ListDaoQueryTest-testQuery_callQueryWithDescendingNameSortOrder.txt"“
@@ -71,7 +71,7 @@ pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-result
 device-info.cpuinfoandroidr
 pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\cpuinfoΛ
 ‰
-ListDaoQueryTestcom.myapp.alist.dbEtestQuery_callQueryWithAscendingNameAndDescendingDescriptionSortOrder2ρφυ΅€ΞΫΣ:ρφυ΅ΐΩΏβ"φ
+ListDaoQueryTestcom.myapp.alist.dbEtestQuery_callQueryWithAscendingNameAndDescendingDescriptionSortOrder2ά€ΆΐΓ®υ:ά€ΆΐΚΥƒ"φ
 
 logcatandroidΰ
 έC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\logcat-com.myapp.alist.db.ListDaoQueryTest-testQuery_callQueryWithAscendingNameAndDescendingDescriptionSortOrder.txt"“
@@ -85,7 +85,7 @@ pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-result
 device-info.cpuinfoandroidr
 pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\cpuinfoΙ
 
-ListDaoQueryTestcom.myapp.alist.dbDtestQuery_callQueryWithAscendingDescriptionAndAscendingNameSortOrder2ρφυ΅ΐβΉγ:ρφυ΅ΐύ§ζ"υ
+ListDaoQueryTestcom.myapp.alist.dbDtestQuery_callQueryWithAscendingDescriptionAndAscendingNameSortOrder2ά€Ά€Ο’„:ά€Ά€Βς"υ
 
 logcatandroidί
 άC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\logcat-com.myapp.alist.db.ListDaoQueryTest-testQuery_callQueryWithAscendingDescriptionAndAscendingNameSortOrder.txt"“
@@ -99,7 +99,7 @@ pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-result
 device-info.cpuinfoandroidr
 pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\cpuinfoΙ
 
-ListDaoQueryTestcom.myapp.alist.dbDtestQuery_callQueryWithAscendingNameAndAscendingDescriptionSortOrder2ρφυ΅€‚εζ:ρφυ΅€‰υ"υ
+ListDaoQueryTestcom.myapp.alist.dbDtestQuery_callQueryWithAscendingNameAndAscendingDescriptionSortOrder2ά€Ά€Λμ:ά€ΆΐΦΠ­"υ
 
 logcatandroidί
 άC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\logcat-com.myapp.alist.db.ListDaoQueryTest-testQuery_callQueryWithAscendingNameAndAscendingDescriptionSortOrder.txt"“
@@ -113,7 +113,7 @@ pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-result
 device-info.cpuinfoandroidr
 pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\cpuinfoΝ
 
-ListDaoQueryTestcom.myapp.alist.dbFtestQuery_callQueryWithDescendingDescriptionAndDescendingNameSortOrder2ρφυ΅ΐΙυ:ρφυ΅€³ƒ"χ
+ListDaoQueryTestcom.myapp.alist.dbFtestQuery_callQueryWithDescendingDescriptionAndDescendingNameSortOrder2ά€Ά€Ϋ®:ά€Ά€λ®½"χ
 
 logcatandroidα
 ήC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\logcat-com.myapp.alist.db.ListDaoQueryTest-testQuery_callQueryWithDescendingDescriptionAndDescendingNameSortOrder.txt"“
@@ -127,7 +127,7 @@ pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-result
 device-info.cpuinfoandroidr
 pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\cpuinfo¨
 x
-ListDaoQueryTestcom.myapp.alist.db4testQuery_callQueryWithAscendingDescriptionSortOrder2ρφυ΅€™­„:ρφυ΅€ Τ’"ε
+ListDaoQueryTestcom.myapp.alist.db4testQuery_callQueryWithAscendingDescriptionSortOrder2ά€ΆΐψεΎ:ά€Ά€΅‹Γ"ε
 
 logcatandroidΟ
 ΜC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\logcat-com.myapp.alist.db.ListDaoQueryTest-testQuery_callQueryWithAscendingDescriptionSortOrder.txt"“
@@ -141,7 +141,7 @@ pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-result
 device-info.cpuinfoandroidr
 pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\cpuinfoΝ
 
-ListDaoQueryTestcom.myapp.alist.dbFtestQuery_callQueryWithDescendingNameAndDescendingDescriptionSortOrder2ρφυ΅ΐ¤‘“:ρφυ΅ΐΏÿ•"χ
+ListDaoQueryTestcom.myapp.alist.dbFtestQuery_callQueryWithDescendingNameAndDescendingDescriptionSortOrder2ά€Ά€ª…Δ:ά€ΆΐµιÒ"χ
 
 logcatandroidα
 ήC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\logcat-com.myapp.alist.db.ListDaoQueryTest-testQuery_callQueryWithDescendingNameAndDescendingDescriptionSortOrder.txt"“
@@ -153,12 +153,23 @@ wC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-result
 pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\meminfo"”
 
 device-info.cpuinfoandroidr
-pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\cpuinfo
+pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\cpuinfoΉ
 q
-ListDaoQueryTestcom.myapp.alist.db-testQuery_callQueryWithAscendingNameSortOrder2ρφυ΅ΐΘω–:ρφυ΅ΐΟ ¥"ή
+ListDaoQueryTestcom.myapp.alist.db-testQuery_callQueryWithAscendingNameSortOrder2ά€Ά€Γ Τ:ά€Ά€ήΧ"“
+
+device-infoandroidy
+wC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\device-info.pb"”
+
+device-info.meminfoandroidr
+pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\meminfo"”
+
+device-info.cpuinfoandroidr
+pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\cpuinfo‰
+h
+ListDaoQueryTestcom.myapp.alist.db%testQuery_callQueryAndGetExpectedData2ά€Ά€ηΨ:έ€Ά€ΪΔ	"Φ
 
-logcatandroidΘ
-ΕC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\logcat-com.myapp.alist.db.ListDaoQueryTest-testQuery_callQueryWithAscendingNameSortOrder.txt"“
+logcatandroidΐ
+½C:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\logcat-com.myapp.alist.db.ListDaoQueryTest-testQuery_callQueryAndGetExpectedData.txt"“
 
 device-infoandroidy
 wC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\device-info.pb"”
@@ -167,9 +178,13 @@ wC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-result
 pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\meminfo"”
 
 device-info.cpuinfoandroidr
-pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\cpuinfo±
-i
-ListDaoQueryTestcom.myapp.alist.db%testQuery_callQueryAndGetExpectedData2ρφυ΅€Τέ¥:ρφυ΅€ζΡ§"“
+pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\cpuinfoΙ
+‡
+ListDaoQueryTestcom.myapp.alist.dbEtestQuery_callQueryWithDescendingDescriptionAndAscendingNameSortOrder2έ€Ά€γΎ
+:έ€Άΐωο"φ
+
+logcatandroidΰ
+έC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\logcat-com.myapp.alist.db.ListDaoQueryTest-testQuery_callQueryWithDescendingDescriptionAndAscendingNameSortOrder.txt"“
 
 device-infoandroidy
 wC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\device-info.pb"”
@@ -178,9 +193,12 @@ wC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-result
 pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\meminfo"”
 
 device-info.cpuinfoandroidr
-pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\cpuinfoÒ
-‰
-ListDaoQueryTestcom.myapp.alist.dbEtestQuery_callQueryWithDescendingDescriptionAndAscendingNameSortOrder2ρφυ΅€οΛ¨:ρφυ΅ΐρµ¶"“
+pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\cpuinfoΙ
+‡
+ListDaoQueryTestcom.myapp.alist.dbEtestQuery_callQueryWithDescendingNameAndAscendingDescriptionSortOrder2έ€Άΐ‚κ:έ€Άΐ’‹"φ
+
+logcatandroidΰ
+έC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\logcat-com.myapp.alist.db.ListDaoQueryTest-testQuery_callQueryWithDescendingNameAndAscendingDescriptionSortOrder.txt"“
 
 device-infoandroidy
 wC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\device-info.pb"”
@@ -189,20 +207,9 @@ wC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-result
 pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\meminfo"”
 
 device-info.cpuinfoandroidr
-pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\cpuinfoÒ
-‰
-ListDaoQueryTestcom.myapp.alist.dbEtestQuery_callQueryWithDescendingNameAndAscendingDescriptionSortOrder2ρφυ΅€φς¶:ρφυ΅€ηΈ"“
-
-device-infoandroidy
-wC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\device-info.pb"”
-
-device-info.meminfoandroidr
-pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\meminfo"”
-
-device-info.cpuinfoandroidr
-pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\cpuinfoª
-y
-ListDaoQueryTestcom.myapp.alist.db5testQuery_callQueryWithDescendingDescriptionSortOrder2ρφυ΅€‘αΉ:ρφυ΅€Θ"ζ
+pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\cpuinfo¨
+w
+ListDaoQueryTestcom.myapp.alist.db5testQuery_callQueryWithDescendingDescriptionSortOrder2έ€Άΐ›…:έ€ΆΐΏν!"ζ
 
 logcatandroidΠ
 ΝC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\logcat-com.myapp.alist.db.ListDaoQueryTest-testQuery_callQueryWithDescendingDescriptionSortOrder.txt"“
@@ -214,9 +221,9 @@ wC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-result
 pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\meminfo"”
 
 device-info.cpuinfoandroidr
-pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\cpuinfoΉ
-€
-ListEntityVerifyValuesTestcom.myapp.alist.db2testVerifyValues_callVerifyValuesWithSpaceCategory2ρφυ΅€΅‚Ι:ρφυ΅ΐ·³Λ"ν
+pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\cpuinfo¶
+~
+ListEntityVerifyValuesTestcom.myapp.alist.db2testVerifyValues_callVerifyValuesWithSpaceCategory2έ€Ά€Δª":έ€Ά€ϊ†("ν
 
 logcatandroidΧ
 ΤC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\logcat-com.myapp.alist.db.ListEntityVerifyValuesTest-testVerifyValues_callVerifyValuesWithSpaceCategory.txt"“
@@ -228,9 +235,9 @@ wC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-result
 pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\meminfo"”
 
 device-info.cpuinfoandroidr
-pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\cpuinfo΄
-~
-ListEntityVerifyValuesTestcom.myapp.alist.db0testVerifyValues_callVerifyValuesWithSpaceStatus2ρφυ΅ΐΐ­Μ:ρφυ΅€ΧήΞ"λ
+pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\cpuinfo²
+|
+ListEntityVerifyValuesTestcom.myapp.alist.db0testVerifyValues_callVerifyValuesWithSpaceStatus2έ€Άΐ‡Ύ):έ€Άΐ«¦-"λ
 
 logcatandroidΥ
 ÒC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\logcat-com.myapp.alist.db.ListEntityVerifyValuesTest-testVerifyValues_callVerifyValuesWithSpaceStatus.txt"“
@@ -242,9 +249,12 @@ wC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-result
 pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\meminfo"”
 
 device-info.cpuinfoandroidr
-pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\cpuinfoΗ
-
-ListEntityVerifyValuesTestcom.myapp.alist.db1testVerifyValues_callVerifyValuesWithNullCategory2ρφυ΅€ΰΨΟ:ρφυ΅ΐφ‰Ò"“
+pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\cpuinfo΄
+}
+ListEntityVerifyValuesTestcom.myapp.alist.db1testVerifyValues_callVerifyValuesWithNullCategory2έ€Άΐ΄ .:έ€Ά€ΤΛ1"μ
+
+logcatandroidΦ
+ΣC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\logcat-com.myapp.alist.db.ListEntityVerifyValuesTest-testVerifyValues_callVerifyValuesWithNullCategory.txt"“
 
 device-infoandroidy
 wC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\device-info.pb"”
@@ -253,9 +263,9 @@ wC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-result
 pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\meminfo"”
 
 device-info.cpuinfoandroidr
-pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\cpuinfo½
-‚
-ListEntityVerifyValuesTestcom.myapp.alist.db4testVerifyValues_callVerifyValuesWithNullDescription2ρφυ΅ΐÿƒΣ:ρφυ΅€–µΥ"ο
+pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\cpuinfo»
+€
+ListEntityVerifyValuesTestcom.myapp.alist.db4testVerifyValues_callVerifyValuesWithNullDescription2έ€Ά€οΉ4:έ€Ά€¨7"ο
 
 logcatandroidΩ
 ΦC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\logcat-com.myapp.alist.db.ListEntityVerifyValuesTest-testVerifyValues_callVerifyValuesWithNullDescription.txt"“
@@ -267,9 +277,9 @@ wC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-result
 pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\meminfo"”
 
 device-info.cpuinfoandroidr
-pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\cpuinfo°
-|
-ListEntityVerifyValuesTestcom.myapp.alist.db.testVerifyValues_callVerifyValuesWithEmptyName2ρφυ΅€―Φ:ρφυ΅€ΊΩ"ι
+pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\cpuinfo®
+z
+ListEntityVerifyValuesTestcom.myapp.alist.db.testVerifyValues_callVerifyValuesWithEmptyName2έ€Άΐ—ί8:έ€Ά€®;"ι
 
 logcatandroidΣ
 ΠC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\logcat-com.myapp.alist.db.ListEntityVerifyValuesTest-testVerifyValues_callVerifyValuesWithEmptyName.txt"“
@@ -281,9 +291,9 @@ wC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-result
 pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\meminfo"”
 
 device-info.cpuinfoandroidr
-pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\cpuinfoΏ
-ƒ
-ListEntityVerifyValuesTestcom.myapp.alist.db5testVerifyValues_callVerifyValuesWithSpaceDescription2ρφυ΅€Γ—Ϊ:ρφυ΅ΐΩΘά"π
+pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\cpuinfo½
+
+ListEntityVerifyValuesTestcom.myapp.alist.db5testVerifyValues_callVerifyValuesWithSpaceDescription2έ€Ά€·<:έ€ΆΐΦµ?"π
 
 logcatandroidΪ
 ΧC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\logcat-com.myapp.alist.db.ListEntityVerifyValuesTest-testVerifyValues_callVerifyValuesWithSpaceDescription.txt"“
@@ -295,9 +305,12 @@ wC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-result
 pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\meminfo"”
 
 device-info.cpuinfoandroidr
-pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\cpuinfoΔ
-|
-ListEntityVerifyValuesTestcom.myapp.alist.db.testVerifyValues_callVerifyValuesWithSpaceName2ρφυ΅€ή…έ:ρφυ΅ΐτ¶ί"“
+pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\cpuinfo®
+z
+ListEntityVerifyValuesTestcom.myapp.alist.db.testVerifyValues_callVerifyValuesWithSpaceName2έ€Ά€νζA:έ€Ά€‘ΟE"ι
+
+logcatandroidΣ
+ΠC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\logcat-com.myapp.alist.db.ListEntityVerifyValuesTest-testVerifyValues_callVerifyValuesWithSpaceName.txt"“
 
 device-infoandroidy
 wC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\device-info.pb"”
@@ -306,9 +319,12 @@ wC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-result
 pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\meminfo"”
 
 device-info.cpuinfoandroidr
-pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\cpuinfoΪ
-‘
-ListEntityVerifyValuesTestcom.myapp.alist.dbCtestVerifyValues_callVerifyValuesWithNonNullValuesAndMissingDetails2ρφυ΅ΐύ°ΰ:ρφυ΅ΐ¥β"“
+pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\cpuinfoΩ
+
+ListEntityVerifyValuesTestcom.myapp.alist.dbCtestVerifyValues_callVerifyValuesWithNonNullValuesAndMissingDetails2έ€Ά€ΙF:έ€Ά€Ύ±J"ώ
+
+logcatandroidθ
+εC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\logcat-com.myapp.alist.db.ListEntityVerifyValuesTest-testVerifyValues_callVerifyValuesWithNonNullValuesAndMissingDetails.txt"“
 
 device-infoandroidy
 wC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\device-info.pb"”
@@ -317,9 +333,12 @@ wC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-result
 pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\meminfo"”
 
 device-info.cpuinfoandroidr
-pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\cpuinfoΙ
-€
-ListEntityVerifyValuesTestcom.myapp.alist.db2testVerifyValues_callVerifyValuesWithEmptyCategory2ρφυ΅ΐ΅™δ:ρφυ΅€ΈΚζ"“
+pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\cpuinfo¶
+~
+ListEntityVerifyValuesTestcom.myapp.alist.db2testVerifyValues_callVerifyValuesWithEmptyCategory2έ€Ά€Η«K:έ€ΆΐζΦN"ν
+
+logcatandroidΧ
+ΤC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\logcat-com.myapp.alist.db.ListEntityVerifyValuesTest-testVerifyValues_callVerifyValuesWithEmptyCategory.txt"“
 
 device-infoandroidy
 wC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\device-info.pb"”
@@ -328,9 +347,12 @@ wC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-result
 pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\meminfo"”
 
 device-info.cpuinfoandroidr
-pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\cpuinfoΔ
-|
-ListEntityVerifyValuesTestcom.myapp.alist.db.testVerifyValues_callVerifyValuesWithAllStatus2ρφυ΅€ΑΔη:ρφυ΅€ΣΈι"“
+pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\cpuinfo®
+z
+ListEntityVerifyValuesTestcom.myapp.alist.db.testVerifyValues_callVerifyValuesWithAllStatus2έ€Ά€λ“O:έ€ΆΐΏR"ι
+
+logcatandroidΣ
+ΠC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\logcat-com.myapp.alist.db.ListEntityVerifyValuesTest-testVerifyValues_callVerifyValuesWithAllStatus.txt"“
 
 device-infoandroidy
 wC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\device-info.pb"”
@@ -339,9 +361,12 @@ wC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-result
 pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\meminfo"”
 
 device-info.cpuinfoandroidr
-pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\cpuinfoΞ
-…
-ListEntityVerifyValuesTestcom.myapp.alist.db7testVerifyValues_callVerifyValuesWithMissingDescription2ρφυ΅€ά²κ:ρφυ΅ΐϋέν"“
+pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\cpuinfoΑ
+ƒ
+ListEntityVerifyValuesTestcom.myapp.alist.db7testVerifyValues_callVerifyValuesWithMissingDescription2έ€Άΐ¥­U:έ€Ά€ΕΨX"ς
+
+logcatandroidά
+ΩC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\logcat-com.myapp.alist.db.ListEntityVerifyValuesTest-testVerifyValues_callVerifyValuesWithMissingDescription.txt"“
 
 device-infoandroidy
 wC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\device-info.pb"”
@@ -350,9 +375,9 @@ wC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-result
 pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\meminfo"”
 
 device-info.cpuinfoandroidr
-pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\cpuinfo²
-}
-ListEntityVerifyValuesTestcom.myapp.alist.db/testVerifyValues_callVerifyValuesWithNullStatus2ρφυ΅€‰•ο:ρφυ΅ΐΖρ"κ
+pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\cpuinfo°
+{
+ListEntityVerifyValuesTestcom.myapp.alist.db/testVerifyValues_callVerifyValuesWithNullStatus2έ€ΆΐÒZ:έ€Ά€ςΊ]"κ
 
 logcatandroidΤ
 ΡC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\logcat-com.myapp.alist.db.ListEntityVerifyValuesTest-testVerifyValues_callVerifyValuesWithNullStatus.txt"“
@@ -364,9 +389,9 @@ wC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-result
 pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\meminfo"”
 
 device-info.cpuinfoandroidr
-pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\cpuinfo²
-}
-ListEntityVerifyValuesTestcom.myapp.alist.db/testVerifyValues_callVerifyValuesWithNullValues2ρφυ΅€¤ƒς:ρφυ΅€Ώρτ"κ
+pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\cpuinfo°
+{
+ListEntityVerifyValuesTestcom.myapp.alist.db/testVerifyValues_callVerifyValuesWithNullValues2έ€Ά€ϋ΄^:έ€Ά€–£a"κ
 
 logcatandroidΤ
 ΡC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\logcat-com.myapp.alist.db.ListEntityVerifyValuesTest-testVerifyValues_callVerifyValuesWithNullValues.txt"“
@@ -378,9 +403,9 @@ wC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-result
 pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\meminfo"”
 
 device-info.cpuinfoandroidr
-pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\cpuinfo΄
-~
-ListEntityVerifyValuesTestcom.myapp.alist.db0testVerifyValues_callVerifyValuesWithAllCategory2ρφυ΅ΐΓ®υ:ρφυ΅ΐΥΆχ"λ
+pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\cpuinfo²
+|
+ListEntityVerifyValuesTestcom.myapp.alist.db0testVerifyValues_callVerifyValuesWithAllCategory2έ€Άΐΰa:έ€Ά€Ί‹e"λ
 
 logcatandroidΥ
 ÒC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\logcat-com.myapp.alist.db.ListEntityVerifyValuesTest-testVerifyValues_callVerifyValuesWithAllCategory.txt"“
@@ -392,9 +417,9 @@ wC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-result
 pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\meminfo"”
 
 device-info.cpuinfoandroidr
-pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\cpuinfo®
-{
-ListEntityVerifyValuesTestcom.myapp.alist.db-testVerifyValues_callVerifyValuesWithNullName2ρφυ΅ΐήψ:ρφυ΅€υΝϊ"θ
+pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\cpuinfo¬
+y
+ListEntityVerifyValuesTestcom.myapp.alist.db-testVerifyValues_callVerifyValuesWithNullName2έ€Ά€Γ…f:έ€Ά€ήσh"θ
 
 logcatandroidÒ
 ΟC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\logcat-com.myapp.alist.db.ListEntityVerifyValuesTest-testVerifyValues_callVerifyValuesWithNullName.txt"“
@@ -406,9 +431,9 @@ wC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-result
 pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\meminfo"”
 
 device-info.cpuinfoandroidr
-pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\cpuinfo½
-‚
-ListEntityVerifyValuesTestcom.myapp.alist.db4testVerifyValues_callVerifyValuesWithMissingCategory2ρφυ΅€ώΗϋ:ρφυ΅€Όύ"ο
+pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\cpuinfo»
+€
+ListEntityVerifyValuesTestcom.myapp.alist.db4testVerifyValues_callVerifyValuesWithMissingCategory2έ€Άΐλªj:έ€Ά€‹Φm"ο
 
 logcatandroidΩ
 ΦC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\logcat-com.myapp.alist.db.ListEntityVerifyValuesTest-testVerifyValues_callVerifyValuesWithMissingCategory.txt"“
@@ -420,9 +445,9 @@ wC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-result
 pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\meminfo"”
 
 device-info.cpuinfoandroidr
-pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\cpuinfoΉ
-€
-ListEntityVerifyValuesTestcom.myapp.alist.db2testVerifyValues_callVerifyValuesWithMissingStatus2ρφυ΅€™¶ώ:ρφυ΅€«ª€"ν
+pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\cpuinfo¶
+~
+ListEntityVerifyValuesTestcom.myapp.alist.db2testVerifyValues_callVerifyValuesWithMissingStatus2έ€Ά€”Πn:έ€Ά€―Ύq"ν
 
 logcatandroidΧ
 ΤC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\logcat-com.myapp.alist.db.ListEntityVerifyValuesTest-testVerifyValues_callVerifyValuesWithMissingStatus.txt"“
@@ -434,9 +459,9 @@ wC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-result
 pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\meminfo"”
 
 device-info.cpuinfoandroidr
-pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\cpuinfo΄
-~
-ListEntityVerifyValuesTestcom.myapp.alist.db0testVerifyValues_callVerifyValuesWithEmptyStatus2ρφυ΅€΄¤:ρφυ΅ΐΑΫ‚"λ
+pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\cpuinfo²
+|
+ListEntityVerifyValuesTestcom.myapp.alist.db0testVerifyValues_callVerifyValuesWithEmptyStatus2έ€ΆΐΧγu:έ€Άΐΐ{"λ
 
 logcatandroidΥ
 ÒC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\logcat-com.myapp.alist.db.ListEntityVerifyValuesTest-testVerifyValues_callVerifyValuesWithEmptyStatus.txt"“
@@ -448,9 +473,9 @@ wC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-result
 pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\meminfo"”
 
 device-info.cpuinfoandroidr
-pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\cpuinfo΄
-~
-ListEntityVerifyValuesTestcom.myapp.alist.db0testVerifyValues_callVerifyValuesWithMissingName2ρφυ΅€Ο’„:ρφυ΅ΐεΓ†"λ
+pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\cpuinfo²
+|
+ListEntityVerifyValuesTestcom.myapp.alist.db0testVerifyValues_callVerifyValuesWithMissingName2έ€Άΐ–Ί|:έ€Ά€¶ε"λ
 
 logcatandroidΥ
 ÒC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\logcat-com.myapp.alist.db.ListEntityVerifyValuesTest-testVerifyValues_callVerifyValuesWithMissingName.txt"“
@@ -464,7 +489,7 @@ pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-result
 device-info.cpuinfoandroidr
 pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\cpuinfo½
 ‚
-ListDaoInsertTestcom.myapp.alist.db=testInsert_callInsertWithDuplicateNameOnlyAndGetExpectedError2ρφυ΅ΐξ½‡:ρφυ΅ΐ€²‰"ο
+ListDaoInsertTestcom.myapp.alist.db=testInsert_callInsertWithDuplicateNameOnlyAndGetExpectedError2έ€Ά€Ώί€:έ€Άΐή„"ο
 
 logcatandroidΩ
 ΦC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\logcat-com.myapp.alist.db.ListDaoInsertTest-testInsert_callInsertWithDuplicateNameOnlyAndGetExpectedError.txt"“
@@ -478,7 +503,7 @@ pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-result
 device-info.cpuinfoandroidr
 pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\cpuinfo²
 }
-ListDaoInsertTestcom.myapp.alist.db8testInsert_callInsertWithDuplicateRowAndGetExpectedError2ρφυ΅ΐ‰¬:ρφυ΅ΐ› "κ
+ListDaoInsertTestcom.myapp.alist.db8testInsert_callInsertWithDuplicateRowAndGetExpectedError2έ€Ά€γΗ„:έ€Ά€ª‰"κ
 
 logcatandroidΤ
 ΡC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\logcat-com.myapp.alist.db.ListDaoInsertTest-testInsert_callInsertWithDuplicateRowAndGetExpectedError.txt"“
@@ -492,7 +517,7 @@ pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-result
 device-info.cpuinfoandroidr
 pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\cpuinfo
 j
-ListDaoInsertTestcom.myapp.alist.db%testInsert_callInsertAndGetExpectedId2ρφυ΅ΐ¤:ρφυ΅€»Λ"Χ
+ListDaoInsertTestcom.myapp.alist.db%testInsert_callInsertAndGetExpectedId2έ€Ά€™¤:έ€Ά€΄’"Χ
 
 logcatandroidΑ
 ΎC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\logcat-com.myapp.alist.db.ListDaoInsertTest-testInsert_callInsertAndGetExpectedId.txt"“
@@ -504,9 +529,12 @@ wC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-result
 pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\meminfo"”
 
 device-info.cpuinfoandroidr
-pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\cpuinfoΟ
+pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\cpuinfoΕ
 †
-ListDaoInsertTestcom.myapp.alist.dbAtestInsert_callInsertWithDuplicateDescriptionOnlyAndGetExpectedId2ρφυ΅€ΔΕ:ρφυ΅€ΦΉ’"“
+ListDaoInsertTestcom.myapp.alist.dbAtestInsert_callInsertWithDuplicateDescriptionOnlyAndGetExpectedId2έ€Ά€½:έ€Άΐε±’"σ
+
+logcatandroidέ
+ΪC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\logcat-com.myapp.alist.db.ListDaoInsertTest-testInsert_callInsertWithDuplicateDescriptionOnlyAndGetExpectedId.txt"“
 
 device-infoandroidy
 wC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\device-info.pb"”
@@ -517,7 +545,7 @@ pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-result
 device-info.cpuinfoandroidr
 pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\cpuinfo΄
 ~
-ListDaoInsertTestcom.myapp.alist.db9testInsert_callInsertWithEmptyDescriptionAndGetExpectedId2ρφυ΅€ί³“:ρφυ΅ΐκ—Ά"λ
+ListDaoInsertTestcom.myapp.alist.db9testInsert_callInsertWithEmptyDescriptionAndGetExpectedId2έ€Ά€όβ”:έ€Ά€©Ε™"λ
 
 logcatandroidΥ
 ÒC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\logcat-com.myapp.alist.db.ListDaoInsertTest-testInsert_callInsertWithEmptyDescriptionAndGetExpectedId.txt"“
@@ -531,7 +559,7 @@ pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-result
 device-info.cpuinfoandroidr
 pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\cpuinfo
 l
-ListDaoUpdateTestcom.myapp.alist.db'testUpdate_callUpdateAndGetExpectedData2ρφυ΅ΐσ‘£:ρφυ΅€Γ¥"Ω
+ListDaoUpdateTestcom.myapp.alist.db'testUpdate_callUpdateAndGetExpectedData2έ€Ά€»Ή›:έ€ΆΐώΜΆ"Ω
 
 logcatandroidΓ
 ΐC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\logcat-com.myapp.alist.db.ListDaoUpdateTest-testUpdate_callUpdateAndGetExpectedData.txt"“
@@ -545,7 +573,7 @@ pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-result
 device-info.cpuinfoandroidr
 pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\cpuinfo¬
 z
-ListDaoUpdateTestcom.myapp.alist.db5testUpdate_callUpdateWithEmptyDescriptionAndGetUpdate2ρφυ΅€“½¦:ρφυ΅€®«©"η
+ListDaoUpdateTestcom.myapp.alist.db5testUpdate_callUpdateWithEmptyDescriptionAndGetUpdate2έ€ΆΐΑ¤:έ€Άΐ½£©"η
 
 logcatandroidΡ
 ΞC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\logcat-com.myapp.alist.db.ListDaoUpdateTest-testUpdate_callUpdateWithEmptyDescriptionAndGetUpdate.txt"“
@@ -559,7 +587,7 @@ pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-result
 device-info.cpuinfoandroidr
 pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\cpuinfo¨
 x
-ListDaoUpdateTestcom.myapp.alist.db3testUpdate_callUpdateWithInvalidRowIDAndGetNoUpdate2ρφυ΅€·¥ª:ρφυ΅€µÒ·"ε
+ListDaoUpdateTestcom.myapp.alist.db3testUpdate_callUpdateWithInvalidRowIDAndGetNoUpdate2έ€ΆΐΟ—«:έ€Ά€οΒ®"ε
 
 logcatandroidΟ
 ΜC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\logcat-com.myapp.alist.db.ListDaoUpdateTest-testUpdate_callUpdateWithInvalidRowIDAndGetNoUpdate.txt"“
@@ -573,7 +601,7 @@ pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-result
 device-info.cpuinfoandroidr
 pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\cpuinfo¬
 z
-ListDaoUpdateTestcom.myapp.alist.db5testUpdate_callUpdateWithInvalidDetailsAndGetNoUpdate2ρφυ΅€ΎΜΈ:ρφυ΅ΐΤύΊ"η
+ListDaoUpdateTestcom.myapp.alist.db5testUpdate_callUpdateWithInvalidDetailsAndGetNoUpdate2έ€Ά€·°:έ€Άΐ β³"η
 
 logcatandroidΡ
 ΞC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\logcat-com.myapp.alist.db.ListDaoUpdateTest-testUpdate_callUpdateWithInvalidDetailsAndGetNoUpdate.txt"“
@@ -587,7 +615,7 @@ pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-result
 device-info.cpuinfoandroidr
 pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\cpuinfo΄
 ~
-ListDaoUpdateTestcom.myapp.alist.db9testUpdate_callUpdateWithDuplicateDescriptionAndGetUpdate2ρφυ΅ΐέχ»:ρφυ΅ΐολ½"λ
+ListDaoUpdateTestcom.myapp.alist.db9testUpdate_callUpdateWithDuplicateDescriptionAndGetUpdate2έ€Άΐ©ά΄:έ€ΆΐίΈΊ"λ
 
 logcatandroidΥ
 ÒC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\logcat-com.myapp.alist.db.ListDaoUpdateTest-testUpdate_callUpdateWithDuplicateDescriptionAndGetUpdate.txt"“
@@ -601,7 +629,7 @@ pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-result
 device-info.cpuinfoandroidr
 pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\cpuinfo°
 |
-ListDaoUpdateTestcom.myapp.alist.db7testUpdate_callUpdateWithDuplicateRowAndGetExpectedData2ρφυ΅€τ¨Ύ:ρφυ΅ΐφ’Μ"ι
+ListDaoUpdateTestcom.myapp.alist.db7testUpdate_callUpdateWithDuplicateRowAndGetExpectedData2έ€Άΐƒ΅Ύ:έ€ΆΐΑ"ι
 
 logcatandroidΣ
 ΠC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\logcat-com.myapp.alist.db.ListDaoUpdateTest-testUpdate_callUpdateWithDuplicateRowAndGetExpectedData.txt"“
@@ -615,7 +643,7 @@ pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-result
 device-info.cpuinfoandroidr
 pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\cpuinfo΄
 ~
-ListDaoUpdateTestcom.myapp.alist.db9testUpdate_callUpdateWithDuplicateNameAndGetExpectedError2ρφυ΅ΐÿΝ:ρφυ΅€ΔΞ"λ
+ListDaoUpdateTestcom.myapp.alist.db9testUpdate_callUpdateWithDuplicateNameAndGetExpectedError2έ€Ά€¬ΖΒ:έ€Ά€Π®Ζ"λ
 
 logcatandroidΥ
 ÒC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\logcat-com.myapp.alist.db.ListDaoUpdateTest-testUpdate_callUpdateWithDuplicateNameAndGetExpectedError.txt"“
@@ -627,9 +655,12 @@ wC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-result
 pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\meminfo"”
 
 device-info.cpuinfoandroidr
-pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\cpuinfoΎ
+pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\cpuinfo¤
 v
-ListDaoDeleteTestcom.myapp.alist.db1testDelete_callDeleteRowAndGetExpectedDeletedRows2ρφυ΅€–ΎΟ:ρφυ΅€¨²Ρ"“
+ListDaoDeleteTestcom.myapp.alist.db1testDelete_callDeleteRowAndGetExpectedDeletedRows2έ€Ά€Ω¨Η:έ€ΆΐΘΜ"γ
+
+logcatandroidΝ
+ΚC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\logcat-com.myapp.alist.db.ListDaoDeleteTest-testDelete_callDeleteRowAndGetExpectedDeletedRows.txt"“
 
 device-infoandroidy
 wC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\device-info.pb"”
@@ -638,9 +669,9 @@ wC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-result
 pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\meminfo"”
 
 device-info.cpuinfoandroidr
-pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\cpuinfoµ
-~
-ListDaoDeleteTestcom.myapp.alist.db:testDelete_callDeleteInvalidRowAndGetExpectedNoDeletedRows2ρφυ΅€±¬Ò:ςφυ΅ΐ«"μ
+pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\cpuinfo¶
+
+ListDaoDeleteTestcom.myapp.alist.db:testDelete_callDeleteInvalidRowAndGetExpectedNoDeletedRows2έ€Ά€΅ωΞ:έ€Ά€ΞΫΣ"μ
 
 logcatandroidΦ
 ΣC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\logcat-com.myapp.alist.db.ListDaoDeleteTest-testDelete_callDeleteInvalidRowAndGetExpectedNoDeletedRows.txt"“
@@ -652,9 +683,9 @@ wC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-result
 pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\meminfo"”
 
 device-info.cpuinfoandroidr
-pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\cpuinfo²
-|
-ListDaoDeleteTestcom.myapp.alist.db9testDelete_callDeleteAllSelectedAndGetExpectedDeletedRows2ςφυ΅ΐ¨¥:ςφυ΅ΐΊ™"λ
+pC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\cpuinfo΄
+~
+ListDaoDeleteTestcom.myapp.alist.db9testDelete_callDeleteAllSelectedAndGetExpectedDeletedRows2έ€Ά€ιΙΦ:έ€Ά€„ΈΩ"λ
 
 logcatandroidΥ
 ÒC:\Users\colin\AndroidStudioProjects\AList\app\build\outputs\androidTest-results\connected\SM-M315F - 12\logcat-com.myapp.alist.db.ListDaoDeleteTest-testDelete_callDeleteAllSelectedAndGetExpectedDeletedRows.txt"“

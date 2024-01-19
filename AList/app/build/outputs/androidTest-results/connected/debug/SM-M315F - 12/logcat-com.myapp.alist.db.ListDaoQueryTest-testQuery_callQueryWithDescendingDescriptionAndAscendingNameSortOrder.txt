@@ -1,0 +1,14 @@
+01-19 17:17:31.823  3761  3781 I TestRunner: started: testQuery_callQueryWithDescendingDescriptionAndAscendingNameSortOrder(com.myapp.alist.db.ListDaoQueryTest)
+01-19 17:17:31.827  3910  3910 I ViewRootImpl@96d7258[InstrumentationActivityInvoker$EmptyActivity]: Relayout returned: old=(0,0,1080,2340) new=(0,0,1080,2340) req=(1080,2340)8 dur=15 res=0x5 s={false 0} ch=true fn=2
+01-19 17:17:31.829  3910  3910 I ViewRootImpl@96d7258[InstrumentationActivityInvoker$EmptyActivity]: stopped(true) old=false
+01-19 17:17:31.832  3910  3910 I MSHandlerLifeCycle: isMultiSplitHandlerRequested: windowingMode=1 isFullscreen=true isPopOver=false isHidden=false skipActivityType=false isHandlerType=false this: DecorView@d850b6c[InstrumentationActivityInvoker$EmptyActivity]
+01-19 17:17:31.833  3910  3910 I MSHandlerLifeCycle: removeMultiSplitHandler: no exist. decor=DecorView@d850b6c[InstrumentationActivityInvoker$EmptyActivity]
+01-19 17:17:31.843  3910  3910 I MSHandlerLifeCycle: removeMultiSplitHandler: no exist. decor=DecorView@d850b6c[InstrumentationActivityInvoker$EmptyActivity]
+01-19 17:17:31.844  3910  3931 D OpenGLRenderer: setSurface called with nullptr
+01-19 17:17:31.844  3910  3910 I ViewRootImpl@96d7258[InstrumentationActivityInvoker$EmptyActivity]: dispatchDetachedFromWindow
+01-19 17:17:31.845  5249  5761 D InputTransport: Input channel destroyed: '84dffa6', fd=647
+01-19 17:17:31.845  5249  5761 W InputManager-JNI: Input channel object '84dffa6 com.myapp.alist.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity (client)' was disposed without first being removed with the input manager!
+01-19 17:17:31.845  5249  5761 D InputTransport: Input channel destroyed: '84dffa6', fd=651
+01-19 17:17:31.850  3910  3910 D InputTransport: Input channel destroyed: '84dffa6', fd=88
+01-19 17:17:31.853  4945  6920 I SurfaceFlinger: id=4461 createSurf (0x0),-1 flag=24004, Task=54#1
+01-19 17:17:31.854  3761  3781 I TestRunner: finished: testQuery_callQueryWithDescendingDescriptionAndAscendingNameSortOrder(com.myapp.alist.db.ListDaoQueryTest)

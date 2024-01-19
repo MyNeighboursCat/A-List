@@ -1,2 +1,2 @@
-04-17 18:01:39.638 24018 24045 I TestRunner: started: testDelete_callDeleteInvalidRowAndGetExpectedNoDeletedRows(com.myapp.alist.db.ListDaoDeleteTest)
-04-17 18:01:39.652 24018 24045 I TestRunner: finished: testDelete_callDeleteInvalidRowAndGetExpectedNoDeletedRows(com.myapp.alist.db.ListDaoDeleteTest)
+04-19 15:55:22.742  6061  6091 I TestRunner: started: testDelete_callDeleteInvalidRowAndGetExpectedNoDeletedRows(com.myapp.alist.db.ListDaoDeleteTest)
+04-19 15:55:22.756  6061  6091 I TestRunner: finished: testDelete_callDeleteInvalidRowAndGetExpectedNoDeletedRows(com.myapp.alist.db.ListDaoDeleteTest)

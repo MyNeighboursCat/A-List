@@ -1,2 +1,4 @@
-04-17 18:01:39.391 24018 24045 I TestRunner: started: testVerifyValues_callVerifyValuesWithAllStatus(com.myapp.alist.db.ListEntityVerifyValuesTest)
-04-17 18:01:39.395 24018 24045 I TestRunner: finished: testVerifyValues_callVerifyValuesWithAllStatus(com.myapp.alist.db.ListEntityVerifyValuesTest)
+04-19 15:55:22.500  6061  6091 I TestRunner: started: testVerifyValues_callVerifyValuesWithAllStatus(com.myapp.alist.db.ListEntityVerifyValuesTest)
+04-19 15:55:22.502  6314  6314 D InputTransport: Input channel destroyed: 'ea46d9f', fd=88
+04-19 15:55:22.504  4894  4926 I SurfaceFlinger: id=4157 createSurf (0x0),-1 flag=24004, Task=51#1
+04-19 15:55:22.505  6061  6091 I TestRunner: finished: testVerifyValues_callVerifyValuesWithAllStatus(com.myapp.alist.db.ListEntityVerifyValuesTest)

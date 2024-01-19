@@ -1,4 +1,4 @@
-04-17 18:01:39.371 24018 24045 I TestRunner: started: testVerifyValues_callVerifyValuesWithSpaceName(com.myapp.alist.db.ListEntityVerifyValuesTest)
-04-17 18:01:39.373  6034  6034 I RecentsView: onTaskRemoved() taskId : 74
-04-17 18:01:39.373  6034  6034 I RecentsView: onTaskRemoved() taskId : 74
-04-17 18:01:39.374 24018 24045 I TestRunner: finished: testVerifyValues_callVerifyValuesWithSpaceName(com.myapp.alist.db.ListEntityVerifyValuesTest)
+04-19 15:55:22.481  6061  6091 I TestRunner: started: testVerifyValues_callVerifyValuesWithSpaceName(com.myapp.alist.db.ListEntityVerifyValuesTest)
+04-19 15:55:22.483  6314  6314 I MSHandlerLifeCycle: isMultiSplitHandlerRequested: windowingMode=1 isFullscreen=true isPopOver=false isHidden=false skipActivityType=false isHandlerType=true this: DecorView@d054255[InstrumentationActivityInvoker$EmptyActivity]
+04-19 15:55:22.483  6314  6314 I MSHandlerLifeCycle: removeMultiSplitHandler: no exist. decor=DecorView@d054255[InstrumentationActivityInvoker$EmptyActivity]
+04-19 15:55:22.484  6061  6091 I TestRunner: finished: testVerifyValues_callVerifyValuesWithSpaceName(com.myapp.alist.db.ListEntityVerifyValuesTest)

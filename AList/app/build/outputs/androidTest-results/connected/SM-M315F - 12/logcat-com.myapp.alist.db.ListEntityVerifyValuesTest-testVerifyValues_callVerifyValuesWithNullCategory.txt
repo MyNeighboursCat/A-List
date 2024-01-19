@@ -1,3 +1,2 @@
-04-17 18:01:39.342 24018 24045 I TestRunner: started: testVerifyValues_callVerifyValuesWithNullCategory(com.myapp.alist.db.ListEntityVerifyValuesTest)
-04-17 18:01:39.346 24160 24160 I ViewRootImpl@52c8219[InstrumentationActivityInvoker$EmptyActivity]: Relayout returned: old=(0,0,1080,2340) new=(0,0,1080,2340) req=(1080,2340)8 dur=6 res=0x5 s={false 0} ch=true fn=2
-04-17 18:01:39.346 24018 24045 I TestRunner: finished: testVerifyValues_callVerifyValuesWithNullCategory(com.myapp.alist.db.ListEntityVerifyValuesTest)
+04-19 15:55:22.451  6061  6091 I TestRunner: started: testVerifyValues_callVerifyValuesWithNullCategory(com.myapp.alist.db.ListEntityVerifyValuesTest)
+04-19 15:55:22.454  6061  6091 I TestRunner: finished: testVerifyValues_callVerifyValuesWithNullCategory(com.myapp.alist.db.ListEntityVerifyValuesTest)

@@ -1,7 +1,90 @@
-04-17 18:01:39.115 24018 24045 I TestRunner: started: testQuery_callQueryWithAscendingDescriptionAndAscendingNameSortOrder(com.myapp.alist.db.ListDaoQueryTest)
-04-17 18:01:39.120  6034  6187 W QuickstepModelDelegate: handleUpdate targets : 9
-04-17 18:01:39.128  6034  6034 W SuggestedAppsViewImpl: pending predictedApps : 9, alpha: 0.0, overview: false
-04-17 18:01:39.128  4929  4929 E SurfaceFlinger: Attempt to update InputPolicyFlags without permission ACCESS_SURFACE_FLINGER
-04-17 18:01:39.130  6034  8116 I ViewRootImpl@ba39c16[LauncherActivity]: mWNT: t = android.view.SurfaceControl$Transaction@2ce45f2 fN = 5 com.android.systemui.shared.system.ViewRootImplCompat.mergeWithNextTransaction:62 com.android.quickstep.util.SurfaceTransactionApplier.lambda$scheduleApply$0$SurfaceTransactionApplier:94 com.android.quickstep.util.-$$Lambda$SurfaceTransactionApplier$Xj9m0ayWHIr2xvQnKB4EJdxg8RU.accept:6
-04-17 18:01:39.130  6034  8116 I ViewRootImpl@ba39c16[LauncherActivity]: mWNT: merge t to BBQ
-04-17 18:01:39.140 24018 24045 I TestRunner: finished: testQuery_callQueryWithAscendingDescriptionAndAscendingNameSortOrder(com.myapp.alist.db.ListDaoQueryTest)
+04-19 15:55:22.179  6061  6091 I TestRunner: started: testQuery_callQueryWithAscendingDescriptionAndAscendingNameSortOrder(com.myapp.alist.db.ListDaoQueryTest)
+04-19 15:55:22.179  4894  5142 I SurfaceFlinger: id=4154 createSurf (0x0),-1 flag=24004, Surface(name=Task=1)/@0x3df646b - animation-leash of app_transition#0
+04-19 15:55:22.181  5576  5576 D KeyguardBottomAreaShortcutView: updateCameraVisibility isCameraDisabled:false visible:true
+04-19 15:55:22.181  5576  5576 D KeyguardBottomAreaShortcutView: mIndicationArea margin start : 163, end : 163, bottom : 150
+04-19 15:55:22.183  5576  5576 D QS      : setQSExpansion 0.0 -110.774994
+04-19 15:55:22.183  5576  5576 D QS      : setQSExpansion 0.0 -110.774994
+04-19 15:55:22.183  4894  5142 I SurfaceFlinger: id=4155 createSurf (0x0),-1 flag=24000, Surface(name=WallpaperWindowToken{b1c03fb token=android.os.Binder@bde4b7e})/@0x3e55a1e - animation-leash of window_animation#0
+04-19 15:55:22.185  5576  5576 D WallpaperService: updateSurface forceRelayout=true forceReport=false redrawNeeded=false myWidth=2340 myHeight=2340 fixedSize=true x = 0 y = 0 mWidth=2340 mHeight=2340 mIsSleepMode=false
+04-19 15:55:22.185  5576  5576 D WallpaperService: mDeviceHeight : 2340, mDeviceWidth : 1080,mDeviceRotation  : 0
+04-19 15:55:22.187  5232  5258 D WindowManager: RemoteAnimationController::onAnimationStart, animations=[Landroid.view.RemoteAnimationTarget;@39b0826
+04-19 15:55:22.188  5983 21648 I LauncherAnimationRunner: onAnimationStart, appTargets : [Lcom.android.systemui.shared.system.RemoteAnimationTargetCompat;@f975fc2 mStartAtFrontOfQueue : false
+04-19 15:55:22.189  5232  7701 V WindowManager: Relayout Window{a4bfa9f u0 com.android.systemui.ImageWallpaper}: viewVisibility=0 req=2340x2340 d0
+04-19 15:55:22.192  5232  7701 V WindowManager: Relayout hash=a4bfa9f, pid=5576: mAttrs={(0,0)(2340x2340) gr=TOP START CENTER layoutInDisplayCutoutMode=always ty=WALLPAPER fmt=RGBX_8888 wanim=0x1030314
+04-19 15:55:22.192  5232  7701 V WindowManager:   fl=14318
+04-19 15:55:22.192  5232  7701 V WindowManager:   pfl=2000004
+04-19 15:55:22.192  5232  7701 V WindowManager:   bhv=DEFAULT naviIconColor=0
+04-19 15:55:22.192  5232  7701 V WindowManager:   sfl=8}
+04-19 15:55:22.193  5576  5576 D WallpaperService: updateSurface redrawNeeded=false didSurface=false , mDestroyed = false
+04-19 15:55:22.193  5576  5576 D WallpaperService: reportVisibility onVisibilityChanged visible: true
+04-19 15:55:22.193  5576  5664 I ImageWallpaper:  onVisibilityChanged true , 0
+04-19 15:55:22.193  5576  5576 D IndicatorGardenInputProperty: updateRotation() prv:-1 >> new:0
+04-19 15:55:22.194  5576  5576 D DeviceState: getDeviceResolutionPixelSize - currentDensity = 420 deviceDensity = 420 initialDisplaySizeFactor = 1080 currentDisplaySizeFactor = 1080 initialDisplayDensity = 420 proportionalDensity = 420 proportionalPixel = 0
+04-19 15:55:22.194  5576  5664 I ImageWallpaperRenderer: updateWallpaperOffset 0 lastCropOffset 0 wp Type , 0 , rotation == 0 Do not change Display offset 0
+04-19 15:55:22.194  5576  5576 D DeviceState: getDeviceResolutionPixelSize - currentDensity = 420 deviceDensity = 420 initialDisplaySizeFactor = 1080 currentDisplaySizeFactor = 1080 initialDisplayDensity = 420 proportionalDensity = 420 proportionalPixel = 0
+04-19 15:55:22.194  5576  5576 D DeviceState: getDeviceResolutionPixelSize - currentDensity = 420 deviceDensity = 420 initialDisplaySizeFactor = 1080 currentDisplaySizeFactor = 1080 initialDisplayDensity = 420 proportionalDensity = 420 proportionalPixel = 0
+04-19 15:55:22.194  5576  5576 E IndicatorGardenAlgorithmBasicCutout: NOT MATCH !!!! resourceHeight:78, cutoutHeight:83 ([IndicatorGardenInputProperty]  Rotation(0-0,90-1,180-2,270-3)0, Density:2.625, ScreenWidthSize:1080, CoverSidePadding:0, mIndicatorGardenCenterOffset:11, mCameraCutoutCropSize:80, mGardenPaddingStart:21, mIndicatorCornerPadding:0, mCameraSidePadding:0, mCameraTopMargin:0, DpCutout:DisplayCutout{insets=Rect(0, 83 - 0, 0) waterfall=Insets{left=0, top=0, right=0, bottom=0} boundingRect={Bounds=[Rect(0, 0 - 0, 0), Rect(443, 0 - 637, 83), Rect(0, 0 - 0, 0), Rect(0, 0 - 0, 0)]} cutoutPathParserInfo={CutoutPathParserInfo{displayWidth=1080 displayHeight=2340 density={2.625} cutoutSpec={M36.95,0C26.35,0,24.15,3.8,23.15,9.8 l-0.1,0.7c-1.7,9.6-9.3,17.2-18.9,18.9c-12.7,2.2-24.8-6.2-27-18.9 c0,0-0.1-0.7-0.1-0.7C-24.15,3.8,-26.25,0,-36.95,0Z @dp} rotation={0} scale={1.0}}}})
+04-19 15:55:22.194  5576  5576 E IndicatorGardenAlgorithmBasicCutout: NOT MATCH !!!! resourceHeight:78, cutoutHeight:83 ([IndicatorGardenInputProperty]  Rotation(0-0,90-1,180-2,270-3)0, Density:2.625, ScreenWidthSize:1080, CoverSidePadding:0, mIndicatorGardenCenterOffset:11, mCameraCutoutCropSize:80, mGardenPaddingStart:21, mIndicatorCornerPadding:0, mCameraSidePadding:0, mCameraTopMargin:0, DpCutout:DisplayCutout{insets=Rect(0, 83 - 0, 0) waterfall=Insets{left=0, top=0, right=0, bottom=0} boundingRect={Bounds=[Rect(0, 0 - 0, 0), Rect(443, 0 - 637, 83), Rect(0, 0 - 0, 0), Rect(0, 0 - 0, 0)]} cutoutPathParserInfo={CutoutPathParserInfo{displayWidth=1080 displayHeight=2340 density={2.625} cutoutSpec={M36.95,0C26.35,0,24.15,3.8,23.15,9.8 l-0.1,0.7c-1.7,9.6-9.3,17.2-18.9,18.9c-12.7,2.2-24.8-6.2-27-18.9 c0,0-0.1-0.7-0.1-0.7C-24.15,3.8,-26.25,0,-36.95,0Z @dp} rotation={0} scale={1.0}}}})
+04-19 15:55:22.197  5232  5579 D InputDispatcher: Focus entered window (0): 5388057 com.sec.android.app.launcher/com.sec.android.app.launcher.activities.LauncherActivity
+04-19 15:55:22.197  5576  5576 D NavigationBar: onSystemBarAttributesChanged() -  displayId:0, appearance:0, navbarColorManagedByIme:false
+04-19 15:55:22.198  5576  5576 V Navbar.Store: handleEvent [EventType] GET_BOOL_REGION_SAMPLING_ENABLED [Module] LightBarController  KEYS_DEFAULT=false
+04-19 15:55:22.198  5576  5576 V Navbar.Store: --[Band]COLOR_PACK_GET_REGION_SAMPLING_ENABLED
+04-19 15:55:22.198  5576  5576 V Navbar.Store: ----getValue(BOOL_REGION_SAMPLING_ENABLED)=false
+04-19 15:55:22.199  5983 21648 I RecentModel: onTaskStackChangedBackground
+04-19 15:55:22.202  5983  5983 I PopupDataProvider: onNotificationFullRefresh prev dotInfoSize : 1
+04-19 15:55:22.202  5983  5983 I PopupDataProvider: refresh badge  package : com.wsandroid.suite count : 4
+04-19 15:55:22.202  5983  5983 I TouchInteractionService: onSystemUiFlagsChanged, userUnlocked
+04-19 15:55:22.204  5983  5983 I RecentsView: onTaskRemoved() taskId : 50
+04-19 15:55:22.204  5983  5983 I RecentsView: onTaskRemoved() taskId : 50
+04-19 15:55:22.204  5983  5983 I QuickstepTransition: WallpaperOpenLauncherAnimationRunner, onCreateAnimation
+04-19 15:55:22.205  5983  5983 W AppTransitionAnimatorImpl: closing animation without icon
+04-19 15:55:22.205  5983  5983 I AppTransitionAnimatorImpl: window bounds: Rect(0, 0 - 1080, 2340), target bounds: RectF(0.0, 0.0, 1080.0, 2340.0)
+04-19 15:55:22.206  5983  5983 W AppTransitionAnimatorImpl: onAnimationStart - APP OUT
+04-19 15:55:22.207  5983  5983 I ViewRootImpl@f05f80e[LauncherActivity]: MSG_WINDOW_FOCUS_CHANGED 1 1
+04-19 15:55:22.207  5983  5983 I BaseActivity: addActivityFlags, flags : 8
+04-19 15:55:22.207  5983  6160 I LiveIconUpdateEventHandler: setDateChangeAlarm
+04-19 15:55:22.208  5983  5983 I InputMethodManager: startInputInner - mService.startInputOrWindowGainedFocus
+04-19 15:55:22.209  5232  5579 D InputMethodManagerService: mDesktopModeManager null!
+04-19 15:55:22.209  5232  5579 V InputMethodManagerService: getDisplayIdOfInputMethodWindowToBeAdded : 0
+04-19 15:55:22.210  5232  5579 D InputMethodManagerService: checkDisplayOfStartInputAndUpdateKeyboard display Id 0last 0
+04-19 15:55:22.210  5232  5579 D InputTransport: Input channel constructed: 'ClientS', fd=625
+04-19 15:55:22.210  5232  5579 D InputTransport: Input channel destroyed: 'ClientS', fd=625
+04-19 15:55:22.210  7937  7937 I HBD     : HoneyBoardService onFinishInput
+04-19 15:55:22.211  4894  5142 I SurfaceFlinger: id=4156 createSurf (0x0),-1 flag=24004, Surface(name=877f4ea InputMethod)/@0x6ee3742 - animation-leash of insets_animation#0
+04-19 15:55:22.212  5983  5983 I BadgeRenderer: Invalid count : 0
+04-19 15:55:22.213  6314  6314 D InputTransport: Input channel destroyed: 'ClientS', fd=99
+04-19 15:55:22.214  5983  5983 I BadgeRenderer: Invalid count : 0
+04-19 15:55:22.214  7937  7937 I HBD     : a IC have been unbinding,  InputConnectionWrapper{idHash=#522c806 mMissingMethods=}
+04-19 15:55:22.214  7937  7937 I HBD     : HoneyBoardService [PF_CL][onFinishInput]  3526539 ns
+04-19 15:55:22.214  5983  5983 I BadgeRenderer: Invalid count : 0
+04-19 15:55:22.214  7937  7937 I HBD     : HoneyBoardService [IMI] onStartInput - caller pid : 5983 , caller uid : 10107
+04-19 15:55:22.215  7937  7937 I HBD     : j updateConfigs
+04-19 15:55:22.215  7937  7937 I HBD     : j isEnabledNightMode : false
+04-19 15:55:22.215  7937  7937 I HBD     : a IC have been binding, InputConnectionWrapper{idHash=#b3fbcf4 mMissingMethods=}
+04-19 15:55:22.215  7937  7937 I HBD     : h [EditorInputType]setPrivateImeOptionsToTable privateImeOptions ( null )
+04-19 15:55:22.215  7937  7937 I HBD     : b incognitoMode : false
+04-19 15:55:22.215  7937  7937 I HBD     : a needOff = true , isForceOff = false, isNullInputClass : true
+04-19 15:55:22.216  5983  6160 I LiveIconUpdateEventHandler: cancelMinuteChangeAlarm
+04-19 15:55:22.216  7937  7937 I HBD     : h getDefaultInputRange : UNKNOWN
+04-19 15:55:22.216  7937  7937 I HBD     : h getDefaultInputRange : UNKNOWN
+04-19 15:55:22.216  7937  7937 I HBD     : h getDefaultInputRange : UNKNOWN
+04-19 15:55:22.217  5983  6160 I LiveIconUpdateEventHandler: setMinuteChangeAlarm
+04-19 15:55:22.217  5983  7988 I ViewRootImpl@f05f80e[LauncherActivity]: mWNT: t = android.view.SurfaceControl$Transaction@485251a fN = 2 com.android.systemui.shared.system.ViewRootImplCompat.mergeWithNextTransaction:62 com.android.quickstep.util.SurfaceTransactionApplier.lambda$scheduleApply$0$SurfaceTransactionApplier:94 com.android.quickstep.util.-$$Lambda$SurfaceTransactionApplier$Xj9m0ayWHIr2xvQnKB4EJdxg8RU.accept:6
+04-19 15:55:22.217  5983  7988 I ViewRootImpl@f05f80e[LauncherActivity]: mWNT: merge t to BBQ
+04-19 15:55:22.218  5983  7988 I ViewRootImpl@f05f80e[LauncherActivity]: mWNT: t = android.view.SurfaceControl$Transaction@a1ae84b fN = 2 com.android.systemui.shared.system.ViewRootImplCompat.mergeWithNextTransaction:62 com.android.quickstep.util.SurfaceTransactionApplier.lambda$scheduleApply$0$SurfaceTransactionApplier:94 com.android.quickstep.util.-$$Lambda$SurfaceTransactionApplier$Xj9m0ayWHIr2xvQnKB4EJdxg8RU.accept:6
+04-19 15:55:22.218  5983  7988 I ViewRootImpl@f05f80e[LauncherActivity]: mWNT: merge t to BBQ
+04-19 15:55:22.219  5983  7988 I ViewRootImpl@f05f80e[LauncherActivity]: mWNT: t = android.view.SurfaceControl$Transaction@53df228 fN = 2 com.android.systemui.shared.system.ViewRootImplCompat.mergeWithNextTransaction:62 com.android.quickstep.util.SurfaceTransactionApplier.lambda$scheduleApply$0$SurfaceTransactionApplier:94 com.android.quickstep.util.-$$Lambda$SurfaceTransactionApplier$Xj9m0ayWHIr2xvQnKB4EJdxg8RU.accept:6
+04-19 15:55:22.219  5983  7988 I ViewRootImpl@f05f80e[LauncherActivity]: mWNT: merge t to BBQ
+04-19 15:55:22.223  5232  6022 D InputMethodManagerServicePhysicalKey: isConnectedDexOnPC false
+04-19 15:55:22.224  5232  6022 D InputMethodManagerService: isImeSwitcherDisabledPackage : false
+04-19 15:55:22.225  7937  7937 I HBD     : h getDefaultInputRange : UNKNOWN
+04-19 15:55:22.225  7937  7937 I HBD     : a currentState : 0
+04-19 15:55:22.227  5983  6160 I LiveIconUpdateEventHandler: Initialized
+04-19 15:55:22.228  4894  4894 I Layer   : id=4143 removeFromCurrentState Surface(name=877f4ea InputMethod)/@0x6ee3742 - animation-leash of insets_animation#1 (109)
+04-19 15:55:22.228  7937  7937 I HBD     : h load selected json path : /data/user/0/com.samsung.android.honeyboard/files/selected.json
+04-19 15:55:22.228  7937  7937 I HBD     : h load selected json info : {"version":"1.0","currentLanguageOrder":0,"selected":[{"activeOptionList":["auto_spacing","writing_assistant"],"engName":"English","id":65538,"inputType":"qwerty","isUsed":true}]}
+04-19 15:55:22.228  4894  4894 E SurfaceFlinger: Attempt to update InputPolicyFlags without permission ACCESS_SURFACE_FLINGER
+04-19 15:55:22.228  4894  4894 I SurfaceFlinger: id=4143 Removed Surface(name=877f4ea InputMethod)/@0x6ee3742 - animation-leash of insets_animation#1 (109)
+04-19 15:55:22.228  4894  4894 I Layer   : id=4143 Destroyed Surface(name=877f4ea InputMethod)/@0x6ee3742 - animation-leash of insets_animation#1
+04-19 15:55:22.228  7937  7937 I HBD     : a [UpdatePolicy] [post] a: 0 cl: 65538 kit: [0/0] vt: 0 ir: 1
+04-19 15:55:22.229  6061  6091 I TestRunner: finished: testQuery_callQueryWithAscendingDescriptionAndAscendingNameSortOrder(com.myapp.alist.db.ListDaoQueryTest)

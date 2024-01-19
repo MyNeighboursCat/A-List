@@ -1,2 +1,2 @@
-04-17 18:01:39.437 24018 24045 I TestRunner: started: testVerifyValues_callVerifyValuesWithEmptyStatus(com.myapp.alist.db.ListEntityVerifyValuesTest)
-04-17 18:01:39.441 24018 24045 I TestRunner: finished: testVerifyValues_callVerifyValuesWithEmptyStatus(com.myapp.alist.db.ListEntityVerifyValuesTest)
+04-19 15:55:22.551  6061  6091 I TestRunner: started: testVerifyValues_callVerifyValuesWithEmptyStatus(com.myapp.alist.db.ListEntityVerifyValuesTest)
+04-19 15:55:22.554  6061  6091 I TestRunner: finished: testVerifyValues_callVerifyValuesWithEmptyStatus(com.myapp.alist.db.ListEntityVerifyValuesTest)

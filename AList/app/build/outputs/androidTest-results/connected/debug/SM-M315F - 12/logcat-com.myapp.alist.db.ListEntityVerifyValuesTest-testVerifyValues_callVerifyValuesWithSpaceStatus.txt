@@ -1,0 +1,2 @@
+01-19 17:17:31.918  3761  3781 I TestRunner: started: testVerifyValues_callVerifyValuesWithSpaceStatus(com.myapp.alist.db.ListEntityVerifyValuesTest)
+01-19 17:17:31.920  3761  3781 I TestRunner: finished: testVerifyValues_callVerifyValuesWithSpaceStatus(com.myapp.alist.db.ListEntityVerifyValuesTest)

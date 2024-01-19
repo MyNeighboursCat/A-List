@@ -1,0 +1,48 @@
+01-19 17:17:31.481  3761  3781 I TestRunner: started: testQuery_callQueryWithDescendingNameSortOrder(com.myapp.alist.db.ListDaoQueryTest)
+01-19 17:17:31.483  4945  4945 D SurfaceFlinger: Display 0 HWC layers:
+01-19 17:17:31.483  4945  4945 D SurfaceFlinger:      DEVICE | 0x7578fb8500 | 0102 | RGBA_8888    |    0.0    0.0 1080.0 2340.0 |    0    0 1080 2340 | com.myapp.alist.test/androidx.test.c[...]ctivityInvoker$EmptyActivity$_3910#0
+01-19 17:17:31.483  4945  4945 D SurfaceFlinger:      DEVICE | 0x759a4c04c0 | 0100 | RGBA_8888    |    0.0    0.0 1080.0   78.0 |    0    0 1080   78 | StatusBar$_5599#0
+01-19 17:17:31.483  4945  4945 D SurfaceFlinger:      DEVICE | 0x759a4bfac0 | 0100 | RGBA_8888    |    0.0    0.0   67.0  362.0 | 1013 1637 1080 1999 | com.samsung.android.app.cocktailbars[...]rservice.CocktailBarService$_12823#0
+01-19 17:17:31.483  4945  4945 D SurfaceFlinger:      DEVICE | 0x7579018900 | 0100 | RGBA_8888    |    0.0    0.0 1080.0  126.0 |    0 2214 1080 2340 | NavigationBar0$_5599#0
+01-19 17:17:31.483  4945  4945 D SurfaceFlinger:      DEVICE | 0x759a4bdcc0 | 0140 | RGBA_8888    |    0.0    0.0 1080.0  151.0 |    0    0 1080  151 | ScreenDecorOverlay$_5599#0
+01-19 17:17:31.483  4945  4945 D SurfaceFlinger:      DEVICE | 0x7564e1ba00 | 0140 | RGBA_8888    |    0.0    0.0 1080.0  151.0 |    0 2189 1080 2340 | ScreenDecorOverlayBottom$_5599#0
+01-19 17:17:31.483  4945  4945 D SurfaceFlinger:
+01-19 17:17:31.484  5249  5754 D InputDispatcher: Focus request (0): b36a8aa com.sec.android.app.launcher/com.sec.android.app.launcher.activities.LauncherActivity but waiting because NOT_VISIBLE
+01-19 17:17:31.486  5249  5548 V WindowManager: Relayout Window{1d9a2ce u0 NotificationShade}: viewVisibility=4 req=1080x2340 d0
+01-19 17:17:31.487  6080  6080 I ViewRootImpl@e7cd915[LauncherActivity]: [DP] pdf(0) 1 android.view.ViewRootImpl.lambda$addFrameCompleteCallbackIfNeeded$3$ViewRootImpl:5000 android.view.ViewRootImpl$$ExternalSyntheticLambda16.run:6 android.os.Handler.handleCallback:938
+01-19 17:17:31.487  6080  6080 I ViewRootImpl@e7cd915[LauncherActivity]: [DP] rdf()
+01-19 17:17:31.488  5249  5548 V WindowManager: Relayout hash=1d9a2ce, pid=5599: mAttrs={(0,0)(fillxfill) gr=TOP CENTER_VERTICAL sim={adjust=resize} layoutInDisplayCutoutMode=always ty=2040 fmt=TRANSLUCENT
+01-19 17:17:31.488  5249  5548 V WindowManager:   fl=81840048
+01-19 17:17:31.488  5249  5548 V WindowManager:   pfl=1b000000
+01-19 17:17:31.488  5249  5548 V WindowManager:   bhv=SHOW_TRANSIENT_BARS_BY_SWIPE naviIconColor=0
+01-19 17:17:31.488  5249  5548 V WindowManager:   sfl=42000}
+01-19 17:17:31.488  5599  7339 D WallpaperService: dispatchAppVisibility onVisibilityChanged(): true
+01-19 17:17:31.491  4945  6920 I SurfaceFlinger: id=4457 createSurf (0x0),-1 flag=24000, Surface(name=Task=54)/@0x3bc7424 - animation-leash of app_transition#0
+01-19 17:17:31.492  5599  5599 I ViewRootImpl@7de5e0e[NotificationShade]: Relayout returned: old=(0,0,1080,2340) new=(0,0,1080,2340) req=(1080,2340)4 dur=13 res=0x1 s={false 0} ch=false fn=-1
+01-19 17:17:31.492  4945  5860 I SurfaceFlinger: id=4458 createSurf (0x0),-1 flag=24004, Surface(name=Task=1)/@0xd2ed749 - animation-leash of app_transition#0
+01-19 17:17:31.493  4945  4945 E SurfaceFlinger: Attempt to update InputPolicyFlags without permission ACCESS_SURFACE_FLINGER
+01-19 17:17:31.497  4945  5860 I SurfaceFlinger: id=4459 createSurf (0x0),-1 flag=24000, Surface(name=WallpaperWindowToken{7d4c261 token=android.os.Binder@7f061c8})/@0xce4e4d1 - animation-leash of window_animation#0
+01-19 17:17:31.498  6080  6177 I LiveIconUpdateEventHandler: cancelMinuteChangeAlarm
+01-19 17:17:31.501  5599  5599 D KeyguardBottomAreaShortcutView: updateCameraVisibility isCameraDisabled:false visible:true
+01-19 17:17:31.502  5599  5599 D KeyguardBottomAreaShortcutView: mIndicationArea margin start : 163, end : 163, bottom : 150
+01-19 17:17:31.503  5249  5290 D WindowManager: RemoteAnimationController::onAnimationStart, animations=[Landroid.view.RemoteAnimationTarget;@ad44f8e
+01-19 17:17:31.503  5599  5599 D QS      : setQSExpansion 0.0 -110.774994
+01-19 17:17:31.504  5599  5599 D QS      : setQSExpansion 0.0 -110.774994
+01-19 17:17:31.506  6080 21397 I LauncherAnimationRunner: onAnimationStart, appTargets : [Lcom.android.systemui.shared.system.RemoteAnimationTargetCompat;@4ee8524 mStartAtFrontOfQueue : false
+01-19 17:17:31.508  5599  5599 D WallpaperService: updateSurface forceRelayout=true forceReport=false redrawNeeded=false myWidth=2340 myHeight=2340 fixedSize=true x = 0 y = 0 mWidth=2340 mHeight=2340 mIsSleepMode=false
+01-19 17:17:31.508  5599  5599 D WallpaperService: mDeviceHeight : 2340, mDeviceWidth : 1080,mDeviceRotation  : 0
+01-19 17:17:31.511  5249  5754 D InputDispatcher: Focus entered window (0): b36a8aa com.sec.android.app.launcher/com.sec.android.app.launcher.activities.LauncherActivity
+01-19 17:17:31.513  5249  5780 V WindowManager: Relayout Window{714f779 u0 com.android.systemui.ImageWallpaper}: viewVisibility=0 req=2340x2340 d0
+01-19 17:17:31.515  5249  5780 V WindowManager: Relayout hash=714f779, pid=5599: mAttrs={(0,0)(2340x2340) gr=TOP START CENTER layoutInDisplayCutoutMode=always ty=WALLPAPER fmt=RGBX_8888 wanim=0x1030314
+01-19 17:17:31.515  5249  5780 V WindowManager:   fl=14318
+01-19 17:17:31.515  5249  5780 V WindowManager:   pfl=2000004
+01-19 17:17:31.515  5249  5780 V WindowManager:   bhv=DEFAULT naviIconColor=0
+01-19 17:17:31.515  5249  5780 V WindowManager:   sfl=8}
+01-19 17:17:31.516  5599  5599 D WallpaperService: updateSurface redrawNeeded=false didSurface=false , mDestroyed = false
+01-19 17:17:31.516  5599  5599 D WallpaperService: reportVisibility onVisibilityChanged visible: true
+01-19 17:17:31.517  5599  5599 D IndicatorGardenInputProperty: updateRotation() prv:-1 >> new:0
+01-19 17:17:31.518  5599  5791 I ImageWallpaper:  onVisibilityChanged true , 0
+01-19 17:17:31.518  6080  6080 I RecentsView: onTaskRemoved() taskId : 53
+01-19 17:17:31.518  6080  6080 I RecentsView: onTaskRemoved() taskId : 53
+01-19 17:17:31.518  6080  6080 I PopupDataProvider: onNotificationFullRefresh prev dotInfoSize : 1
+01-19 17:17:31.519  3761  3781 I TestRunner: finished: testQuery_callQueryWithDescendingNameSortOrder(com.myapp.alist.db.ListDaoQueryTest)

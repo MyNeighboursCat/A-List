@@ -707,7 +707,7 @@ INSTRUMENTATION_STATUS: test=testDelete_callDeleteAllSelectedAndGetExpectedDelet
 INSTRUMENTATION_STATUS_CODE: 0
 INSTRUMENTATION_RESULT: stream=
 
-Time: 12.091
+Time: 12.377
 
 OK (50 tests)
 

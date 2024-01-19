@@ -8,9 +8,7 @@
 8
 9    <uses-sdk
 10        android:minSdkVersion="16"
-10-->C:\Users\colin\AndroidStudioProjects\AList\app\src\main\AndroidManifest.xml
-11        android:targetSdkVersion="33" />
-11-->C:\Users\colin\AndroidStudioProjects\AList\app\src\main\AndroidManifest.xml
+11        android:targetSdkVersion="34" />
 12
 13    <!--
 14    Emulator doesn't like preferExternal.  Need to use the following instead when using the
@@ -28,113 +26,160 @@
 22-->C:\Users\colin\AndroidStudioProjects\AList\app\src\main\AndroidManifest.xml:18:22-76
 23
 24    <permission
-24-->[androidx.core:core:1.9.0] C:\Users\colin\.gradle\caches\transforms-3\8c25e88eb4ea76e8f3d0900731d8ae12\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+24-->[androidx.core:core:1.9.0] C:\Users\colin\.gradle\caches\transforms-3\80ecb3125b3fdd8b05d35979627b84fb\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
 25        android:name="com.myapp.alist.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
-25-->[androidx.core:core:1.9.0] C:\Users\colin\.gradle\caches\transforms-3\8c25e88eb4ea76e8f3d0900731d8ae12\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+25-->[androidx.core:core:1.9.0] C:\Users\colin\.gradle\caches\transforms-3\80ecb3125b3fdd8b05d35979627b84fb\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
 26        android:protectionLevel="signature" />
-26-->[androidx.core:core:1.9.0] C:\Users\colin\.gradle\caches\transforms-3\8c25e88eb4ea76e8f3d0900731d8ae12\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+26-->[androidx.core:core:1.9.0] C:\Users\colin\.gradle\caches\transforms-3\80ecb3125b3fdd8b05d35979627b84fb\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
 27
 28    <uses-permission android:name="com.myapp.alist.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" /> <!-- The name of the application must match the name of the class BasicApplication. -->
-28-->[androidx.core:core:1.9.0] C:\Users\colin\.gradle\caches\transforms-3\8c25e88eb4ea76e8f3d0900731d8ae12\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
-28-->[androidx.core:core:1.9.0] C:\Users\colin\.gradle\caches\transforms-3\8c25e88eb4ea76e8f3d0900731d8ae12\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+28-->[androidx.core:core:1.9.0] C:\Users\colin\.gradle\caches\transforms-3\80ecb3125b3fdd8b05d35979627b84fb\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+28-->[androidx.core:core:1.9.0] C:\Users\colin\.gradle\caches\transforms-3\80ecb3125b3fdd8b05d35979627b84fb\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
 29    <application
-29-->C:\Users\colin\AndroidStudioProjects\AList\app\src\main\AndroidManifest.xml:21:5-54:19
+29-->C:\Users\colin\AndroidStudioProjects\AList\app\src\main\AndroidManifest.xml:21:5-55:19
 30        android:name="com.myapp.alist.BasicApplication"
 30-->C:\Users\colin\AndroidStudioProjects\AList\app\src\main\AndroidManifest.xml:22:9-56
 31        android:allowBackup="true"
 31-->C:\Users\colin\AndroidStudioProjects\AList\app\src\main\AndroidManifest.xml:23:9-35
 32        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-32-->[androidx.core:core:1.9.0] C:\Users\colin\.gradle\caches\transforms-3\8c25e88eb4ea76e8f3d0900731d8ae12\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+32-->[androidx.core:core:1.9.0] C:\Users\colin\.gradle\caches\transforms-3\80ecb3125b3fdd8b05d35979627b84fb\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
 33        android:debuggable="true"
-34        android:icon="@mipmap/ic_launcher"
-34-->C:\Users\colin\AndroidStudioProjects\AList\app\src\main\AndroidManifest.xml:24:9-43
-35        android:label="@string/app_name"
-35-->C:\Users\colin\AndroidStudioProjects\AList\app\src\main\AndroidManifest.xml:25:9-41
-36        android:roundIcon="@mipmap/ic_launcher_round"
-36-->C:\Users\colin\AndroidStudioProjects\AList\app\src\main\AndroidManifest.xml:26:9-54
-37        android:testOnly="true"
-38        android:theme="@style/AppTheme.NoActionBar" >
-38-->C:\Users\colin\AndroidStudioProjects\AList\app\src\main\AndroidManifest.xml:27:9-52
-39        <activity
-39-->C:\Users\colin\AndroidStudioProjects\AList\app\src\main\AndroidManifest.xml:30:9-43:20
-40            android:name="com.myapp.alist.ui.MainActivity"
-40-->C:\Users\colin\AndroidStudioProjects\AList\app\src\main\AndroidManifest.xml:31:13-59
-41            android:exported="true" >
-41-->C:\Users\colin\AndroidStudioProjects\AList\app\src\main\AndroidManifest.xml:32:13-36
-42            <intent-filter>
-42-->C:\Users\colin\AndroidStudioProjects\AList\app\src\main\AndroidManifest.xml:33:13-37:29
-43                <action android:name="android.intent.action.MAIN" />
-43-->C:\Users\colin\AndroidStudioProjects\AList\app\src\main\AndroidManifest.xml:34:17-68
-43-->C:\Users\colin\AndroidStudioProjects\AList\app\src\main\AndroidManifest.xml:34:25-66
-44
-45                <category android:name="android.intent.category.LAUNCHER" />
-45-->C:\Users\colin\AndroidStudioProjects\AList\app\src\main\AndroidManifest.xml:36:17-76
-45-->C:\Users\colin\AndroidStudioProjects\AList\app\src\main\AndroidManifest.xml:36:27-74
-46            </intent-filter>
-47            <intent-filter>
-47-->C:\Users\colin\AndroidStudioProjects\AList\app\src\main\AndroidManifest.xml:38:13-42:29
-48                <action android:name="android.intent.action.SEND" />
-48-->C:\Users\colin\AndroidStudioProjects\AList\app\src\main\AndroidManifest.xml:39:17-68
-48-->C:\Users\colin\AndroidStudioProjects\AList\app\src\main\AndroidManifest.xml:39:25-66
-49
-50                <category android:name="android.intent.category.DEFAULT" />
-50-->C:\Users\colin\AndroidStudioProjects\AList\app\src\main\AndroidManifest.xml:40:17-75
-50-->C:\Users\colin\AndroidStudioProjects\AList\app\src\main\AndroidManifest.xml:40:27-73
+34        android:enableOnBackInvokedCallback="true"
+34-->C:\Users\colin\AndroidStudioProjects\AList\app\src\main\AndroidManifest.xml:28:9-51
+35        android:extractNativeLibs="true"
+36        android:icon="@mipmap/ic_launcher"
+36-->C:\Users\colin\AndroidStudioProjects\AList\app\src\main\AndroidManifest.xml:24:9-43
+37        android:label="@string/app_name"
+37-->C:\Users\colin\AndroidStudioProjects\AList\app\src\main\AndroidManifest.xml:25:9-41
+38        android:roundIcon="@mipmap/ic_launcher_round"
+38-->C:\Users\colin\AndroidStudioProjects\AList\app\src\main\AndroidManifest.xml:26:9-54
+39        android:testOnly="true"
+40        android:theme="@style/AppTheme.NoActionBar" >
+40-->C:\Users\colin\AndroidStudioProjects\AList\app\src\main\AndroidManifest.xml:27:9-52
+41        <activity
+41-->C:\Users\colin\AndroidStudioProjects\AList\app\src\main\AndroidManifest.xml:31:9-44:20
+42            android:name="com.myapp.alist.ui.MainActivity"
+42-->C:\Users\colin\AndroidStudioProjects\AList\app\src\main\AndroidManifest.xml:32:13-59
+43            android:exported="true" >
+43-->C:\Users\colin\AndroidStudioProjects\AList\app\src\main\AndroidManifest.xml:33:13-36
+44            <intent-filter>
+44-->C:\Users\colin\AndroidStudioProjects\AList\app\src\main\AndroidManifest.xml:34:13-38:29
+45                <action android:name="android.intent.action.MAIN" />
+45-->C:\Users\colin\AndroidStudioProjects\AList\app\src\main\AndroidManifest.xml:35:17-68
+45-->C:\Users\colin\AndroidStudioProjects\AList\app\src\main\AndroidManifest.xml:35:25-66
+46
+47                <category android:name="android.intent.category.LAUNCHER" />
+47-->C:\Users\colin\AndroidStudioProjects\AList\app\src\main\AndroidManifest.xml:37:17-76
+47-->C:\Users\colin\AndroidStudioProjects\AList\app\src\main\AndroidManifest.xml:37:27-74
+48            </intent-filter>
+49            <intent-filter>
+49-->C:\Users\colin\AndroidStudioProjects\AList\app\src\main\AndroidManifest.xml:39:13-43:29
+50                <action android:name="android.intent.action.SEND" />
+50-->C:\Users\colin\AndroidStudioProjects\AList\app\src\main\AndroidManifest.xml:40:17-68
+50-->C:\Users\colin\AndroidStudioProjects\AList\app\src\main\AndroidManifest.xml:40:25-66
 51
-52                <data android:mimeType="text/plain" />
-52-->C:\Users\colin\AndroidStudioProjects\AList\app\src\main\AndroidManifest.xml:41:17-54
-52-->C:\Users\colin\AndroidStudioProjects\AList\app\src\main\AndroidManifest.xml:41:23-52
-53            </intent-filter>
-54        </activity>
-55        <activity
-55-->C:\Users\colin\AndroidStudioProjects\AList\app\src\main\AndroidManifest.xml:44:9-48:20
-56            android:name="com.myapp.alist.ui.HelpActivity"
-56-->C:\Users\colin\AndroidStudioProjects\AList\app\src\main\AndroidManifest.xml:45:13-59
-57            android:label="@string/help"
-57-->C:\Users\colin\AndroidStudioProjects\AList\app\src\main\AndroidManifest.xml:46:13-41
-58            android:parentActivityName="com.myapp.alist.ui.MainActivity" >
-58-->C:\Users\colin\AndroidStudioProjects\AList\app\src\main\AndroidManifest.xml:47:13-73
-59        </activity>
-60        <activity
-60-->C:\Users\colin\AndroidStudioProjects\AList\app\src\main\AndroidManifest.xml:49:9-53:20
-61            android:name="com.myapp.alist.ui.AboutActivity"
-61-->C:\Users\colin\AndroidStudioProjects\AList\app\src\main\AndroidManifest.xml:50:13-60
-62            android:label="@string/about"
-62-->C:\Users\colin\AndroidStudioProjects\AList\app\src\main\AndroidManifest.xml:51:13-42
-63            android:parentActivityName="com.myapp.alist.ui.MainActivity" >
-63-->C:\Users\colin\AndroidStudioProjects\AList\app\src\main\AndroidManifest.xml:52:13-73
-64        </activity>
-65
-66        <service
-66-->[androidx.room:room-runtime:2.5.1] C:\Users\colin\.gradle\caches\transforms-3\221ad927c88a607a3a962a7a19d9eb0c\transformed\room-runtime-2.5.1\AndroidManifest.xml:24:9-28:63
-67            android:name="androidx.room.MultiInstanceInvalidationService"
-67-->[androidx.room:room-runtime:2.5.1] C:\Users\colin\.gradle\caches\transforms-3\221ad927c88a607a3a962a7a19d9eb0c\transformed\room-runtime-2.5.1\AndroidManifest.xml:25:13-74
-68            android:directBootAware="true"
-68-->[androidx.room:room-runtime:2.5.1] C:\Users\colin\.gradle\caches\transforms-3\221ad927c88a607a3a962a7a19d9eb0c\transformed\room-runtime-2.5.1\AndroidManifest.xml:26:13-43
-69            android:exported="false" />
-69-->[androidx.room:room-runtime:2.5.1] C:\Users\colin\.gradle\caches\transforms-3\221ad927c88a607a3a962a7a19d9eb0c\transformed\room-runtime-2.5.1\AndroidManifest.xml:27:13-37
-70
-71        <provider
-71-->[androidx.emoji2:emoji2:1.2.0] C:\Users\colin\.gradle\caches\transforms-3\3d235ed602f65236d1e967aa3ae41734\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
-72            android:name="androidx.startup.InitializationProvider"
-72-->[androidx.emoji2:emoji2:1.2.0] C:\Users\colin\.gradle\caches\transforms-3\3d235ed602f65236d1e967aa3ae41734\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
-73            android:authorities="com.myapp.alist.androidx-startup"
-73-->[androidx.emoji2:emoji2:1.2.0] C:\Users\colin\.gradle\caches\transforms-3\3d235ed602f65236d1e967aa3ae41734\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
-74            android:exported="false" >
-74-->[androidx.emoji2:emoji2:1.2.0] C:\Users\colin\.gradle\caches\transforms-3\3d235ed602f65236d1e967aa3ae41734\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
-75            <meta-data
-75-->[androidx.emoji2:emoji2:1.2.0] C:\Users\colin\.gradle\caches\transforms-3\3d235ed602f65236d1e967aa3ae41734\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
-76                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-76-->[androidx.emoji2:emoji2:1.2.0] C:\Users\colin\.gradle\caches\transforms-3\3d235ed602f65236d1e967aa3ae41734\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
-77                android:value="androidx.startup" />
-77-->[androidx.emoji2:emoji2:1.2.0] C:\Users\colin\.gradle\caches\transforms-3\3d235ed602f65236d1e967aa3ae41734\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
-78            <meta-data
-78-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\colin\.gradle\caches\transforms-3\74479ed0ca537f847c79c9f1d11b43a4\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
-79                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-79-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\colin\.gradle\caches\transforms-3\74479ed0ca537f847c79c9f1d11b43a4\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
-80                android:value="androidx.startup" />
-80-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\colin\.gradle\caches\transforms-3\74479ed0ca537f847c79c9f1d11b43a4\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
-81        </provider>
-82    </application>
-83
-84</manifest>
+52                <category android:name="android.intent.category.DEFAULT" />
+52-->C:\Users\colin\AndroidStudioProjects\AList\app\src\main\AndroidManifest.xml:41:17-75
+52-->C:\Users\colin\AndroidStudioProjects\AList\app\src\main\AndroidManifest.xml:41:27-73
+53
+54                <data android:mimeType="text/plain" />
+54-->C:\Users\colin\AndroidStudioProjects\AList\app\src\main\AndroidManifest.xml:42:17-54
+54-->C:\Users\colin\AndroidStudioProjects\AList\app\src\main\AndroidManifest.xml:42:23-52
+55            </intent-filter>
+56        </activity>
+57        <activity
+57-->C:\Users\colin\AndroidStudioProjects\AList\app\src\main\AndroidManifest.xml:45:9-49:20
+58            android:name="com.myapp.alist.ui.HelpActivity"
+58-->C:\Users\colin\AndroidStudioProjects\AList\app\src\main\AndroidManifest.xml:46:13-59
+59            android:label="@string/help"
+59-->C:\Users\colin\AndroidStudioProjects\AList\app\src\main\AndroidManifest.xml:47:13-41
+60            android:parentActivityName="com.myapp.alist.ui.MainActivity" >
+60-->C:\Users\colin\AndroidStudioProjects\AList\app\src\main\AndroidManifest.xml:48:13-73
+61        </activity>
+62        <activity
+62-->C:\Users\colin\AndroidStudioProjects\AList\app\src\main\AndroidManifest.xml:50:9-54:20
+63            android:name="com.myapp.alist.ui.AboutActivity"
+63-->C:\Users\colin\AndroidStudioProjects\AList\app\src\main\AndroidManifest.xml:51:13-60
+64            android:label="@string/about"
+64-->C:\Users\colin\AndroidStudioProjects\AList\app\src\main\AndroidManifest.xml:52:13-42
+65            android:parentActivityName="com.myapp.alist.ui.MainActivity" >
+65-->C:\Users\colin\AndroidStudioProjects\AList\app\src\main\AndroidManifest.xml:53:13-73
+66        </activity>
+67
+68        <service
+68-->[androidx.room:room-runtime:2.6.1] C:\Users\colin\.gradle\caches\transforms-3\174e2957876b77b4ebd280255e3d7ebb\transformed\room-runtime-2.6.1\AndroidManifest.xml:24:9-28:63
+69            android:name="androidx.room.MultiInstanceInvalidationService"
+69-->[androidx.room:room-runtime:2.6.1] C:\Users\colin\.gradle\caches\transforms-3\174e2957876b77b4ebd280255e3d7ebb\transformed\room-runtime-2.6.1\AndroidManifest.xml:25:13-74
+70            android:directBootAware="true"
+70-->[androidx.room:room-runtime:2.6.1] C:\Users\colin\.gradle\caches\transforms-3\174e2957876b77b4ebd280255e3d7ebb\transformed\room-runtime-2.6.1\AndroidManifest.xml:26:13-43
+71            android:exported="false" />
+71-->[androidx.room:room-runtime:2.6.1] C:\Users\colin\.gradle\caches\transforms-3\174e2957876b77b4ebd280255e3d7ebb\transformed\room-runtime-2.6.1\AndroidManifest.xml:27:13-37
+72
+73        <provider
+73-->[androidx.emoji2:emoji2:1.2.0] C:\Users\colin\.gradle\caches\transforms-3\59e7ff404b0e0c287007e238ab305d59\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+74            android:name="androidx.startup.InitializationProvider"
+74-->[androidx.emoji2:emoji2:1.2.0] C:\Users\colin\.gradle\caches\transforms-3\59e7ff404b0e0c287007e238ab305d59\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+75            android:authorities="com.myapp.alist.androidx-startup"
+75-->[androidx.emoji2:emoji2:1.2.0] C:\Users\colin\.gradle\caches\transforms-3\59e7ff404b0e0c287007e238ab305d59\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+76            android:exported="false" >
+76-->[androidx.emoji2:emoji2:1.2.0] C:\Users\colin\.gradle\caches\transforms-3\59e7ff404b0e0c287007e238ab305d59\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+77            <meta-data
+77-->[androidx.emoji2:emoji2:1.2.0] C:\Users\colin\.gradle\caches\transforms-3\59e7ff404b0e0c287007e238ab305d59\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+78                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+78-->[androidx.emoji2:emoji2:1.2.0] C:\Users\colin\.gradle\caches\transforms-3\59e7ff404b0e0c287007e238ab305d59\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+79                android:value="androidx.startup" />
+79-->[androidx.emoji2:emoji2:1.2.0] C:\Users\colin\.gradle\caches\transforms-3\59e7ff404b0e0c287007e238ab305d59\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+80            <meta-data
+80-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\colin\.gradle\caches\transforms-3\1b195f2d51eaf2fe0df831650232d5d2\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:29:13-31:52
+81                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+81-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\colin\.gradle\caches\transforms-3\1b195f2d51eaf2fe0df831650232d5d2\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:30:17-78
+82                android:value="androidx.startup" />
+82-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\colin\.gradle\caches\transforms-3\1b195f2d51eaf2fe0df831650232d5d2\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:31:17-49
+83            <meta-data
+83-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\colin\.gradle\caches\transforms-3\57bf1a73683a7614dd37211c0e0f2a71\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+84                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+84-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\colin\.gradle\caches\transforms-3\57bf1a73683a7614dd37211c0e0f2a71\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+85                android:value="androidx.startup" />
+85-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\colin\.gradle\caches\transforms-3\57bf1a73683a7614dd37211c0e0f2a71\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+86        </provider>
+87
+88        <receiver
+88-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\colin\.gradle\caches\transforms-3\57bf1a73683a7614dd37211c0e0f2a71\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+89            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+89-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\colin\.gradle\caches\transforms-3\57bf1a73683a7614dd37211c0e0f2a71\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+90            android:directBootAware="false"
+90-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\colin\.gradle\caches\transforms-3\57bf1a73683a7614dd37211c0e0f2a71\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+91            android:enabled="true"
+91-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\colin\.gradle\caches\transforms-3\57bf1a73683a7614dd37211c0e0f2a71\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+92            android:exported="true"
+92-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\colin\.gradle\caches\transforms-3\57bf1a73683a7614dd37211c0e0f2a71\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+93            android:permission="android.permission.DUMP" >
+93-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\colin\.gradle\caches\transforms-3\57bf1a73683a7614dd37211c0e0f2a71\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+94            <intent-filter>
+94-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\colin\.gradle\caches\transforms-3\57bf1a73683a7614dd37211c0e0f2a71\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+95                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+95-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\colin\.gradle\caches\transforms-3\57bf1a73683a7614dd37211c0e0f2a71\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+95-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\colin\.gradle\caches\transforms-3\57bf1a73683a7614dd37211c0e0f2a71\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+96            </intent-filter>
+97            <intent-filter>
+97-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\colin\.gradle\caches\transforms-3\57bf1a73683a7614dd37211c0e0f2a71\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+98                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+98-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\colin\.gradle\caches\transforms-3\57bf1a73683a7614dd37211c0e0f2a71\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+98-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\colin\.gradle\caches\transforms-3\57bf1a73683a7614dd37211c0e0f2a71\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+99            </intent-filter>
+100            <intent-filter>
+100-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\colin\.gradle\caches\transforms-3\57bf1a73683a7614dd37211c0e0f2a71\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+101                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+101-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\colin\.gradle\caches\transforms-3\57bf1a73683a7614dd37211c0e0f2a71\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+101-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\colin\.gradle\caches\transforms-3\57bf1a73683a7614dd37211c0e0f2a71\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+102            </intent-filter>
+103            <intent-filter>
+103-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\colin\.gradle\caches\transforms-3\57bf1a73683a7614dd37211c0e0f2a71\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+104                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+104-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\colin\.gradle\caches\transforms-3\57bf1a73683a7614dd37211c0e0f2a71\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+104-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\colin\.gradle\caches\transforms-3\57bf1a73683a7614dd37211c0e0f2a71\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
+105            </intent-filter>
+106        </receiver>
+107    </application>
+108
+109</manifest>

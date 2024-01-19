@@ -1,2 +1,2 @@
-04-17 18:01:39.449 24018 24045 I TestRunner: started: testInsert_callInsertWithDuplicateNameOnlyAndGetExpectedError(com.myapp.alist.db.ListDaoInsertTest)
-04-17 18:01:39.461 24018 24045 I TestRunner: finished: testInsert_callInsertWithDuplicateNameOnlyAndGetExpectedError(com.myapp.alist.db.ListDaoInsertTest)
+04-19 15:55:22.562  6061  6091 I TestRunner: started: testInsert_callInsertWithDuplicateNameOnlyAndGetExpectedError(com.myapp.alist.db.ListDaoInsertTest)
+04-19 15:55:22.574  6061  6091 I TestRunner: finished: testInsert_callInsertWithDuplicateNameOnlyAndGetExpectedError(com.myapp.alist.db.ListDaoInsertTest)

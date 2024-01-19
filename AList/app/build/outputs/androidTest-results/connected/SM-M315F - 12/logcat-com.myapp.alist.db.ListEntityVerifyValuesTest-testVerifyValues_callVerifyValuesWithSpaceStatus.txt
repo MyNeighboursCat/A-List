@@ -1,9 +1,7 @@
-04-17 18:01:39.335 24018 24045 I TestRunner: started: testVerifyValues_callVerifyValuesWithSpaceStatus(com.myapp.alist.db.ListEntityVerifyValuesTest)
-04-17 18:01:39.336  5274  5587 V WindowManager: Relayout hash=8bcfcbf, pid=24160: mAttrs={(0,0)(fillxfill) sim={adjust=pan forwardNavigation} ty=BASE_APPLICATION
-04-17 18:01:39.336  5274  5587 V WindowManager:   fl=81810100
-04-17 18:01:39.336  5274  5587 V WindowManager:   pfl=12020040
-04-17 18:01:39.336  5274  5587 V WindowManager:   apr=LIGHT_NAVIGATION_BARS
-04-17 18:01:39.336  5274  5587 V WindowManager:   bhv=DEFAULT
-04-17 18:01:39.336  5274  5587 V WindowManager:   fitSides= naviIconColor=0
-04-17 18:01:39.336  5274  5587 V WindowManager:   sfl=100000}
-04-17 18:01:39.339 24018 24045 I TestRunner: finished: testVerifyValues_callVerifyValuesWithSpaceStatus(com.myapp.alist.db.ListEntityVerifyValuesTest)
+04-19 15:55:22.443  6061  6091 I TestRunner: started: testVerifyValues_callVerifyValuesWithSpaceStatus(com.myapp.alist.db.ListEntityVerifyValuesTest)
+04-19 15:55:22.445  4894  4894 E SurfaceFlinger: Attempt to update InputPolicyFlags without permission ACCESS_SURFACE_FLINGER
+04-19 15:55:22.445  5983  5983 W AppTransitionAnimatorImpl: onAnimationEnd - APP OUT, Execution time for each frame : Start-(1)-0-(0)-0-(5)-0-(17)-0-(18)-0-(15)-0-(17)-0-(16)-1-(16)-0-(17)-0-(17)-0-(16)-0-(17)-0-(17)-0-(16)-1-(16)-0-(17)-0-End
+04-19 15:55:22.445  5983  5983 I AppTransitionAnimatorImpl: resetContentView
+04-19 15:55:22.446  5983  7988 I ViewRootImpl@f05f80e[LauncherActivity]: mWNT: t = android.view.SurfaceControl$Transaction@6da7a3b fN = 16 com.android.systemui.shared.system.ViewRootImplCompat.mergeWithNextTransaction:62 com.android.quickstep.util.SurfaceTransactionApplier.lambda$scheduleApply$0$SurfaceTransactionApplier:94 com.android.quickstep.util.-$$Lambda$SurfaceTransactionApplier$Xj9m0ayWHIr2xvQnKB4EJdxg8RU.accept:6
+04-19 15:55:22.446  5983  7988 I ViewRootImpl@f05f80e[LauncherActivity]: mWNT: merge t to BBQ
+04-19 15:55:22.447  6061  6091 I TestRunner: finished: testVerifyValues_callVerifyValuesWithSpaceStatus(com.myapp.alist.db.ListEntityVerifyValuesTest)

@@ -1,6 +1,8 @@
 package com.myapp.alist.db;
 
 import android.database.Cursor;
+import androidx.annotation.NonNull;
+import androidx.annotation.Nullable;
 import androidx.lifecycle.LiveData;
 import androidx.room.EntityDeletionOrUpdateAdapter;
 import androidx.room.EntityInsertionAdapter;
@@ -30,80 +32,86 @@ public final class ListDao_Impl implements ListDao {
 
   private final EntityDeletionOrUpdateAdapter<ListEntity> __updateAdapterOfListEntity;
 
-  public ListDao_Impl(RoomDatabase __db) {
+  public ListDao_Impl(@NonNull final RoomDatabase __db) {
     this.__db = __db;
     this.__insertionAdapterOfListEntity = new EntityInsertionAdapter<ListEntity>(__db) {
       @Override
-      public String createQuery() {
+      @NonNull
+      protected String createQuery() {
         return "INSERT OR ABORT INTO `list` (`_id`,`name`,`description`,`category`,`status`) VALUES (nullif(?, 0),?,?,?,?)";
       }
 
       @Override
-      public void bind(SupportSQLiteStatement stmt, ListEntity value) {
-        stmt.bindLong(1, value.getId());
-        if (value.getName() == null) {
-          stmt.bindNull(2);
+      protected void bind(@NonNull final SupportSQLiteStatement statement,
+          final ListEntity entity) {
+        statement.bindLong(1, entity.getId());
+        if (entity.getName() == null) {
+          statement.bindNull(2);
         } else {
-          stmt.bindString(2, value.getName());
+          statement.bindString(2, entity.getName());
         }
-        if (value.getDescription() == null) {
-          stmt.bindNull(3);
+        if (entity.getDescription() == null) {
+          statement.bindNull(3);
         } else {
-          stmt.bindString(3, value.getDescription());
+          statement.bindString(3, entity.getDescription());
         }
-        if (value.getCategory() == null) {
-          stmt.bindNull(4);
+        if (entity.getCategory() == null) {
+          statement.bindNull(4);
         } else {
-          stmt.bindString(4, value.getCategory());
+          statement.bindString(4, entity.getCategory());
         }
-        if (value.getStatus() == null) {
-          stmt.bindNull(5);
+        if (entity.getStatus() == null) {
+          statement.bindNull(5);
         } else {
-          stmt.bindString(5, value.getStatus());
+          statement.bindString(5, entity.getStatus());
         }
       }
     };
     this.__deletionAdapterOfListEntity = new EntityDeletionOrUpdateAdapter<ListEntity>(__db) {
       @Override
-      public String createQuery() {
+      @NonNull
+      protected String createQuery() {
         return "DELETE FROM `list` WHERE `_id` = ?";
       }
 
       @Override
-      public void bind(SupportSQLiteStatement stmt, ListEntity value) {
-        stmt.bindLong(1, value.getId());
+      protected void bind(@NonNull final SupportSQLiteStatement statement,
+          final ListEntity entity) {
+        statement.bindLong(1, entity.getId());
       }
     };
     this.__updateAdapterOfListEntity = new EntityDeletionOrUpdateAdapter<ListEntity>(__db) {
       @Override
-      public String createQuery() {
+      @NonNull
+      protected String createQuery() {
         return "UPDATE OR ABORT `list` SET `_id` = ?,`name` = ?,`description` = ?,`category` = ?,`status` = ? WHERE `_id` = ?";
       }
 
       @Override
-      public void bind(SupportSQLiteStatement stmt, ListEntity value) {
-        stmt.bindLong(1, value.getId());
-        if (value.getName() == null) {
-          stmt.bindNull(2);
+      protected void bind(@NonNull final SupportSQLiteStatement statement,
+          final ListEntity entity) {
+        statement.bindLong(1, entity.getId());
+        if (entity.getName() == null) {
+          statement.bindNull(2);
         } else {
-          stmt.bindString(2, value.getName());
+          statement.bindString(2, entity.getName());
         }
-        if (value.getDescription() == null) {
-          stmt.bindNull(3);
+        if (entity.getDescription() == null) {
+          statement.bindNull(3);
         } else {
-          stmt.bindString(3, value.getDescription());
+          statement.bindString(3, entity.getDescription());
         }
-        if (value.getCategory() == null) {
-          stmt.bindNull(4);
+        if (entity.getCategory() == null) {
+          statement.bindNull(4);
         } else {
-          stmt.bindString(4, value.getCategory());
+          statement.bindString(4, entity.getCategory());
         }
-        if (value.getStatus() == null) {
-          stmt.bindNull(5);
+        if (entity.getStatus() == null) {
+          statement.bindNull(5);
         } else {
-          stmt.bindString(5, value.getStatus());
+          statement.bindString(5, entity.getStatus());
         }
-        stmt.bindLong(6, value.getId());
+        statement.bindLong(6, entity.getId());
       }
     };
   }
@@ -113,7 +121,7 @@ public final class ListDao_Impl implements ListDao {
     __db.assertNotSuspendingTransaction();
     __db.beginTransaction();
     try {
-      long _result = __insertionAdapterOfListEntity.insertAndReturnId(item);
+      final long _result = __insertionAdapterOfListEntity.insertAndReturnId(item);
       __db.setTransactionSuccessful();
       return _result;
     } finally {
@@ -127,7 +135,7 @@ public final class ListDao_Impl implements ListDao {
     int _total = 0;
     __db.beginTransaction();
     try {
-      _total +=__deletionAdapterOfListEntity.handleMultiple(listEntities);
+      _total += __deletionAdapterOfListEntity.handleMultiple(listEntities);
       __db.setTransactionSuccessful();
       return _total;
     } finally {
@@ -141,7 +149,7 @@ public final class ListDao_Impl implements ListDao {
     int _total = 0;
     __db.beginTransaction();
     try {
-      _total +=__updateAdapterOfListEntity.handle(item);
+      _total += __updateAdapterOfListEntity.handle(item);
       __db.setTransactionSuccessful();
       return _total;
     } finally {
@@ -153,8 +161,9 @@ public final class ListDao_Impl implements ListDao {
   public LiveData<List<ListEntity>> selectAllQuery() {
     final String _sql = "SELECT * FROM List";
     final RoomSQLiteQuery _statement = RoomSQLiteQuery.acquire(_sql, 0);
-    return __db.getInvalidationTracker().createLiveData(new String[]{"List"}, false, new Callable<List<ListEntity>>() {
+    return __db.getInvalidationTracker().createLiveData(new String[] {"List"}, false, new Callable<List<ListEntity>>() {
       @Override
+      @Nullable
       public List<ListEntity> call() throws Exception {
         final Cursor _cursor = DBUtil.query(__db, _statement, false, null);
         try {
@@ -164,7 +173,7 @@ public final class ListDao_Impl implements ListDao {
           final int _cursorIndexOfCategory = CursorUtil.getColumnIndexOrThrow(_cursor, "category");
           final int _cursorIndexOfStatus = CursorUtil.getColumnIndexOrThrow(_cursor, "status");
           final List<ListEntity> _result = new ArrayList<ListEntity>(_cursor.getCount());
-          while(_cursor.moveToNext()) {
+          while (_cursor.moveToNext()) {
             final ListEntity _item;
             _item = new ListEntity();
             final long _tmpId;
@@ -215,14 +224,14 @@ public final class ListDao_Impl implements ListDao {
 
   @Override
   public LiveData<List<ListEntity>> doRawQuery(final SupportSQLiteQuery query) {
-    final SupportSQLiteQuery _internalQuery = query;
-    return __db.getInvalidationTracker().createLiveData(new String[]{"list"}, false, new Callable<List<ListEntity>>() {
+    return __db.getInvalidationTracker().createLiveData(new String[] {"list"}, false, new Callable<List<ListEntity>>() {
       @Override
+      @Nullable
       public List<ListEntity> call() throws Exception {
-        final Cursor _cursor = DBUtil.query(__db, _internalQuery, false, null);
+        final Cursor _cursor = DBUtil.query(__db, query, false, null);
         try {
           final List<ListEntity> _result = new ArrayList<ListEntity>(_cursor.getCount());
-          while(_cursor.moveToNext()) {
+          while (_cursor.moveToNext()) {
             final ListEntity _item;
             _item = __entityCursorConverter_comMyappAlistDbListEntity(_cursor);
             _result.add(_item);
@@ -235,11 +244,13 @@ public final class ListDao_Impl implements ListDao {
     });
   }
 
+  @NonNull
   public static List<Class<?>> getRequiredConverters() {
     return Collections.emptyList();
   }
 
-  private ListEntity __entityCursorConverter_comMyappAlistDbListEntity(Cursor cursor) {
+  private ListEntity __entityCursorConverter_comMyappAlistDbListEntity(
+      @NonNull final Cursor cursor) {
     final ListEntity _entity;
     final int _cursorIndexOfId = CursorUtil.getColumnIndex(cursor, "_id");
     final int _cursorIndexOfName = CursorUtil.getColumnIndex(cursor, "name");

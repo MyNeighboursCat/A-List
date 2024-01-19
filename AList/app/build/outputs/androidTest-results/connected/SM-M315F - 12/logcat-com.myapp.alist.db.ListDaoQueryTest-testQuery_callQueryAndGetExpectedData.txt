@@ -1,5 +1,15 @@
-04-17 18:01:39.257 24018 24045 I TestRunner: started: testQuery_callQueryAndGetExpectedData(com.myapp.alist.db.ListDaoQueryTest)
-04-17 18:01:39.262  4929  4929 E SurfaceFlinger: Attempt to update InputPolicyFlags without permission ACCESS_SURFACE_FLINGER
-04-17 18:01:39.264  6034  8116 I ViewRootImpl@ba39c16[LauncherActivity]: mWNT: t = android.view.SurfaceControl$Transaction@88ca14a fN = 13 com.android.systemui.shared.system.ViewRootImplCompat.mergeWithNextTransaction:62 com.android.quickstep.util.SurfaceTransactionApplier.lambda$scheduleApply$0$SurfaceTransactionApplier:94 com.android.quickstep.util.-$$Lambda$SurfaceTransactionApplier$Xj9m0ayWHIr2xvQnKB4EJdxg8RU.accept:6
-04-17 18:01:39.264  6034  8116 I ViewRootImpl@ba39c16[LauncherActivity]: mWNT: merge t to BBQ
-04-17 18:01:39.271 24018 24045 I TestRunner: finished: testQuery_callQueryAndGetExpectedData(com.myapp.alist.db.ListDaoQueryTest)
+04-19 15:55:22.364  6061  6091 I TestRunner: started: testQuery_callQueryAndGetExpectedData(com.myapp.alist.db.ListDaoQueryTest)
+04-19 15:55:22.365  4894  4894 D SurfaceFlinger: Display 0 HWC layers:
+04-19 15:55:22.365  4894  4894 D SurfaceFlinger:      DEVICE | 0x7d9f7c77c0 | 0100 | RGBx_8888    |  635.0   11.0 1705.0 2329.0 |    0    0 1080 2340 | Wallpaper BBQ wrapper#0
+04-19 15:55:22.365  4894  4894 D SurfaceFlinger:      DEVICE | 0x7d6cf6d7c0 | 0100 | RGBA_8888    |    0.0    0.0 1080.0 2340.0 |    0    0 1080 2340 | com.sec.android.app.launcher/com.sec[...].activities.LauncherActivity$_5983#0
+04-19 15:55:22.365  4894  4894 D SurfaceFlinger:      DEVICE | 0x7d8143fe40 | 0100 | RGBA_8888    |    0.0    0.0 1080.0   78.0 |    0    0 1080   78 | StatusBar$_5576#0
+04-19 15:55:22.365  4894  4894 D SurfaceFlinger:      DEVICE | 0x7da12bf200 | 0100 | RGBA_8888    |    0.0    0.0   67.0  362.0 | 1013 1637 1080 1999 | com.samsung.android.app.cocktailbars[...]rservice.CocktailBarService$_11163#0
+04-19 15:55:22.365  4894  4894 D SurfaceFlinger:      DEVICE | 0x7d6cce4bc0 | 0100 | RGBA_8888    |    0.0    0.0 1080.0  126.0 |    0 2214 1080 2340 | NavigationBar0$_5576#0
+04-19 15:55:22.365  4894  4894 D SurfaceFlinger:      DEVICE | 0x7da135d380 | 0140 | RGBA_8888    |    0.0    0.0 1080.0  151.0 |    0    0 1080  151 | ScreenDecorOverlay$_5576#0
+04-19 15:55:22.365  4894  4894 D SurfaceFlinger:      DEVICE | 0x7da12bf700 | 0140 | RGBA_8888    |    0.0    0.0 1080.0  151.0 |    0 2189 1080 2340 | ScreenDecorOverlayBottom$_5576#0
+04-19 15:55:22.365  4894  4894 D SurfaceFlinger:
+04-19 15:55:22.365  4894  4894 D SurfaceFlinger:
+04-19 15:55:22.378  4894  4894 E SurfaceFlinger: Attempt to update InputPolicyFlags without permission ACCESS_SURFACE_FLINGER
+04-19 15:55:22.380  5983  7988 I ViewRootImpl@f05f80e[LauncherActivity]: mWNT: t = android.view.SurfaceControl$Transaction@3524b1f fN = 12 com.android.systemui.shared.system.ViewRootImplCompat.mergeWithNextTransaction:62 com.android.quickstep.util.SurfaceTransactionApplier.lambda$scheduleApply$0$SurfaceTransactionApplier:94 com.android.quickstep.util.-$$Lambda$SurfaceTransactionApplier$Xj9m0ayWHIr2xvQnKB4EJdxg8RU.accept:6
+04-19 15:55:22.380  5983  7988 I ViewRootImpl@f05f80e[LauncherActivity]: mWNT: merge t to BBQ
+04-19 15:55:22.382  6061  6091 I TestRunner: finished: testQuery_callQueryAndGetExpectedData(com.myapp.alist.db.ListDaoQueryTest)

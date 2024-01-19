@@ -1,0 +1,19 @@
+01-19 17:17:31.784  3761  3781 I TestRunner: started: testQuery_callQueryAndGetExpectedData(com.myapp.alist.db.ListDaoQueryTest)
+01-19 17:17:31.785  3910  3910 I ViewRootImpl@96d7258[InstrumentationActivityInvoker$EmptyActivity]: handleAppVisibility mAppVisible=true visible=false
+01-19 17:17:31.794  4945  4945 E SurfaceFlinger: Attempt to update InputPolicyFlags without permission ACCESS_SURFACE_FLINGER
+01-19 17:17:31.794  4945  4945 I Layer   : id=4457 removeFromCurrentState Surface(name=Task=54)/@0x3bc7424 - animation-leash of app_transition#0 (108)
+01-19 17:17:31.794  4945  4945 I Layer   : id=4459 removeFromCurrentState Surface(name=WallpaperWindowToken{7d4c261 token=android.os.Binder@7f061c8})/@0xce4e4d1 - animation-leash of window_animation#0 (108)
+01-19 17:17:31.794  4945  4945 I Layer   : id=4458 removeFromCurrentState Surface(name=Task=1)/@0xd2ed749 - animation-leash of app_transition#0 (108)
+01-19 17:17:31.797  3910  3931 D OpenGLRenderer: setSurface called with nullptr
+01-19 17:17:31.797  3910  3931 D OpenGLRenderer: setSurface() destroyed EGLSurface
+01-19 17:17:31.798  3910  3931 D OpenGLRenderer: destroyEglSurface
+01-19 17:17:31.804  5249  5761 V WindowManager: Relayout Window{84dffa6 u0 com.myapp.alist.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity}: viewVisibility=8 req=1080x2340 d0
+01-19 17:17:31.808  5249  5761 V WindowManager: Relayout hash=84dffa6, pid=3910: mAttrs={(0,0)(fillxfill) sim={adjust=pan forwardNavigation} ty=BASE_APPLICATION
+01-19 17:17:31.808  5249  5761 V WindowManager:   fl=81810100
+01-19 17:17:31.808  5249  5761 V WindowManager:   pfl=12020040
+01-19 17:17:31.808  5249  5761 V WindowManager:   apr=LIGHT_NAVIGATION_BARS
+01-19 17:17:31.808  5249  5761 V WindowManager:   bhv=DEFAULT
+01-19 17:17:31.808  5249  5761 V WindowManager:   fitSides= naviIconColor=0
+01-19 17:17:31.808  5249  5761 V WindowManager:   sfl=100000}
+01-19 17:17:31.818  7974  7974 I HBD     : c bee animation finished cnt=-2 2131231884
+01-19 17:17:31.819  3761  3781 I TestRunner: finished: testQuery_callQueryAndGetExpectedData(com.myapp.alist.db.ListDaoQueryTest)

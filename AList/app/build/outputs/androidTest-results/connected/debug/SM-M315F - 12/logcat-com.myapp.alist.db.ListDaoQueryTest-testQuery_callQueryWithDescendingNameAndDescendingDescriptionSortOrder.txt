@@ -1,0 +1,5 @@
+01-19 17:17:31.732  3761  3781 I TestRunner: started: testQuery_callQueryWithDescendingNameAndDescendingDescriptionSortOrder(com.myapp.alist.db.ListDaoQueryTest)
+01-19 17:17:31.744  4945  4945 E SurfaceFlinger: Attempt to update InputPolicyFlags without permission ACCESS_SURFACE_FLINGER
+01-19 17:17:31.746  6080  8371 I ViewRootImpl@e7cd915[LauncherActivity]: mWNT: t = android.view.SurfaceControl$Transaction@9271b9f fN = 14 com.android.systemui.shared.system.ViewRootImplCompat.mergeWithNextTransaction:62 com.android.quickstep.util.SurfaceTransactionApplier.lambda$scheduleApply$0$SurfaceTransactionApplier:94 com.android.quickstep.util.-$$Lambda$SurfaceTransactionApplier$Xj9m0ayWHIr2xvQnKB4EJdxg8RU.accept:6
+01-19 17:17:31.746  6080  8371 I ViewRootImpl@e7cd915[LauncherActivity]: mWNT: merge t to BBQ
+01-19 17:17:31.755  3761  3781 I TestRunner: finished: testQuery_callQueryWithDescendingNameAndDescendingDescriptionSortOrder(com.myapp.alist.db.ListDaoQueryTest)

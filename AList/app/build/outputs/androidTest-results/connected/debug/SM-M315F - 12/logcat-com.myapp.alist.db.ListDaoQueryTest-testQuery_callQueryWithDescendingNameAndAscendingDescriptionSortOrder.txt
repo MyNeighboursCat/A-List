@@ -1,0 +1,17 @@
+01-19 17:17:31.857  3761  3781 I TestRunner: started: testQuery_callQueryWithDescendingNameAndAscendingDescriptionSortOrder(com.myapp.alist.db.ListDaoQueryTest)
+01-19 17:17:31.857  6080  6080 I RecentsView: onTaskRemoved() taskId : 54
+01-19 17:17:31.858  6080  6080 I RecentsView: onTaskRemoved() taskId : 54
+01-19 17:17:31.861  4945  4945 I Layer   : id=4442 removeFromCurrentState com.myapp.alist.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity$_3910#0 (109)
+01-19 17:17:31.861  4945  4945 I Layer   : id=4441 removeFromCurrentState 84dffa6 com.myapp.alist.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity#0 (109)
+01-19 17:17:31.861  4945  4945 I Layer   : id=4435 removeFromCurrentState ActivityRecord{336a61b u0 com.myapp.alist.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity t54}#0 (109)
+01-19 17:17:31.861  4945  4945 I Layer   : id=4434 removeFromCurrentState Task=54#0 (109)
+01-19 17:17:31.861  4945  4945 I Layer   : id=4461 removeFromCurrentState Task=54#1 (109)
+01-19 17:17:31.861  4945  4945 I SurfaceFlinger: id=4435 Removed ActivityRecord{336a61b u0 com.myapp.alist.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity t54}#0 (109)
+01-19 17:17:31.861  4945  4945 I SurfaceFlinger: id=4461 Removed Task=54#1 (109)
+01-19 17:17:31.861  4945  4945 I SurfaceFlinger: id=4441 Removed 84dffa6 com.myapp.alist.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity#0 (109)
+01-19 17:17:31.861  4945  4945 I SurfaceFlinger: id=4442 Removed com.myapp.alist.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity$_3910#0 (109)
+01-19 17:17:31.861  4945  4945 I Layer   : id=4461 Destroyed Task=54#1
+01-19 17:17:31.861  4945  4945 I Layer   : id=4441 Destroyed 84dffa6 com.myapp.alist.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity#0
+01-19 17:17:31.862  4945  4945 I Layer   : id=4442 Destroyed com.myapp.alist.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity$_3910#0
+01-19 17:17:31.862  4945  4945 I Layer   : id=4435 Destroyed ActivityRecord{336a61b u0 com.myapp.alist.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity t54}#0
+01-19 17:17:31.885  3761  3781 I TestRunner: finished: testQuery_callQueryWithDescendingNameAndAscendingDescriptionSortOrder(com.myapp.alist.db.ListDaoQueryTest)

@@ -1,0 +1,2 @@
+01-19 17:17:31.990  3761  3781 I TestRunner: started: testVerifyValues_callVerifyValuesWithMissingCategory(com.myapp.alist.db.ListEntityVerifyValuesTest)
+01-19 17:17:31.993  3761  3781 I TestRunner: finished: testVerifyValues_callVerifyValuesWithMissingCategory(com.myapp.alist.db.ListEntityVerifyValuesTest)
